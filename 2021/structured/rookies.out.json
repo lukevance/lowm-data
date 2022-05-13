@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Najee Harris",
+    "starts": 13,
+    "benched": 1,
+    "totalPoints": "211.00",
+    "startPoints": "211.00",
+    "benchPoints": "0.00"
+  },
+  {
+    "name": "Ja'Marr Chase",
+    "starts": 10,
+    "benched": 4,
+    "totalPoints": "193.60",
+    "startPoints": "142.30",
+    "benchPoints": "51.30"
+  },
+  {
+    "name": "Jaylen Waddle",
+    "starts": 12,
+    "benched": 2,
+    "totalPoints": "156.20",
+    "startPoints": "142.10",
+    "benchPoints": "14.10"
+  },
+  {
+    "name": "Javonte Williams",
+    "starts": 9,
+    "benched": 5,
+    "totalPoints": "153.20",
+    "startPoints": "112.60",
+    "benchPoints": "40.60"
+  },
+  {
+    "name": "DeVonta Smith",
+    "starts": 6,
+    "benched": 8,
+    "totalPoints": "119.10",
+    "startPoints": "47.10",
+    "benchPoints": "72.00"
+  },
+  {
+    "name": "Kyle Pitts",
+    "starts": 13,
+    "benched": 1,
+    "totalPoints": "110.00",
+    "startPoints": "110.00",
+    "benchPoints": "0.00"
+  },
+  {
+    "name": "Justin Fields",
+    "starts": 1,
+    "benched": 11,
+    "totalPoints": "99.54",
+    "startPoints": "20.14",
+    "benchPoints": "79.40"
+  },
+  {
+    "name": "Rondale Moore",
+    "starts": 10,
+    "benched": 4,
+    "totalPoints": "79.60",
+    "startPoints": "44.70",
+    "benchPoints": "34.90"
+  },
+  {
+    "name": "Elijah Moore",
+    "starts": 0,
+    "benched": 7,
+    "totalPoints": "69.30",
+    "startPoints": "0.00",
+    "benchPoints": "69.30"
+  },
+  {
+    "name": "Trevor Lawrence",
+    "starts": 0,
+    "benched": 4,
+    "totalPoints": "61.12",
+    "startPoints": "0.00",
+    "benchPoints": "61.12"
+  },
+  {
+    "name": "Rhamondre Stevenson",
+    "starts": 2,
+    "benched": 8,
+    "totalPoints": "59.10",
+    "startPoints": "33.40",
+    "benchPoints": "25.70"
+  },
+  {
+    "name": "Trey Sermon",
+    "starts": 1,
+    "benched": 8,
+    "totalPoints": "26.80",
+    "startPoints": "8.90",
+    "benchPoints": "17.90"
+  },
+  {
+    "name": "Trey Lance",
+    "starts": 0,
+    "benched": 0,
+    "totalPoints": "0.00",
+    "startPoints": "0.00",
+    "benchPoints": "0.00"
+  }
+]

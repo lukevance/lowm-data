@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "abbrev": "BDE",
+        "name": "Big Nick Energy",
+        "logo": "https://www.nbcsports.com/sites/nbcsports.com/files/2018/10/03/playernews_roto_nickchubb_181003.jpg"
+    },
+    {
+        "id": 2,
+        "abbrev": "DEMO",
+        "name": "St Charles 69ers",
+        "logo": "https://g.espncdn.com/lm-static/logo-packs/core/Sneakerhead-ESPN/sneakerhead-02.svg"
+    },
+    {
+        "id": 3,
+        "abbrev": "JDT",
+        "name": "fore PLAY",
+        "logo": "https://media.gq.com/photos/57348ed23b962bcc4df804ad/master/pass/gronk-gq-0616-2.jpg"
+    },
+    {
+        "id": 4,
+        "abbrev": "ARS",
+        "name": "Golaso King Seabass",
+        "logo": "https://karllusbec.files.wordpress.com/2012/03/arsenal-fc-logo.png"
+    },
+    {
+        "id": 5,
+        "abbrev": "DDB",
+        "name": "Hurts So Good",
+        "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg"
+    },
+    {
+        "id": 6,
+        "abbrev": "PAT",
+        "name": "Freiermuth Gong Show",
+        "logo": "https://pbs.twimg.com/media/FAkWg-FXsAADzR7.jpg"
+    },
+    {
+        "id": 7,
+        "abbrev": "TRAV",
+        "name": "I Kelce Clearly Now",
+        "logo": "https://www.provolove.com/static/kelce-a14a2654a01eef25c6818592bde5c904.jpg"
+    },
+    {
+        "id": 8,
+        "abbrev": "NATE",
+        "name": "La La Land",
+        "logo": "https://cdnph.upi.com/svc/sv/upi/4521587491107/2020/1/fe165ef8fe2cda96271adf44628faacc/Ravens-Lamar-Jackson-to-be-Madden-21-cover-star.jpg"
+    },
+    {
+        "id": 9,
+        "abbrev": "GJ",
+        "name": "Game of Jones",
+        "logo": "http://4.bp.blogspot.com/-JGxqdpeSPKs/ViRRmS_IEaI/AAAAAAAAAF0/6jMMKEutzBY/s1600/darth_vader1c.jpg"
+    },
+    {
+        "id": 10,
+        "abbrev": "OC",
+        "name": "The Tiger  King",
+        "logo": "https://i.redd.it/s5an7o6klnu41.jpg"
+    }
+]
