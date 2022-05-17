@@ -1,4 +1,4 @@
-const weeklyRosters2021 = require('./weeklyRosters/index.js');
+const {regularSeason, postSeason} = require('./weeklyRosters');
 
 const scheduleTeamHomeOrAway = (game, teamId) => {
     if (game.away.teamId === teamId){
@@ -66,6 +66,10 @@ const onlyPlayerGames = weekJson => {
     return teamsWithGames.map(team => team.schedule[0].roster.players).flat(2);
 };
 
-const allWeeks = weeklyRosters2021.regularSeason.map(wk => onlyPlayerGames(wk)).flat(1);
+const allWeeks = regularSeason.concat(postSeason)
+                    .map(wk => onlyPlayerGames(wk))
+                    .flat(1);
 
-module.exports = allWeeks;
+// module.exports = allWeeks;
+
+console.log(allWeeks.length);
