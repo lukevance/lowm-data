@@ -1,23 +1,47 @@
-const sleeperDraft = require('./draft/sleeper.json');
+const sleeperDraft2021 = require('./draft/sleeper.json');
 
-const completeDraftOrder = sleeper => {
-    const totalPicks = sleeper.get_draft.settings.rounds * sleeper.get_draft.settings.teams;
-    const array = Object.keys(sleeperDraft.get_draft.draft_order)
+const getCompleteDraftOrder = sleeper => {
+    const oddRoundArr = Object.keys(sleeper.get_draft.draft_order)
                                 .map((id, i, arr) => {
-                                    return {id:id, num: sleeperDraft.get_draft.draft_order[id]}
+                                    return {id:id, num: sleeper.get_draft.draft_order[id]}
+                                })
+                                .sort((a,b) => a.num - b.num);
+    const evenRoundArr = oddRoundArr.slice().reverse();
+    // create an array with accurate number of rounds, then fill with odd and even snake pattern
+    const allRoundsArray = Array(sleeper.get_draft.settings.rounds)
+                                .fill()
+                                .map((nothing, i) => {   
+                                    const picks = ((i + 1) % 2) == 0 ? evenRoundArr : oddRoundArr;
+                                    return picks.slice().map(pick => {
+                                        pick.round = Number(i + 1);
+                                        return pick;
+                                    });
                                 });
-    // TODO create an array of teams through 2 rounds, cycle through and assign picks
-        return array;
-}
+    // convert array of rounds to flat array of picks with round data and overall pick number included
+    const allPicks = allRoundsArray.flat().map((pick, i) => {
+        return {
+            teamId: pick.id,
+            pickNo: i + 1,
+            round: pick.round,
+            positionInRound: pick.num
+        }
+    });
+    return allPicks;
+};
+
+console.log(getCompleteDraftOrder(sleeperDraft2021));
 
 // const getPicks = sleeperJSON => {
+//     const completeDraftOrder = getCompleteDraftOrder(sleeperJSON);
 //     const picks = sleeperJSON.draft_picks.map(pick => {
-//         const draftedBy = sleeperJSON.user_drafts_by_draft.find(user => user.user_id === pick.picked_by);
-//         const draftedByName = draftedBy ? draftedBy.user_display_name : 'autopick';
-//         // console.log(draftedBy);
+//         const selectedByUserObj = sleeperJSON.user_drafts_by_draft.find(user => user.user_id === pick.picked_by);
+//         const selectedByName = selectedByUserObj ? selectedByUserObj.user_display_name : 'autopick';
 //         return {
 //             pick_no: pick.pick_no,
-//             picked_by: draftedByName,
+//             round_no: completeDraftOrder[pick.pick_no - 1].round,
+//             team_drafted_id: completeDraftOrder[pick.pick_no - 1].teamId,
+//             team_draft_user_name: sleeperJSON.user_drafts_by_draft.find(user => user.user_id === completeDraftOrder[pick.pick_no - 1].teamId).user_display_name,
+//             picked_by: selectedByName,
 //             player_id: pick.player_id,
 //             player_name: pick.metadata.first_name + " " + pick.metadata.last_name,
 //             player_position: pick.metadata.position,
@@ -27,6 +51,6 @@ const completeDraftOrder = sleeper => {
 //     return picks;
 // };
 
+// const draftBoard2021 = getPicks(sleeperDraft2021);
 
-// console.log(JSON.stringify(getPicks(sleeperDraft)));
-console.log(completeDraftOrder(sleeperDraft));
+// module.exports = draftBoard2021;
