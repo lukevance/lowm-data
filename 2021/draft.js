@@ -1,9 +1,5 @@
 const sleeperDraft2021 = require('./draft/sleeper.json');
 
-// const calculateRound = (pickNo => {
-//     if (pickNo % 10 )
-// }
-
 const getCompleteDraftOrder = sleeper => {
     const oddRoundArr = Object.keys(sleeper.get_draft.draft_order)
                                 .map((id, i, arr) => {

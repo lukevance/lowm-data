@@ -37,20 +37,24 @@ const statByPosition = weekJson => {
             // modify roster for simplified view of players
             const roster = game[scheduleTeamHomeOrAway(game, team.id)].rosterForCurrentScoringPeriod;
             // create simplified "players" array as part of roster obj
-            roster.players = roster.entries.map(entry => {
-                return {
-                    id: `pl${entry.playerPoolEntry.id}wk${game.matchupPeriodId}`,
-                    team: team.id,
-                    week: game.matchupPeriodId,
-                    position: positionIdToString(entry.playerPoolEntry.player.defaultPositionId),
-                    name: entry.playerPoolEntry.player.fullName,
-                    playerId: entry.playerPoolEntry.id,
-                    points: entry.playerPoolEntry.appliedStatTotal.toFixed(2) * 1,
-                    starter: Boolean(entry.lineupSlotId !== 20)
-                }
-            });
-            // rm bloated entry array from roster obj
-            delete roster.entries;
+            if (roster) {
+                roster.players = roster.entries.map(entry => {
+                    return {
+                        id: `pl${entry.playerPoolEntry.id}wk${game.matchupPeriodId}`,
+                        team: team.id,
+                        week: game.matchupPeriodId,
+                        position: positionIdToString(entry.playerPoolEntry.player.defaultPositionId),
+                        name: entry.playerPoolEntry.player.fullName,
+                        playerId: entry.playerPoolEntry.id,
+                        points: entry.playerPoolEntry.appliedStatTotal.toFixed(2) * 1,
+                        starter: Boolean(entry.lineupSlotId !== 20)
+                    }
+                });
+                // rm bloated entry array from roster obj
+                delete roster.entries;
+            } else {
+                console.log(`week ${game.matchupPeriodId} and team ${team.id}`);
+            }
             return {
                 week: game.matchupPeriodId,
                 roster: roster
@@ -66,10 +70,11 @@ const onlyPlayerGames = weekJson => {
     return teamsWithGames.map(team => team.schedule[0].roster.players).flat(2);
 };
 
-const allWeeks = regularSeason.concat(postSeason)
-                    .map(wk => onlyPlayerGames(wk))
-                    .flat(1);
+// const allWeeks = regularSeason.concat(postSeason)
+//                     .map(wk => onlyPlayerGames(wk))
+//                     .flat(1);
 
-// module.exports = allWeeks;
+const regularSeasonRosters = regularSeason.map(wk => onlyPlayerGames(wk)).flat(1);
 
-console.log(allWeeks.length);
+module.exports = regularSeasonRosters;
+// console.log(regularSeasonRosters)
