@@ -1,7 +1,7 @@
 [
     {
         "pick_no": 1,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "Comish11",
@@ -12,7 +12,7 @@
     },
     {
         "pick_no": 2,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "FantasyGOATx3",
@@ -23,7 +23,7 @@
     },
     {
         "pick_no": 3,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "Comish11",
@@ -34,7 +34,7 @@
     },
     {
         "pick_no": 4,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -45,7 +45,7 @@
     },
     {
         "pick_no": 5,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Comish11",
@@ -56,7 +56,7 @@
     },
     {
         "pick_no": 6,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "Comish11",
@@ -67,7 +67,7 @@
     },
     {
         "pick_no": 7,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -78,7 +78,7 @@
     },
     {
         "pick_no": 8,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "Comish11",
@@ -89,7 +89,7 @@
     },
     {
         "pick_no": 9,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -100,7 +100,7 @@
     },
     {
         "pick_no": 10,
-        "round_no": 16,
+        "round_no": 1,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -111,7 +111,7 @@
     },
     {
         "pick_no": 11,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -122,7 +122,7 @@
     },
     {
         "pick_no": 12,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -133,7 +133,7 @@
     },
     {
         "pick_no": 13,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -144,7 +144,7 @@
     },
     {
         "pick_no": 14,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -155,7 +155,7 @@
     },
     {
         "pick_no": 15,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -166,7 +166,7 @@
     },
     {
         "pick_no": 16,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "autopick",
@@ -177,7 +177,7 @@
     },
     {
         "pick_no": 17,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -188,7 +188,7 @@
     },
     {
         "pick_no": 18,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "Comish11",
@@ -199,7 +199,7 @@
     },
     {
         "pick_no": 19,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "FantasyGOATx3",
@@ -210,7 +210,7 @@
     },
     {
         "pick_no": 20,
-        "round_no": 16,
+        "round_no": 2,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -221,7 +221,7 @@
     },
     {
         "pick_no": 21,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -232,7 +232,7 @@
     },
     {
         "pick_no": 22,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "autopick",
@@ -243,7 +243,7 @@
     },
     {
         "pick_no": 23,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -254,7 +254,7 @@
     },
     {
         "pick_no": 24,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -265,7 +265,7 @@
     },
     {
         "pick_no": 25,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Comish11",
@@ -276,7 +276,7 @@
     },
     {
         "pick_no": 26,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -287,7 +287,7 @@
     },
     {
         "pick_no": 27,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -298,7 +298,7 @@
     },
     {
         "pick_no": 28,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -309,7 +309,7 @@
     },
     {
         "pick_no": 29,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -320,7 +320,7 @@
     },
     {
         "pick_no": 30,
-        "round_no": 16,
+        "round_no": 3,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -331,7 +331,7 @@
     },
     {
         "pick_no": 31,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -342,7 +342,7 @@
     },
     {
         "pick_no": 32,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -353,7 +353,7 @@
     },
     {
         "pick_no": 33,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -364,7 +364,7 @@
     },
     {
         "pick_no": 34,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -375,7 +375,7 @@
     },
     {
         "pick_no": 35,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -386,7 +386,7 @@
     },
     {
         "pick_no": 36,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Comish11",
@@ -397,7 +397,7 @@
     },
     {
         "pick_no": 37,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -408,7 +408,7 @@
     },
     {
         "pick_no": 38,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -419,7 +419,7 @@
     },
     {
         "pick_no": 39,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -430,7 +430,7 @@
     },
     {
         "pick_no": 40,
-        "round_no": 16,
+        "round_no": 4,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "Comish11",
@@ -441,7 +441,7 @@
     },
     {
         "pick_no": 41,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "Comish11",
@@ -452,7 +452,7 @@
     },
     {
         "pick_no": 42,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -463,7 +463,7 @@
     },
     {
         "pick_no": 43,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "Comish11",
@@ -474,7 +474,7 @@
     },
     {
         "pick_no": 44,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -485,7 +485,7 @@
     },
     {
         "pick_no": 45,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Comish11",
@@ -496,7 +496,7 @@
     },
     {
         "pick_no": 46,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -507,7 +507,7 @@
     },
     {
         "pick_no": 47,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -518,7 +518,7 @@
     },
     {
         "pick_no": 48,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "Comish11",
@@ -529,7 +529,7 @@
     },
     {
         "pick_no": 49,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -540,7 +540,7 @@
     },
     {
         "pick_no": 50,
-        "round_no": 16,
+        "round_no": 5,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -551,7 +551,7 @@
     },
     {
         "pick_no": 51,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -562,7 +562,7 @@
     },
     {
         "pick_no": 52,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "Comish11",
@@ -573,7 +573,7 @@
     },
     {
         "pick_no": 53,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -584,7 +584,7 @@
     },
     {
         "pick_no": 54,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -595,7 +595,7 @@
     },
     {
         "pick_no": 55,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -606,7 +606,7 @@
     },
     {
         "pick_no": 56,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -617,7 +617,7 @@
     },
     {
         "pick_no": 57,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -628,7 +628,7 @@
     },
     {
         "pick_no": 58,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -639,7 +639,7 @@
     },
     {
         "pick_no": 59,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -650,7 +650,7 @@
     },
     {
         "pick_no": 60,
-        "round_no": 16,
+        "round_no": 6,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -661,7 +661,7 @@
     },
     {
         "pick_no": 61,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -672,7 +672,7 @@
     },
     {
         "pick_no": 62,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -683,7 +683,7 @@
     },
     {
         "pick_no": 63,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -694,7 +694,7 @@
     },
     {
         "pick_no": 64,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -705,7 +705,7 @@
     },
     {
         "pick_no": 65,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -716,7 +716,7 @@
     },
     {
         "pick_no": 66,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -727,7 +727,7 @@
     },
     {
         "pick_no": 67,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -738,7 +738,7 @@
     },
     {
         "pick_no": 68,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -749,7 +749,7 @@
     },
     {
         "pick_no": 69,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "Comish11",
@@ -760,7 +760,7 @@
     },
     {
         "pick_no": 70,
-        "round_no": 16,
+        "round_no": 7,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -771,7 +771,7 @@
     },
     {
         "pick_no": 71,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -782,7 +782,7 @@
     },
     {
         "pick_no": 72,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -793,7 +793,7 @@
     },
     {
         "pick_no": 73,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -804,7 +804,7 @@
     },
     {
         "pick_no": 74,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -815,7 +815,7 @@
     },
     {
         "pick_no": 75,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "Comish11",
@@ -826,7 +826,7 @@
     },
     {
         "pick_no": 76,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -837,7 +837,7 @@
     },
     {
         "pick_no": 77,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -848,7 +848,7 @@
     },
     {
         "pick_no": 78,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -859,7 +859,7 @@
     },
     {
         "pick_no": 79,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -870,7 +870,7 @@
     },
     {
         "pick_no": 80,
-        "round_no": 16,
+        "round_no": 8,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -881,7 +881,7 @@
     },
     {
         "pick_no": 81,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -892,7 +892,7 @@
     },
     {
         "pick_no": 82,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "autopick",
@@ -903,7 +903,7 @@
     },
     {
         "pick_no": 83,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -914,7 +914,7 @@
     },
     {
         "pick_no": 84,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -925,7 +925,7 @@
     },
     {
         "pick_no": 85,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -936,7 +936,7 @@
     },
     {
         "pick_no": 86,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -947,7 +947,7 @@
     },
     {
         "pick_no": 87,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -958,7 +958,7 @@
     },
     {
         "pick_no": 88,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -969,7 +969,7 @@
     },
     {
         "pick_no": 89,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -980,7 +980,7 @@
     },
     {
         "pick_no": 90,
-        "round_no": 16,
+        "round_no": 9,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -991,7 +991,7 @@
     },
     {
         "pick_no": 91,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "Comish11",
@@ -1002,7 +1002,7 @@
     },
     {
         "pick_no": 92,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1013,7 +1013,7 @@
     },
     {
         "pick_no": 93,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1024,7 +1024,7 @@
     },
     {
         "pick_no": 94,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1035,7 +1035,7 @@
     },
     {
         "pick_no": 95,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1046,7 +1046,7 @@
     },
     {
         "pick_no": 96,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -1057,7 +1057,7 @@
     },
     {
         "pick_no": 97,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "autopick",
@@ -1068,7 +1068,7 @@
     },
     {
         "pick_no": 98,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1079,7 +1079,7 @@
     },
     {
         "pick_no": 99,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1090,7 +1090,7 @@
     },
     {
         "pick_no": 100,
-        "round_no": 16,
+        "round_no": 10,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1101,7 +1101,7 @@
     },
     {
         "pick_no": 101,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1112,7 +1112,7 @@
     },
     {
         "pick_no": 102,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1123,7 +1123,7 @@
     },
     {
         "pick_no": 103,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1134,7 +1134,7 @@
     },
     {
         "pick_no": 104,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -1145,7 +1145,7 @@
     },
     {
         "pick_no": 105,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Comish11",
@@ -1156,7 +1156,7 @@
     },
     {
         "pick_no": 106,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1167,7 +1167,7 @@
     },
     {
         "pick_no": 107,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1178,7 +1178,7 @@
     },
     {
         "pick_no": 108,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1189,7 +1189,7 @@
     },
     {
         "pick_no": 109,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1200,7 +1200,7 @@
     },
     {
         "pick_no": 110,
-        "round_no": 16,
+        "round_no": 11,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -1211,7 +1211,7 @@
     },
     {
         "pick_no": 111,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -1222,7 +1222,7 @@
     },
     {
         "pick_no": 112,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1233,7 +1233,7 @@
     },
     {
         "pick_no": 113,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1244,7 +1244,7 @@
     },
     {
         "pick_no": 114,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1255,7 +1255,7 @@
     },
     {
         "pick_no": 115,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1266,7 +1266,7 @@
     },
     {
         "pick_no": 116,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -1277,7 +1277,7 @@
     },
     {
         "pick_no": 117,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -1288,7 +1288,7 @@
     },
     {
         "pick_no": 118,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1299,7 +1299,7 @@
     },
     {
         "pick_no": 119,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1310,7 +1310,7 @@
     },
     {
         "pick_no": 120,
-        "round_no": 16,
+        "round_no": 12,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1321,7 +1321,7 @@
     },
     {
         "pick_no": 121,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1332,7 +1332,7 @@
     },
     {
         "pick_no": 122,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1343,7 +1343,7 @@
     },
     {
         "pick_no": 123,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1354,7 +1354,7 @@
     },
     {
         "pick_no": 124,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -1365,7 +1365,7 @@
     },
     {
         "pick_no": 125,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -1376,7 +1376,7 @@
     },
     {
         "pick_no": 126,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1387,7 +1387,7 @@
     },
     {
         "pick_no": 127,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1398,7 +1398,7 @@
     },
     {
         "pick_no": 128,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1409,7 +1409,7 @@
     },
     {
         "pick_no": 129,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1420,7 +1420,7 @@
     },
     {
         "pick_no": 130,
-        "round_no": 16,
+        "round_no": 13,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -1431,7 +1431,7 @@
     },
     {
         "pick_no": 131,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
@@ -1442,7 +1442,7 @@
     },
     {
         "pick_no": 132,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1453,7 +1453,7 @@
     },
     {
         "pick_no": 133,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1464,7 +1464,7 @@
     },
     {
         "pick_no": 134,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1475,7 +1475,7 @@
     },
     {
         "pick_no": 135,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1486,7 +1486,7 @@
     },
     {
         "pick_no": 136,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -1497,7 +1497,7 @@
     },
     {
         "pick_no": 137,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -1508,7 +1508,7 @@
     },
     {
         "pick_no": 138,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1519,7 +1519,7 @@
     },
     {
         "pick_no": 139,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1530,7 +1530,7 @@
     },
     {
         "pick_no": 140,
-        "round_no": 16,
+        "round_no": 14,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1541,7 +1541,7 @@
     },
     {
         "pick_no": 141,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "740422713507807232",
         "team_draft_user_name": "drdadbod",
         "picked_by": "drdadbod",
@@ -1552,7 +1552,7 @@
     },
     {
         "pick_no": 142,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "203653162899349504",
         "team_draft_user_name": "FantasyGOATx3",
         "picked_by": "Comish11",
@@ -1563,7 +1563,7 @@
     },
     {
         "pick_no": 143,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "471494369451438080",
         "team_draft_user_name": "DeMo5",
         "picked_by": "DeMo5",
@@ -1574,7 +1574,7 @@
     },
     {
         "pick_no": 144,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "471492069110575104",
         "team_draft_user_name": "willydawg71088",
         "picked_by": "Comish11",
@@ -1585,7 +1585,7 @@
     },
     {
         "pick_no": 145,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "461346738695827456",
         "team_draft_user_name": "Nserrrr",
         "picked_by": "Nserrrr",
@@ -1596,7 +1596,7 @@
     },
     {
         "pick_no": 146,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "601879432004694016",
         "team_draft_user_name": "mikeoc2891",
         "picked_by": "mikeoc2891",
@@ -1607,7 +1607,7 @@
     },
     {
         "pick_no": 147,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "470085298420707328",
         "team_draft_user_name": "Comish11",
         "picked_by": "Comish11",
@@ -1618,7 +1618,7 @@
     },
     {
         "pick_no": 148,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "601795389573627904",
         "team_draft_user_name": "tink2020",
         "picked_by": "tink2020",
@@ -1629,7 +1629,7 @@
     },
     {
         "pick_no": 149,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "605551105107124224",
         "team_draft_user_name": "GolasoKing",
         "picked_by": "GolasoKing",
@@ -1640,7 +1640,7 @@
     },
     {
         "pick_no": 150,
-        "round_no": 16,
+        "round_no": 15,
         "team_drafted_id": "739690998808096768",
         "team_draft_user_name": "provolove69",
         "picked_by": "provolove69",
