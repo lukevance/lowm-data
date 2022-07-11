@@ -7,6 +7,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 151.3,
+        "started_points": 151.3,
         "drafted_round": 1,
         "sleeper_id": "4988"
     },
@@ -18,6 +20,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 316.67999999999995,
+        "started_points": 316.67999999999995,
         "drafted_round": 2,
         "sleeper_id": "4046"
     },
@@ -29,6 +33,8 @@
         ],
         "starts": 7,
         "benched": 2,
+        "total_points": 114.7,
+        "started_points": 82.70000000000002,
         "drafted_round": 3,
         "sleeper_id": "1352"
     },
@@ -41,6 +47,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 151.3,
+        "started_points": 151.3,
         "drafted_round": 4,
         "sleeper_id": "5846"
     },
@@ -53,6 +61,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 161.9,
+        "started_points": 151.4,
         "drafted_round": 5,
         "sleeper_id": "1479"
     },
@@ -64,6 +74,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 114.80000000000001,
+        "started_points": 114.80000000000001,
         "drafted_round": 6,
         "sleeper_id": "5844"
     },
@@ -76,6 +88,8 @@
         ],
         "starts": 2,
         "benched": 5,
+        "total_points": 29.9,
+        "started_points": 3.4999999999999996,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -88,6 +102,8 @@
         ],
         "starts": 4,
         "benched": 10,
+        "total_points": 111.8,
+        "started_points": 44.7,
         "drafted_round": 8,
         "sleeper_id": "7607"
     },
@@ -99,6 +115,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 217.30000000000004,
+        "started_points": 176.8,
         "drafted_round": 9,
         "sleeper_id": "5872"
     },
@@ -110,6 +128,8 @@
         ],
         "starts": 4,
         "benched": 9,
+        "total_points": 80.9,
+        "started_points": 53,
         "drafted_round": 10,
         "sleeper_id": "536"
     },
@@ -121,6 +141,8 @@
         ],
         "starts": 6,
         "benched": 8,
+        "total_points": 155.8,
+        "started_points": 67.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -132,6 +154,8 @@
         ],
         "starts": 3,
         "benched": 11,
+        "total_points": 89.49999999999999,
+        "started_points": 62.800000000000004,
         "drafted_round": 12,
         "sleeper_id": "5987"
     },
@@ -144,6 +168,8 @@
         ],
         "starts": 1,
         "benched": 8,
+        "total_points": 47.89999999999999,
+        "started_points": 4.7,
         "drafted_round": 13,
         "sleeper_id": "6989"
     },
@@ -158,6 +184,8 @@
         ],
         "starts": 6,
         "benched": 0,
+        "total_points": 10,
+        "started_points": 10,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -169,6 +197,8 @@
         ],
         "starts": 1,
         "benched": 4,
+        "total_points": 13.399999999999999,
+        "started_points": 2.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -181,6 +211,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 11.6,
+        "started_points": 9.2,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -192,6 +224,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 207.4,
+        "started_points": 207.4,
         "drafted_round": 1,
         "sleeper_id": "2133"
     },
@@ -203,6 +237,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 126.2,
+        "started_points": 126.2,
         "drafted_round": 2,
         "sleeper_id": "1426"
     },
@@ -214,6 +250,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 83.30000000000001,
+        "started_points": 76.3,
         "drafted_round": 3,
         "sleeper_id": "6151"
     },
@@ -225,6 +263,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 170.1,
+        "started_points": 170.1,
         "drafted_round": 4,
         "sleeper_id": "5012"
     },
@@ -236,6 +276,8 @@
         ],
         "starts": 6,
         "benched": 8,
+        "total_points": 99,
+        "started_points": 58.89999999999999,
         "drafted_round": 5,
         "sleeper_id": "4098"
     },
@@ -247,6 +289,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 308.46,
+        "started_points": 308.46,
         "drafted_round": 6,
         "sleeper_id": "96"
     },
@@ -258,6 +302,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 2,
+        "started_points": 2,
         "drafted_round": 7,
         "sleeper_id": "2749"
     },
@@ -269,6 +315,8 @@
         ],
         "starts": 7,
         "benched": 7,
+        "total_points": 122.99999999999999,
+        "started_points": 81.2,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -280,6 +328,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 79.6,
+        "started_points": 44.7,
         "drafted_round": 9,
         "sleeper_id": "7601"
     },
@@ -291,6 +341,8 @@
         ],
         "starts": 1,
         "benched": 11,
+        "total_points": 99.53999999999999,
+        "started_points": 20.14,
         "drafted_round": 10,
         "sleeper_id": "7591"
     },
@@ -302,6 +354,8 @@
         ],
         "starts": 1,
         "benched": 13,
+        "total_points": 6.6,
+        "started_points": 1.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -315,6 +369,8 @@
         ],
         "starts": 2,
         "benched": 7,
+        "total_points": 51.900000000000006,
+        "started_points": 18.7,
         "drafted_round": 12,
         "sleeper_id": "5038"
     },
@@ -326,6 +382,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 105.99999999999999,
+        "started_points": 89.79999999999998,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -337,6 +395,8 @@
         ],
         "starts": 3,
         "benched": 11,
+        "total_points": 37,
+        "started_points": 29.4,
         "drafted_round": 14,
         "sleeper_id": "7098"
     },
@@ -348,6 +408,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 56,
+        "started_points": 50,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -360,6 +422,8 @@
         ],
         "starts": 0,
         "benched": 4,
+        "total_points": 40.22,
+        "started_points": 0,
         "drafted_round": 16,
         "sleeper_id": "6768"
     },
@@ -371,6 +435,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 167.7,
+        "started_points": 133,
         "drafted_round": 1,
         "sleeper_id": "4029"
     },
@@ -382,6 +448,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 100.8,
+        "started_points": 92.9,
         "drafted_round": 2,
         "sleeper_id": "4866"
     },
@@ -393,6 +461,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 129,
+        "started_points": 129,
         "drafted_round": 3,
         "sleeper_id": "2309"
     },
@@ -404,6 +474,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 109.99999999999999,
+        "started_points": 109.99999999999999,
         "drafted_round": 4,
         "sleeper_id": "7553"
     },
@@ -415,6 +487,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 178.2,
+        "started_points": 178.2,
         "drafted_round": 5,
         "sleeper_id": "2449"
     },
@@ -426,6 +500,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 143.5,
+        "started_points": 143.5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -437,6 +513,8 @@
         ],
         "starts": 3,
         "benched": 8,
+        "total_points": 42.2,
+        "started_points": 13.7,
         "drafted_round": 7,
         "sleeper_id": "4131"
     },
@@ -448,6 +526,8 @@
         ],
         "starts": 4,
         "benched": 1,
+        "total_points": 27.300000000000004,
+        "started_points": 26.700000000000003,
         "drafted_round": 8,
         "sleeper_id": "4040"
     },
@@ -459,6 +539,8 @@
         ],
         "starts": 5,
         "benched": 7,
+        "total_points": 80.10000000000001,
+        "started_points": 33.599999999999994,
         "drafted_round": 9,
         "sleeper_id": "6845"
     },
@@ -470,6 +552,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 341.82,
+        "started_points": 341.82,
         "drafted_round": 10,
         "sleeper_id": "421"
     },
@@ -483,6 +567,8 @@
         ],
         "starts": 6,
         "benched": 6,
+        "total_points": 97.7,
+        "started_points": 53.1,
         "drafted_round": 11,
         "sleeper_id": "7090"
     },
@@ -495,6 +581,8 @@
         ],
         "starts": 6,
         "benched": 7,
+        "total_points": 79.5,
+        "started_points": 32.9,
         "drafted_round": 12,
         "sleeper_id": "3271"
     },
@@ -506,6 +594,8 @@
         ],
         "starts": 1,
         "benched": 7,
+        "total_points": 72.5,
+        "started_points": 5.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -517,6 +607,8 @@
         ],
         "starts": 1,
         "benched": 8,
+        "total_points": 54,
+        "started_points": 2.8,
         "drafted_round": 14,
         "sleeper_id": "1476"
     },
@@ -528,6 +620,8 @@
         ],
         "starts": 7,
         "benched": 7,
+        "total_points": 131,
+        "started_points": 83,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -539,6 +633,8 @@
         ],
         "starts": 0,
         "benched": 3,
+        "total_points": 65.47999999999999,
+        "started_points": 0,
         "drafted_round": 16,
         "sleeper_id": "2306"
     },
@@ -550,6 +646,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 211,
+        "started_points": 211,
         "drafted_round": 1,
         "sleeper_id": "7528"
     },
@@ -561,6 +659,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 102.8,
+        "started_points": 102.8,
         "drafted_round": 2,
         "sleeper_id": "2505"
     },
@@ -572,6 +672,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 185.49999999999997,
+        "started_points": 185.49999999999997,
         "drafted_round": 3,
         "sleeper_id": "4037"
     },
@@ -583,6 +685,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 278.9,
+        "started_points": 278.9,
         "drafted_round": 4,
         "sleeper_id": "4039"
     },
@@ -594,6 +698,8 @@
         ],
         "starts": 3,
         "benched": 9,
+        "total_points": 71.6,
+        "started_points": 12,
         "drafted_round": 5,
         "sleeper_id": "2431"
     },
@@ -605,6 +711,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 117.10000000000002,
+        "started_points": 108.1,
         "drafted_round": 6,
         "sleeper_id": "5892"
     },
@@ -616,6 +724,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 263.97999999999996,
+        "started_points": 195.39999999999998,
         "drafted_round": 7,
         "sleeper_id": "5849"
     },
@@ -628,6 +738,8 @@
         ],
         "starts": 4,
         "benched": 10,
+        "total_points": 79,
+        "started_points": 23.799999999999997,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -640,6 +752,8 @@
         ],
         "starts": 6,
         "benched": 8,
+        "total_points": 119.10000000000001,
+        "started_points": 47.1,
         "drafted_round": 9,
         "sleeper_id": "7525"
     },
@@ -651,6 +765,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 210.89999999999998,
+        "started_points": 187.1,
         "drafted_round": 10,
         "sleeper_id": "3969"
     },
@@ -663,6 +779,8 @@
         ],
         "starts": 4,
         "benched": 10,
+        "total_points": 106.1,
+        "started_points": 32.199999999999996,
         "drafted_round": 11,
         "sleeper_id": "5022"
     },
@@ -674,6 +792,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 166,
+        "started_points": 138.70000000000002,
         "drafted_round": 12,
         "sleeper_id": "4068"
     },
@@ -686,6 +806,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 13.7,
+        "started_points": 8.4,
         "drafted_round": 13,
         "sleeper_id": "5110"
     },
@@ -697,6 +819,8 @@
         ],
         "starts": 5,
         "benched": 9,
+        "total_points": 376.15999999999997,
+        "started_points": 112.12,
         "drafted_round": 16,
         "sleeper_id": "167"
     },
@@ -709,6 +833,8 @@
         ],
         "starts": 10,
         "benched": 3,
+        "total_points": 74,
+        "started_points": 58,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -720,6 +846,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2.4,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -731,6 +859,8 @@
         ],
         "starts": 7,
         "benched": 7,
+        "total_points": 109,
+        "started_points": 109,
         "drafted_round": 1,
         "sleeper_id": "4034"
     },
@@ -743,6 +873,8 @@
         ],
         "starts": 5,
         "benched": 6,
+        "total_points": 54.900000000000006,
+        "started_points": 30.000000000000004,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -755,6 +887,8 @@
         ],
         "starts": 7,
         "benched": 6,
+        "total_points": 181.43999999999997,
+        "started_points": 149.48,
         "drafted_round": 3,
         "sleeper_id": "1234"
     },
@@ -766,6 +900,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 104.8,
+        "started_points": 104.8,
         "drafted_round": 4,
         "sleeper_id": "515"
     },
@@ -778,6 +914,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 186.30000000000004,
+        "started_points": 186.30000000000004,
         "drafted_round": 5,
         "sleeper_id": "3198"
     },
@@ -789,6 +927,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 110.40000000000002,
+        "started_points": 110.40000000000002,
         "drafted_round": 6,
         "sleeper_id": "6886"
     },
@@ -801,6 +941,8 @@
         ],
         "starts": 9,
         "benched": 2,
+        "total_points": 83.10000000000001,
+        "started_points": 83.10000000000001,
         "drafted_round": 7,
         "sleeper_id": "5000"
     },
@@ -812,6 +954,8 @@
         ],
         "starts": 6,
         "benched": 8,
+        "total_points": 280.9,
+        "started_points": 122.08,
         "drafted_round": 8,
         "sleeper_id": "6904"
     },
@@ -824,6 +968,8 @@
         ],
         "starts": 8,
         "benched": 0,
+        "total_points": 44,
+        "started_points": 44,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -835,6 +981,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 140.9,
+        "started_points": 90.69999999999999,
         "drafted_round": 10,
         "sleeper_id": "2197"
     },
@@ -847,6 +995,8 @@
         ],
         "starts": 1,
         "benched": 12,
+        "total_points": 81.5,
+        "started_points": 8.5,
         "drafted_round": 11,
         "sleeper_id": "4149"
     },
@@ -860,6 +1010,8 @@
         ],
         "starts": 1,
         "benched": 6,
+        "total_points": 51.2,
+        "started_points": 2.8,
         "drafted_round": 12,
         "sleeper_id": "5917"
     },
@@ -871,6 +1023,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 158.09999999999997,
+        "started_points": 114.59999999999998,
         "drafted_round": 13,
         "sleeper_id": "5848"
     },
@@ -882,6 +1036,8 @@
         ],
         "starts": 6,
         "benched": 8,
+        "total_points": 107.69999999999999,
+        "started_points": 56.699999999999996,
         "drafted_round": 14,
         "sleeper_id": "4993"
     },
@@ -894,6 +1050,8 @@
         ],
         "starts": 2,
         "benched": 8,
+        "total_points": 59.099999999999994,
+        "started_points": 33.4,
         "drafted_round": 15,
         "sleeper_id": "7611"
     },
@@ -905,6 +1063,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 219.70000000000002,
+        "started_points": 219.70000000000002,
         "drafted_round": 16,
         "sleeper_id": "6794"
     },
@@ -916,6 +1076,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 184.16,
+        "started_points": 184.16,
         "drafted_round": 1,
         "sleeper_id": "3164"
     },
@@ -927,6 +1089,8 @@
         ],
         "starts": 4,
         "benched": 6,
+        "total_points": 45.1,
+        "started_points": 45.1,
         "drafted_round": 2,
         "sleeper_id": "4273"
     },
@@ -938,6 +1102,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 142.49999999999997,
+        "started_points": 142.49999999999997,
         "drafted_round": 3,
         "sleeper_id": "5927"
     },
@@ -949,6 +1115,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 271.84000000000003,
+        "started_points": 271.84000000000003,
         "drafted_round": 4,
         "sleeper_id": "3294"
     },
@@ -960,6 +1128,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 165.29999999999998,
+        "started_points": 142.89999999999998,
         "drafted_round": 5,
         "sleeper_id": "2374"
     },
@@ -971,6 +1141,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 160.39999999999998,
+        "started_points": 140,
         "drafted_round": 6,
         "sleeper_id": "6790"
     },
@@ -982,6 +1154,8 @@
         ],
         "starts": 8,
         "benched": 6,
+        "total_points": 133.7,
+        "started_points": 99.7,
         "drafted_round": 7,
         "sleeper_id": "6801"
     },
@@ -993,6 +1167,8 @@
         ],
         "starts": 5,
         "benched": 7,
+        "total_points": 99.9,
+        "started_points": 43.3,
         "drafted_round": 8,
         "sleeper_id": "5045"
     },
@@ -1004,6 +1180,8 @@
         ],
         "starts": 1,
         "benched": 7,
+        "total_points": 41.7,
+        "started_points": 2.9,
         "drafted_round": 9,
         "sleeper_id": "3423"
     },
@@ -1016,6 +1194,8 @@
         ],
         "starts": 0,
         "benched": 12,
+        "total_points": 53.1,
+        "started_points": 0,
         "drafted_round": 10,
         "sleeper_id": "5347"
     },
@@ -1027,6 +1207,8 @@
         ],
         "starts": 1,
         "benched": 12,
+        "total_points": 88.2,
+        "started_points": 6.5,
         "drafted_round": 11,
         "sleeper_id": "4036"
     },
@@ -1039,6 +1221,8 @@
         ],
         "starts": 5,
         "benched": 1,
+        "total_points": 25.1,
+        "started_points": 23.799999999999997,
         "drafted_round": 12,
         "sleeper_id": "4602"
     },
@@ -1050,6 +1234,8 @@
         ],
         "starts": 0,
         "benched": 4,
+        "total_points": 61.120000000000005,
+        "started_points": 0,
         "drafted_round": 13,
         "sleeper_id": "7523"
     },
@@ -1062,6 +1248,8 @@
         ],
         "starts": 8,
         "benched": 4,
+        "total_points": 58,
+        "started_points": 61,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1073,6 +1261,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 141.1,
+        "started_points": 110.80000000000003,
         "drafted_round": 16,
         "sleeper_id": "6955"
     },
@@ -1084,6 +1274,8 @@
         ],
         "starts": 2,
         "benched": 7,
+        "total_points": 73.80000000000001,
+        "started_points": 21.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1095,6 +1287,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 158.39999999999998,
+        "started_points": 158.39999999999998,
         "drafted_round": 1,
         "sleeper_id": "1466"
     },
@@ -1106,6 +1300,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 290.40000000000003,
+        "started_points": 290.40000000000003,
         "drafted_round": 2,
         "sleeper_id": "6813"
     },
@@ -1117,6 +1313,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 155.3,
+        "started_points": 155.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1129,6 +1327,8 @@
         ],
         "starts": 5,
         "benched": 6,
+        "total_points": 49.4,
+        "started_points": 36.5,
         "drafted_round": 4,
         "sleeper_id": "947"
     },
@@ -1140,6 +1340,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 153.20000000000002,
+        "started_points": 112.6,
         "drafted_round": 5,
         "sleeper_id": "7588"
     },
@@ -1151,6 +1353,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 149.20000000000002,
+        "started_points": 132.70000000000002,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1165,6 +1369,8 @@
         ],
         "starts": 8,
         "benched": 2,
+        "total_points": 76.03999999999999,
+        "started_points": 48,
         "drafted_round": 8,
         "sleeper_id": "3225"
     },
@@ -1176,6 +1382,8 @@
         ],
         "starts": 7,
         "benched": 7,
+        "total_points": 206.9,
+        "started_points": 116.19999999999999,
         "drafted_round": 9,
         "sleeper_id": "4137"
     },
@@ -1187,6 +1395,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 362.05999999999995,
+        "started_points": 362.05999999999995,
         "drafted_round": 10,
         "sleeper_id": "4984"
     },
@@ -1200,6 +1410,8 @@
         ],
         "starts": 3,
         "benched": 5,
+        "total_points": 38.7,
+        "started_points": 16.5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1212,6 +1424,8 @@
         ],
         "starts": 2,
         "benched": 11,
+        "total_points": 80.5,
+        "started_points": 17.3,
         "drafted_round": 12,
         "sleeper_id": "4962"
     },
@@ -1223,6 +1437,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 17.4,
+        "started_points": 0,
         "drafted_round": 13,
         "sleeper_id": "5170"
     },
@@ -1234,6 +1450,8 @@
         ],
         "starts": 0,
         "benched": 3,
+        "total_points": 25.200000000000003,
+        "started_points": 0,
         "drafted_round": 14,
         "sleeper_id": "1848"
     },
@@ -1247,6 +1465,8 @@
         ],
         "starts": 7,
         "benched": 2,
+        "total_points": 53,
+        "started_points": 49,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1258,6 +1478,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 1.2,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1269,6 +1491,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 7.3,
+        "started_points": 0,
         "drafted_round": 15,
         "sleeper_id": "4144"
     },
@@ -1281,6 +1505,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 203.4,
+        "started_points": 203.4,
         "drafted_round": 1,
         "sleeper_id": "3321"
     },
@@ -1292,6 +1518,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 219.80000000000004,
+        "started_points": 209.80000000000004,
         "drafted_round": 2,
         "sleeper_id": "4018"
     },
@@ -1303,6 +1531,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 187,
+        "started_points": 176,
         "drafted_round": 3,
         "sleeper_id": "2216"
     },
@@ -1314,6 +1544,8 @@
         ],
         "starts": 5,
         "benched": 9,
+        "total_points": 55.6,
+        "started_points": 55.6,
         "drafted_round": 4,
         "sleeper_id": "4981"
     },
@@ -1326,6 +1558,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 160.79999999999998,
+        "started_points": 160.79999999999998,
         "drafted_round": 5,
         "sleeper_id": "1689"
     },
@@ -1338,6 +1572,8 @@
         ],
         "starts": 8,
         "benched": 5,
+        "total_points": 123,
+        "started_points": 97.9,
         "drafted_round": 6,
         "sleeper_id": "5890"
     },
@@ -1349,6 +1585,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 193.60000000000002,
+        "started_points": 142.3,
         "drafted_round": 7,
         "sleeper_id": "7564"
     },
@@ -1361,6 +1599,8 @@
         ],
         "starts": 6,
         "benched": 1,
+        "total_points": 44.599999999999994,
+        "started_points": 44.599999999999994,
         "drafted_round": 8,
         "sleeper_id": "2251"
     },
@@ -1373,6 +1613,8 @@
         ],
         "starts": 4,
         "benched": 6,
+        "total_points": 75.89999999999999,
+        "started_points": 29.500000000000004,
         "drafted_round": 9,
         "sleeper_id": "6130"
     },
@@ -1384,6 +1626,8 @@
         ],
         "starts": 4,
         "benched": 10,
+        "total_points": 119.6,
+        "started_points": 48.699999999999996,
         "drafted_round": 10,
         "sleeper_id": "5967"
     },
@@ -1395,6 +1639,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 271.97999999999996,
+        "started_points": 271.97999999999996,
         "drafted_round": 11,
         "sleeper_id": "4881"
     },
@@ -1406,6 +1652,8 @@
         ],
         "starts": 1,
         "benched": 5,
+        "total_points": 24.1,
+        "started_points": 15.4,
         "drafted_round": 12,
         "sleeper_id": "1833"
     },
@@ -1419,6 +1667,8 @@
         ],
         "starts": 0,
         "benched": 7,
+        "total_points": 31.7,
+        "started_points": 0,
         "drafted_round": 13,
         "sleeper_id": "2319"
     },
@@ -1431,6 +1681,8 @@
         ],
         "starts": 0,
         "benched": 10,
+        "total_points": 84.5,
+        "started_points": 0,
         "drafted_round": 14,
         "sleeper_id": "5947"
     },
@@ -1443,6 +1695,8 @@
         ],
         "starts": 3,
         "benched": 2,
+        "total_points": 44,
+        "started_points": 19,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1455,6 +1709,8 @@
         ],
         "starts": 3,
         "benched": 2,
+        "total_points": 10,
+        "started_points": 16,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1466,6 +1722,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 164.70000000000002,
+        "started_points": 164.70000000000002,
         "drafted_round": 1,
         "sleeper_id": "4199"
     },
@@ -1478,6 +1736,8 @@
         ],
         "starts": 7,
         "benched": 6,
+        "total_points": 90.5,
+        "started_points": 75.89999999999999,
         "drafted_round": 2,
         "sleeper_id": "6820"
     },
@@ -1489,6 +1749,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 139.79999999999998,
+        "started_points": 133.7,
         "drafted_round": 3,
         "sleeper_id": "5850"
     },
@@ -1500,6 +1762,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 103.5,
+        "started_points": 103.5,
         "drafted_round": 4,
         "sleeper_id": "5859"
     },
@@ -1511,6 +1775,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 179.8,
+        "started_points": 179.8,
         "drafted_round": 5,
         "sleeper_id": "5937"
     },
@@ -1522,6 +1788,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 247.50000000000003,
+        "started_points": 247.50000000000003,
         "drafted_round": 6,
         "sleeper_id": "4663"
     },
@@ -1533,6 +1801,8 @@
         ],
         "starts": 13,
         "benched": 1,
+        "total_points": 355.67999999999995,
+        "started_points": 355.67999999999995,
         "drafted_round": 7,
         "sleeper_id": "6797"
     },
@@ -1544,6 +1814,8 @@
         ],
         "starts": 0,
         "benched": 14,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 8,
         "sleeper_id": "3199"
     },
@@ -1555,6 +1827,8 @@
         ],
         "starts": 7,
         "benched": 6,
+        "total_points": 84.9,
+        "started_points": 48.3,
         "drafted_round": 9,
         "sleeper_id": "5857"
     },
@@ -1566,6 +1840,8 @@
         ],
         "starts": 2,
         "benched": 2,
+        "total_points": 30.9,
+        "started_points": 12.4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1579,6 +1855,8 @@
         ],
         "starts": 3,
         "benched": 9,
+        "total_points": 69.9,
+        "started_points": 16.6,
         "drafted_round": 11,
         "sleeper_id": "1825"
     },
@@ -1590,6 +1868,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 12,
         "sleeper_id": "4082"
     },
@@ -1603,6 +1883,8 @@
         ],
         "starts": 1,
         "benched": 4,
+        "total_points": 24.400000000000002,
+        "started_points": 6.5,
         "drafted_round": 13,
         "sleeper_id": "2391"
     },
@@ -1615,6 +1897,8 @@
         ],
         "starts": 0,
         "benched": 7,
+        "total_points": 69.30000000000001,
+        "started_points": 0,
         "drafted_round": 14,
         "sleeper_id": "7596"
     },
@@ -1628,6 +1912,8 @@
         ],
         "starts": 7,
         "benched": 6,
+        "total_points": 83,
+        "started_points": 53,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1639,6 +1925,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 32.16,
+        "started_points": 0,
         "drafted_round": 16,
         "sleeper_id": "4892"
     },
@@ -1650,6 +1938,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 164.5,
+        "started_points": 164.5,
         "drafted_round": 1,
         "sleeper_id": "4035"
     },
@@ -1661,6 +1951,8 @@
         ],
         "starts": 10,
         "benched": 4,
+        "total_points": 139.6,
+        "started_points": 139.6,
         "drafted_round": 2,
         "sleeper_id": "4217"
     },
@@ -1672,6 +1964,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 164.79999999999998,
+        "started_points": 164.79999999999998,
         "drafted_round": 3,
         "sleeper_id": "6786"
     },
@@ -1683,6 +1977,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 136.79999999999998,
+        "started_points": 102.90000000000002,
         "drafted_round": 4,
         "sleeper_id": "5980"
     },
@@ -1695,6 +1991,8 @@
         ],
         "starts": 6,
         "benched": 7,
+        "total_points": 92.6,
+        "started_points": 39.199999999999996,
         "drafted_round": 5,
         "sleeper_id": "6803"
     },
@@ -1707,6 +2005,8 @@
         ],
         "starts": 5,
         "benched": 6,
+        "total_points": 54.5,
+        "started_points": 41.300000000000004,
         "drafted_round": 6,
         "sleeper_id": "6783"
     },
@@ -1718,6 +2018,8 @@
         ],
         "starts": 1,
         "benched": 8,
+        "total_points": 26.8,
+        "started_points": 8.9,
         "drafted_round": 7,
         "sleeper_id": "7593"
     },
@@ -1729,6 +2031,8 @@
         ],
         "starts": 11,
         "benched": 3,
+        "total_points": 158.2,
+        "started_points": 137.1,
         "drafted_round": 8,
         "sleeper_id": "6945"
     },
@@ -1741,6 +2045,8 @@
         ],
         "starts": 2,
         "benched": 7,
+        "total_points": 49.4,
+        "started_points": 15.2,
         "drafted_round": 9,
         "sleeper_id": "3242"
     },
@@ -1753,6 +2059,8 @@
         ],
         "starts": 3,
         "benched": 6,
+        "total_points": 164.3,
+        "started_points": 48.8,
         "drafted_round": 10,
         "sleeper_id": "1049"
     },
@@ -1764,6 +2072,8 @@
         ],
         "starts": 12,
         "benched": 2,
+        "total_points": 156.2,
+        "started_points": 142.1,
         "drafted_round": 11,
         "sleeper_id": "7526"
     },
@@ -1775,6 +2085,8 @@
         ],
         "starts": 9,
         "benched": 5,
+        "total_points": 278.52,
+        "started_points": 173.44,
         "drafted_round": 12,
         "sleeper_id": "6770"
     },
@@ -1788,6 +2100,8 @@
         ],
         "starts": 6,
         "benched": 5,
+        "total_points": 83.39999999999999,
+        "started_points": 67.5,
         "drafted_round": 13,
         "sleeper_id": "7594"
     },
@@ -1800,6 +2114,8 @@
         ],
         "starts": 4,
         "benched": 5,
+        "total_points": 69,
+        "started_points": 32,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1811,6 +2127,8 @@
         ],
         "starts": 1,
         "benched": 8,
+        "total_points": 64.9,
+        "started_points": 2.7,
         "drafted_round": 16,
         "sleeper_id": "7567"
     },
@@ -1825,6 +2143,8 @@
         ],
         "starts": 3,
         "benched": 4,
+        "total_points": 62,
+        "started_points": 41,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1838,6 +2158,8 @@
         ],
         "starts": 5,
         "benched": 5,
+        "total_points": 36,
+        "started_points": 17,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1851,6 +2173,8 @@
         ],
         "starts": 7,
         "benched": 3,
+        "total_points": 75,
+        "started_points": 63,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1862,6 +2186,8 @@
         ],
         "starts": 0,
         "benched": 6,
+        "total_points": 6.4,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1874,6 +2200,8 @@
         ],
         "starts": 3,
         "benched": 4,
+        "total_points": 43.6,
+        "started_points": 34.2,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1886,6 +2214,8 @@
         ],
         "starts": 6,
         "benched": 7,
+        "total_points": 110.6,
+        "started_points": 78.10000000000001,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1897,6 +2227,8 @@
         ],
         "starts": 0,
         "benched": 3,
+        "total_points": 11.9,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1909,6 +2241,8 @@
         ],
         "starts": 8,
         "benched": 5,
+        "total_points": 105,
+        "started_points": 70,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1922,6 +2256,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 11.2,
+        "started_points": 3.4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1934,6 +2270,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 18.700000000000003,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1945,6 +2283,8 @@
         ],
         "starts": 9,
         "benched": 3,
+        "total_points": 160.5,
+        "started_points": 147.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1956,6 +2296,8 @@
         ],
         "starts": 3,
         "benched": 1,
+        "total_points": 21,
+        "started_points": 10,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1967,6 +2309,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1979,6 +2323,8 @@
         ],
         "starts": 0,
         "benched": 6,
+        "total_points": 19.7,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -1991,6 +2337,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 36.62,
+        "started_points": 20.08,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2002,6 +2350,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2014,6 +2364,8 @@
         ],
         "starts": 2,
         "benched": 3,
+        "total_points": 77.3,
+        "started_points": 33.62,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2026,6 +2378,8 @@
         ],
         "starts": 2,
         "benched": 0,
+        "total_points": 12,
+        "started_points": 12,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2037,6 +2391,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 21.7,
+        "started_points": 21.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2048,6 +2404,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 11.8,
+        "started_points": 11.8,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2060,6 +2418,8 @@
         ],
         "starts": 7,
         "benched": 1,
+        "total_points": 39,
+        "started_points": 39,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2071,6 +2431,8 @@
         ],
         "starts": 7,
         "benched": 4,
+        "total_points": 99,
+        "started_points": 84,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2083,6 +2445,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 7,
+        "started_points": 6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2095,6 +2459,8 @@
         ],
         "starts": 3,
         "benched": 1,
+        "total_points": 30,
+        "started_points": 27,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2107,6 +2473,8 @@
         ],
         "starts": 2,
         "benched": 0,
+        "total_points": 5,
+        "started_points": 5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2119,6 +2487,8 @@
         ],
         "starts": 3,
         "benched": 6,
+        "total_points": 55.6,
+        "started_points": 12.600000000000001,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2131,6 +2501,8 @@
         ],
         "starts": 3,
         "benched": 6,
+        "total_points": 52.32,
+        "started_points": 14.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2143,6 +2515,8 @@
         ],
         "starts": 1,
         "benched": 7,
+        "total_points": 62.9,
+        "started_points": 15,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2157,6 +2531,8 @@
         ],
         "starts": 4,
         "benched": 1,
+        "total_points": 25.5,
+        "started_points": 21.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2170,6 +2546,8 @@
         ],
         "starts": 2,
         "benched": 1,
+        "total_points": 31,
+        "started_points": 22,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2184,6 +2562,8 @@
         ],
         "starts": 5,
         "benched": 6,
+        "total_points": 70.80000000000001,
+        "started_points": 34.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2196,6 +2576,8 @@
         ],
         "starts": 1,
         "benched": 4,
+        "total_points": 33.8,
+        "started_points": 9.5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2208,6 +2590,8 @@
         ],
         "starts": 2,
         "benched": 1,
+        "total_points": 10,
+        "started_points": 8,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2220,6 +2604,8 @@
         ],
         "starts": 6,
         "benched": 3,
+        "total_points": 106.4,
+        "started_points": 83.4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2232,6 +2618,8 @@
         ],
         "starts": 2,
         "benched": 6,
+        "total_points": 52.599999999999994,
+        "started_points": 9,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2244,6 +2632,8 @@
         ],
         "starts": 2,
         "benched": 1,
+        "total_points": 12,
+        "started_points": 12,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2255,6 +2645,8 @@
         ],
         "starts": 1,
         "benched": 4,
+        "total_points": 10.8,
+        "started_points": 5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2267,6 +2659,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 9.8,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2278,6 +2672,8 @@
         ],
         "starts": 2,
         "benched": 6,
+        "total_points": 44,
+        "started_points": 13.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2290,6 +2686,8 @@
         ],
         "starts": 5,
         "benched": 5,
+        "total_points": 62.8,
+        "started_points": 49.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2301,6 +2699,8 @@
         ],
         "starts": 4,
         "benched": 6,
+        "total_points": 73,
+        "started_points": 34.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2312,6 +2712,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 16.3,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2323,6 +2725,8 @@
         ],
         "starts": 0,
         "benched": 3,
+        "total_points": 1.6,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2334,6 +2738,8 @@
         ],
         "starts": 3,
         "benched": 6,
+        "total_points": 101,
+        "started_points": 42.9,
         "drafted_round": 15,
         "sleeper_id": "5549"
     },
@@ -2345,6 +2751,8 @@
         ],
         "starts": 4,
         "benched": 5,
+        "total_points": 74.70000000000002,
+        "started_points": 51.2,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2357,6 +2765,8 @@
         ],
         "starts": 2,
         "benched": 1,
+        "total_points": 14,
+        "started_points": 14,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2368,6 +2778,8 @@
         ],
         "starts": 2,
         "benched": 1,
+        "total_points": 24.099999999999998,
+        "started_points": 10.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2379,6 +2791,8 @@
         ],
         "starts": 1,
         "benched": 7,
+        "total_points": 19.16,
+        "started_points": 5.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2391,6 +2805,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 19.56,
+        "started_points": 2.48,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2402,6 +2818,8 @@
         ],
         "starts": 3,
         "benched": 1,
+        "total_points": 43.099999999999994,
+        "started_points": 27.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2414,6 +2832,8 @@
         ],
         "starts": 4,
         "benched": 5,
+        "total_points": 75.4,
+        "started_points": 33.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2425,6 +2845,8 @@
         ],
         "starts": 2,
         "benched": 0,
+        "total_points": 14.299999999999999,
+        "started_points": 14.299999999999999,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2436,6 +2858,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2447,6 +2871,8 @@
         ],
         "starts": 0,
         "benched": 3,
+        "total_points": 3.5,
+        "started_points": 0,
         "drafted_round": 14,
         "sleeper_id": "4985"
     },
@@ -2458,6 +2884,8 @@
         ],
         "starts": 5,
         "benched": 3,
+        "total_points": 60,
+        "started_points": 56.6,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2469,6 +2897,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 1.4,
+        "started_points": 1.4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2480,6 +2910,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": -7,
+        "started_points": -11,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2491,6 +2923,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 21.44,
+        "started_points": 21.44,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2502,6 +2936,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 4.9,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2513,6 +2949,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2525,6 +2963,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 22,
+        "started_points": 4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2539,6 +2979,8 @@
         ],
         "starts": 4,
         "benched": 1,
+        "total_points": 102.5,
+        "started_points": 84.46,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2550,6 +2992,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 5.3,
+        "started_points": 5.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2562,6 +3006,8 @@
         ],
         "starts": 2,
         "benched": 3,
+        "total_points": 13.1,
+        "started_points": 11.899999999999999,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2573,6 +3019,8 @@
         ],
         "starts": 3,
         "benched": 0,
+        "total_points": 48,
+        "started_points": 48,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2585,6 +3033,8 @@
         ],
         "starts": 4,
         "benched": 2,
+        "total_points": 33.6,
+        "started_points": 20.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2598,6 +3048,8 @@
         ],
         "starts": 3,
         "benched": 1,
+        "total_points": 39.400000000000006,
+        "started_points": 32.5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2609,6 +3061,8 @@
         ],
         "starts": 6,
         "benched": 0,
+        "total_points": 59.8,
+        "started_points": 59.8,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2620,6 +3074,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2.4,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2631,6 +3087,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 16,
         "sleeper_id": "6870"
     },
@@ -2643,6 +3101,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 17,
+        "started_points": 5.4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2654,6 +3114,8 @@
         ],
         "starts": 1,
         "benched": 5,
+        "total_points": 42,
+        "started_points": 5.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2665,6 +3127,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 11.1,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2676,6 +3140,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0.1,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2687,6 +3153,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2.1,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2698,6 +3166,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 8.3,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2709,6 +3179,8 @@
         ],
         "starts": 0,
         "benched": 5,
+        "total_points": 6.5,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2720,6 +3192,8 @@
         ],
         "starts": 2,
         "benched": 0,
+        "total_points": 11.2,
+        "started_points": 11.2,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2731,6 +3205,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 0.8,
+        "started_points": 0.8,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2742,6 +3218,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 7.1,
+        "started_points": 7.1,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2753,6 +3231,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2764,6 +3244,8 @@
         ],
         "starts": 3,
         "benched": 1,
+        "total_points": 23,
+        "started_points": 23,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2775,6 +3257,8 @@
         ],
         "starts": 2,
         "benched": 2,
+        "total_points": 27.4,
+        "started_points": 17.7,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2786,6 +3270,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": -0.3,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2797,6 +3283,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 13.9,
+        "started_points": 13.9,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2808,6 +3296,8 @@
         ],
         "starts": 1,
         "benched": 2,
+        "total_points": 19.1,
+        "started_points": 1.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2819,6 +3309,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 6.18,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2830,6 +3322,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 1.3,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2841,6 +3335,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 3.9,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2852,6 +3348,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 5.9,
+        "started_points": 5.9,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2863,6 +3361,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2874,6 +3374,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 0.3,
+        "started_points": 0.3,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2885,6 +3387,8 @@
         ],
         "starts": 1,
         "benched": 1,
+        "total_points": 13.6,
+        "started_points": 5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2896,6 +3400,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 22.78,
+        "started_points": 22.78,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2907,6 +3413,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 50.96,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2918,6 +3426,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2929,6 +3439,8 @@
         ],
         "starts": 0,
         "benched": 2,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2940,6 +3452,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 3.5,
+        "started_points": 3.5,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2951,6 +3465,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 9.8,
+        "started_points": 9.8,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2962,6 +3478,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2973,6 +3491,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 9.68,
+        "started_points": 9.68,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2984,6 +3504,8 @@
         ],
         "starts": 1,
         "benched": 0,
+        "total_points": 4,
+        "started_points": 4,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -2995,6 +3517,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 2.5,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -3006,6 +3530,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 15.8,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     },
@@ -3017,6 +3543,8 @@
         ],
         "starts": 0,
         "benched": 1,
+        "total_points": 0.5,
+        "started_points": 0,
         "drafted_round": 0,
         "sleeper_id": "0000"
     }
