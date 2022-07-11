@@ -28,6 +28,7 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
         teams: playerGames.map(game => game.team)
                     .filter(onlyUnique)
                     .map(teamId => teams.find(tm => tm.id === teamId).name),
+        position: playerGames[0].position,
         starts: playerStarts.length,
         benched: playerGames.filter(game => !game.starter).length,
         total_points: playerGames.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1,

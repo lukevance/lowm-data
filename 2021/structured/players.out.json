@@ -5,6 +5,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 10,
         "benched": 4,
         "total_points": 151.3,
@@ -18,6 +19,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "QB",
         "starts": 13,
         "benched": 1,
         "total_points": 316.68,
@@ -31,6 +33,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 7,
         "benched": 2,
         "total_points": 114.7,
@@ -45,6 +48,7 @@
             "Big Nick Energy",
             "La La Land"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 151.3,
@@ -59,6 +63,7 @@
             "Big Nick Energy",
             "La La Land"
         ],
+        "position": "WR",
         "starts": 11,
         "benched": 3,
         "total_points": 161.9,
@@ -72,6 +77,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "TE",
         "starts": 12,
         "benched": 2,
         "total_points": 114.8,
@@ -86,6 +92,7 @@
             "Big Nick Energy",
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 5,
         "total_points": 29.9,
@@ -100,6 +107,7 @@
             "Big Nick Energy",
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 10,
         "total_points": 111.8,
@@ -113,6 +121,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 217.3,
@@ -126,6 +135,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 4,
         "benched": 9,
         "total_points": 80.9,
@@ -139,6 +149,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 6,
         "benched": 8,
         "total_points": 155.8,
@@ -152,6 +163,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 11,
         "total_points": 89.5,
@@ -166,6 +178,7 @@
             "Big Nick Energy",
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 8,
         "total_points": 47.9,
@@ -182,6 +195,7 @@
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "position": "D/ST",
         "starts": 6,
         "benched": 0,
         "total_points": 10,
@@ -195,6 +209,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 4,
         "total_points": 13.4,
@@ -209,6 +224,7 @@
             "Big Nick Energy",
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 2,
         "total_points": 11.6,
@@ -222,6 +238,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 207.4,
@@ -235,6 +252,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 126.2,
@@ -248,6 +266,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 5,
         "total_points": 83.3,
@@ -261,6 +280,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "TE",
         "starts": 13,
         "benched": 1,
         "total_points": 170.1,
@@ -274,6 +294,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 6,
         "benched": 8,
         "total_points": 99,
@@ -287,6 +308,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "QB",
         "starts": 12,
         "benched": 2,
         "total_points": 308.46,
@@ -300,6 +322,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 0,
         "total_points": 2,
@@ -313,6 +336,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 7,
         "benched": 7,
         "total_points": 123,
@@ -326,6 +350,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 79.6,
@@ -339,6 +364,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 11,
         "total_points": 99.54,
@@ -352,6 +378,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 13,
         "total_points": 6.6,
@@ -367,6 +394,7 @@
             "Big Nick Energy",
             "La La Land"
         ],
+        "position": "WR",
         "starts": 2,
         "benched": 7,
         "total_points": 51.9,
@@ -380,6 +408,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 106,
@@ -393,6 +422,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 11,
         "total_points": 37,
@@ -406,6 +436,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "D/ST",
         "starts": 12,
         "benched": 2,
         "total_points": 56,
@@ -420,6 +451,7 @@
             "St Charles 69ers",
             "Big Nick Energy"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 4,
         "total_points": 40.22,
@@ -433,6 +465,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 5,
         "total_points": 167.7,
@@ -446,6 +479,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 8,
         "benched": 6,
         "total_points": 100.8,
@@ -459,6 +493,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 11,
         "benched": 3,
         "total_points": 129,
@@ -472,6 +507,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "TE",
         "starts": 13,
         "benched": 1,
         "total_points": 110,
@@ -485,6 +521,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 178.2,
@@ -498,6 +535,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 10,
         "benched": 4,
         "total_points": 143.5,
@@ -511,6 +549,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 8,
         "total_points": 42.2,
@@ -524,6 +563,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 4,
         "benched": 1,
         "total_points": 27.3,
@@ -537,6 +577,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 5,
         "benched": 7,
         "total_points": 80.1,
@@ -550,6 +591,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "QB",
         "starts": 13,
         "benched": 1,
         "total_points": 341.82,
@@ -565,6 +607,7 @@
             "The Tiger  King",
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 6,
         "benched": 6,
         "total_points": 97.7,
@@ -579,6 +622,7 @@
             "fore PLAY",
             "La La Land"
         ],
+        "position": "TE",
         "starts": 6,
         "benched": 7,
         "total_points": 79.5,
@@ -592,6 +636,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 7,
         "total_points": 72.5,
@@ -605,6 +650,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 8,
         "total_points": 54,
@@ -618,6 +664,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 7,
         "total_points": 131,
@@ -631,6 +678,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 3,
         "total_points": 65.48,
@@ -644,6 +692,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 13,
         "benched": 1,
         "total_points": 211,
@@ -657,6 +706,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "TE",
         "starts": 10,
         "benched": 4,
         "total_points": 102.8,
@@ -670,6 +720,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 185.5,
@@ -683,6 +734,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 278.9,
@@ -696,6 +748,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 9,
         "total_points": 71.6,
@@ -709,6 +762,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 8,
         "benched": 6,
         "total_points": 117.1,
@@ -722,6 +776,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "QB",
         "starts": 8,
         "benched": 6,
         "total_points": 263.98,
@@ -736,6 +791,7 @@
             "Golaso King Seabass",
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 4,
         "benched": 10,
         "total_points": 79,
@@ -750,6 +806,7 @@
             "Golaso King Seabass",
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 6,
         "benched": 8,
         "total_points": 119.1,
@@ -763,6 +820,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 11,
         "benched": 3,
         "total_points": 210.9,
@@ -777,6 +835,7 @@
             "Golaso King Seabass",
             "Hurts So Good"
         ],
+        "position": "TE",
         "starts": 4,
         "benched": 10,
         "total_points": 106.1,
@@ -790,6 +849,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 11,
         "benched": 3,
         "total_points": 166,
@@ -804,6 +864,7 @@
             "Golaso King Seabass",
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 2,
         "total_points": 13.7,
@@ -817,6 +878,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "QB",
         "starts": 5,
         "benched": 9,
         "total_points": 376.16,
@@ -831,6 +893,7 @@
             "Golaso King Seabass",
             "Game of Jones"
         ],
+        "position": "D/ST",
         "starts": 10,
         "benched": 3,
         "total_points": 74,
@@ -844,6 +907,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 2.4,
@@ -857,6 +921,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 7,
         "benched": 7,
         "total_points": 109,
@@ -871,6 +936,7 @@
             "Hurts So Good",
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 6,
         "total_points": 54.9,
@@ -885,6 +951,7 @@
             "Hurts So Good",
             "The Tiger  King"
         ],
+        "position": "QB",
         "starts": 7,
         "benched": 6,
         "total_points": 181.44,
@@ -898,6 +965,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "TE",
         "starts": 8,
         "benched": 6,
         "total_points": 104.8,
@@ -912,6 +980,7 @@
             "Hurts So Good",
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 8,
         "benched": 6,
         "total_points": 186.3,
@@ -925,6 +994,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 11,
         "benched": 3,
         "total_points": 110.4,
@@ -939,6 +1009,7 @@
             "Hurts So Good",
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 2,
         "total_points": 83.1,
@@ -952,6 +1023,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "QB",
         "starts": 6,
         "benched": 8,
         "total_points": 280.9,
@@ -966,6 +1038,7 @@
             "Hurts So Good",
             "La La Land"
         ],
+        "position": "D/ST",
         "starts": 8,
         "benched": 0,
         "total_points": 44,
@@ -979,6 +1052,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 140.9,
@@ -993,6 +1067,7 @@
             "Hurts So Good",
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 12,
         "total_points": 81.5,
@@ -1008,6 +1083,7 @@
             "fore PLAY",
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 6,
         "total_points": 51.2,
@@ -1021,6 +1097,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 9,
         "benched": 5,
         "total_points": 158.1,
@@ -1034,6 +1111,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "TE",
         "starts": 6,
         "benched": 8,
         "total_points": 107.7,
@@ -1048,6 +1126,7 @@
             "Hurts So Good",
             "La La Land"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 8,
         "total_points": 59.1,
@@ -1061,6 +1140,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 219.7,
@@ -1074,6 +1154,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 13,
         "benched": 1,
         "total_points": 184.16,
@@ -1087,6 +1168,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 6,
         "total_points": 45.1,
@@ -1100,6 +1182,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 142.5,
@@ -1113,6 +1196,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 12,
         "benched": 2,
         "total_points": 271.84,
@@ -1126,6 +1210,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 11,
         "benched": 3,
         "total_points": 165.3,
@@ -1139,6 +1224,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 10,
         "benched": 4,
         "total_points": 160.4,
@@ -1152,6 +1238,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 8,
         "benched": 6,
         "total_points": 133.7,
@@ -1165,6 +1252,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 7,
         "total_points": 99.9,
@@ -1178,6 +1266,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 7,
         "total_points": 41.7,
@@ -1192,6 +1281,7 @@
             "Freiermuth Gong Show",
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 12,
         "total_points": 53.1,
@@ -1205,6 +1295,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 12,
         "total_points": 88.2,
@@ -1219,6 +1310,7 @@
             "Freiermuth Gong Show",
             "Golaso King Seabass"
         ],
+        "position": "TE",
         "starts": 5,
         "benched": 1,
         "total_points": 25.1,
@@ -1232,6 +1324,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 4,
         "total_points": 61.12,
@@ -1246,6 +1339,7 @@
             "Freiermuth Gong Show",
             "The Tiger  King"
         ],
+        "position": "D/ST",
         "starts": 8,
         "benched": 4,
         "total_points": 58,
@@ -1259,6 +1353,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 10,
         "benched": 4,
         "total_points": 141.1,
@@ -1272,6 +1367,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 7,
         "total_points": 73.8,
@@ -1285,6 +1381,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "TE",
         "starts": 13,
         "benched": 1,
         "total_points": 158.4,
@@ -1298,6 +1395,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 13,
         "benched": 1,
         "total_points": 290.4,
@@ -1311,6 +1409,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 155.3,
@@ -1325,6 +1424,7 @@
             "I Kelce Clearly Now",
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 6,
         "total_points": 49.4,
@@ -1338,6 +1438,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 5,
         "total_points": 153.2,
@@ -1351,6 +1452,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 11,
         "benched": 3,
         "total_points": 149.2,
@@ -1367,6 +1469,7 @@
             "The Tiger  King",
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 8,
         "benched": 2,
         "total_points": 76.04,
@@ -1380,6 +1483,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 7,
         "benched": 7,
         "total_points": 206.9,
@@ -1393,6 +1497,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "QB",
         "starts": 13,
         "benched": 1,
         "total_points": 362.06,
@@ -1408,6 +1513,7 @@
             "Game of Jones",
             "La La Land"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 5,
         "total_points": 38.7,
@@ -1422,6 +1528,7 @@
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 11,
         "total_points": 80.5,
@@ -1435,6 +1542,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 2,
         "total_points": 17.4,
@@ -1448,6 +1556,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 3,
         "total_points": 25.2,
@@ -1463,6 +1572,7 @@
             "St Charles 69ers",
             "La La Land"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 2,
         "total_points": 53,
@@ -1476,6 +1586,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 1.2,
@@ -1489,6 +1600,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "TE",
         "starts": 0,
         "benched": 1,
         "total_points": 7.3,
@@ -1503,6 +1615,7 @@
             "La La Land",
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 13,
         "benched": 1,
         "total_points": 203.4,
@@ -1516,6 +1629,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 12,
         "benched": 2,
         "total_points": 219.8,
@@ -1529,6 +1643,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 187,
@@ -1542,6 +1657,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 9,
         "total_points": 55.6,
@@ -1556,6 +1672,7 @@
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 160.8,
@@ -1570,6 +1687,7 @@
             "La La Land",
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 8,
         "benched": 5,
         "total_points": 123,
@@ -1583,6 +1701,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 193.6,
@@ -1597,6 +1716,7 @@
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "position": "TE",
         "starts": 6,
         "benched": 1,
         "total_points": 44.6,
@@ -1611,6 +1731,7 @@
             "La La Land",
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 6,
         "total_points": 75.9,
@@ -1624,6 +1745,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 10,
         "total_points": 119.6,
@@ -1637,6 +1759,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "QB",
         "starts": 12,
         "benched": 2,
         "total_points": 271.98,
@@ -1650,6 +1773,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 5,
         "total_points": 24.1,
@@ -1665,6 +1789,7 @@
             "fore PLAY",
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 7,
         "total_points": 31.7,
@@ -1679,6 +1804,7 @@
             "La La Land",
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 10,
         "total_points": 84.5,
@@ -1693,6 +1819,7 @@
             "La La Land",
             "Big Nick Energy"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 2,
         "total_points": 44,
@@ -1707,6 +1834,7 @@
             "La La Land",
             "Freiermuth Gong Show"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 2,
         "total_points": 10,
@@ -1720,6 +1848,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 12,
         "benched": 2,
         "total_points": 164.7,
@@ -1734,6 +1863,7 @@
             "Game of Jones",
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 7,
         "benched": 6,
         "total_points": 90.5,
@@ -1747,6 +1877,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 10,
         "benched": 4,
         "total_points": 139.8,
@@ -1760,6 +1891,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 10,
         "benched": 4,
         "total_points": 103.5,
@@ -1773,6 +1905,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 179.8,
@@ -1786,6 +1919,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 13,
         "benched": 1,
         "total_points": 247.5,
@@ -1799,6 +1933,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "QB",
         "starts": 13,
         "benched": 1,
         "total_points": 355.68,
@@ -1812,6 +1947,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 14,
         "total_points": 0,
@@ -1825,6 +1961,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "TE",
         "starts": 7,
         "benched": 6,
         "total_points": 84.9,
@@ -1838,6 +1975,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 2,
         "benched": 2,
         "total_points": 30.9,
@@ -1853,6 +1991,7 @@
             "I Kelce Clearly Now",
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 9,
         "total_points": 69.9,
@@ -1866,6 +2005,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 0,
@@ -1881,6 +2021,7 @@
             "The Tiger  King",
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 4,
         "total_points": 24.4,
@@ -1895,6 +2036,7 @@
             "Game of Jones",
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 7,
         "total_points": 69.3,
@@ -1910,6 +2052,7 @@
             "Big Nick Energy",
             "The Tiger  King"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 6,
         "total_points": 83,
@@ -1923,6 +2066,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 2,
         "total_points": 32.16,
@@ -1936,6 +2080,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 5,
         "total_points": 164.5,
@@ -1949,6 +2094,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "TE",
         "starts": 10,
         "benched": 4,
         "total_points": 139.6,
@@ -1962,6 +2108,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 164.8,
@@ -1975,6 +2122,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 11,
         "benched": 3,
         "total_points": 136.8,
@@ -1989,6 +2137,7 @@
             "The Tiger  King",
             "Freiermuth Gong Show"
         ],
+        "position": "WR",
         "starts": 6,
         "benched": 7,
         "total_points": 92.6,
@@ -2003,6 +2152,7 @@
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 6,
         "total_points": 54.5,
@@ -2016,6 +2166,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 8,
         "total_points": 26.8,
@@ -2029,6 +2180,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 11,
         "benched": 3,
         "total_points": 158.2,
@@ -2043,6 +2195,7 @@
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 7,
         "total_points": 49.4,
@@ -2057,6 +2210,7 @@
             "The Tiger  King",
             "fore PLAY"
         ],
+        "position": "QB",
         "starts": 3,
         "benched": 6,
         "total_points": 164.3,
@@ -2070,6 +2224,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 12,
         "benched": 2,
         "total_points": 156.2,
@@ -2083,6 +2238,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "QB",
         "starts": 9,
         "benched": 5,
         "total_points": 278.52,
@@ -2098,6 +2254,7 @@
             "Hurts So Good",
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 6,
         "benched": 5,
         "total_points": 83.4,
@@ -2112,6 +2269,7 @@
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "position": "D/ST",
         "starts": 4,
         "benched": 5,
         "total_points": 69,
@@ -2125,6 +2283,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 8,
         "total_points": 64.9,
@@ -2141,6 +2300,7 @@
             "Golaso King Seabass",
             "La La Land"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 4,
         "total_points": 62,
@@ -2156,6 +2316,7 @@
             "Game of Jones",
             "Golaso King Seabass"
         ],
+        "position": "D/ST",
         "starts": 5,
         "benched": 5,
         "total_points": 36,
@@ -2171,6 +2332,7 @@
             "La La Land",
             "Hurts So Good"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 3,
         "total_points": 75,
@@ -2184,6 +2346,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 6,
         "total_points": 6.4,
@@ -2198,6 +2361,7 @@
             "Golaso King Seabass",
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 4,
         "total_points": 43.6,
@@ -2212,6 +2376,7 @@
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "position": "RB",
         "starts": 6,
         "benched": 7,
         "total_points": 110.6,
@@ -2225,6 +2390,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 3,
         "total_points": 11.9,
@@ -2239,6 +2405,7 @@
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "position": "D/ST",
         "starts": 8,
         "benched": 5,
         "total_points": 105,
@@ -2254,6 +2421,7 @@
             "Freiermuth Gong Show",
             "I Kelce Clearly Now"
         ],
+        "position": "TE",
         "starts": 1,
         "benched": 2,
         "total_points": 11.2,
@@ -2268,6 +2436,7 @@
             "The Tiger  King",
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 2,
         "total_points": 18.7,
@@ -2281,6 +2450,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 9,
         "benched": 3,
         "total_points": 160.5,
@@ -2294,6 +2464,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 1,
         "total_points": 21,
@@ -2307,6 +2478,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 1,
         "total_points": 0,
@@ -2321,6 +2493,7 @@
             "Golaso King Seabass",
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 6,
         "total_points": 19.7,
@@ -2335,6 +2508,7 @@
             "I Kelce Clearly Now",
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 1,
         "total_points": 36.62,
@@ -2348,6 +2522,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 0,
@@ -2362,6 +2537,7 @@
             "Game of Jones",
             "La La Land"
         ],
+        "position": "QB",
         "starts": 2,
         "benched": 3,
         "total_points": 77.3,
@@ -2376,6 +2552,7 @@
             "Game of Jones",
             "St Charles 69ers"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 0,
         "total_points": 12,
@@ -2389,6 +2566,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 1,
         "total_points": 21.7,
@@ -2402,6 +2580,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 0,
         "total_points": 11.8,
@@ -2416,6 +2595,7 @@
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 1,
         "total_points": 39,
@@ -2429,6 +2609,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "D/ST",
         "starts": 7,
         "benched": 4,
         "total_points": 99,
@@ -2443,6 +2624,7 @@
             "Golaso King Seabass",
             "I Kelce Clearly Now"
         ],
+        "position": "D/ST",
         "starts": 1,
         "benched": 2,
         "total_points": 7,
@@ -2457,6 +2639,7 @@
             "Hurts So Good",
             "Freiermuth Gong Show"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 1,
         "total_points": 30,
@@ -2471,6 +2654,7 @@
             "Freiermuth Gong Show",
             "The Tiger  King"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 0,
         "total_points": 5,
@@ -2485,6 +2669,7 @@
             "I Kelce Clearly Now",
             "Golaso King Seabass"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 6,
         "total_points": 55.6,
@@ -2499,6 +2684,7 @@
             "I Kelce Clearly Now",
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 6,
         "total_points": 52.32,
@@ -2513,6 +2699,7 @@
             "La La Land",
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 7,
         "total_points": 62.9,
@@ -2529,6 +2716,7 @@
             "St Charles 69ers",
             "Big Nick Energy"
         ],
+        "position": "TE",
         "starts": 4,
         "benched": 1,
         "total_points": 25.5,
@@ -2544,6 +2732,7 @@
             "Freiermuth Gong Show",
             "Big Nick Energy"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 1,
         "total_points": 31,
@@ -2560,6 +2749,7 @@
             "The Tiger  King",
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 5,
         "benched": 6,
         "total_points": 70.8,
@@ -2574,6 +2764,7 @@
             "The Tiger  King",
             "Freiermuth Gong Show"
         ],
+        "position": "TE",
         "starts": 1,
         "benched": 4,
         "total_points": 33.8,
@@ -2588,6 +2779,7 @@
             "Big Nick Energy",
             "Hurts So Good"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 1,
         "total_points": 10,
@@ -2602,6 +2794,7 @@
             "Big Nick Energy",
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 6,
         "benched": 3,
         "total_points": 106.4,
@@ -2616,6 +2809,7 @@
             "Golaso King Seabass",
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 2,
         "benched": 6,
         "total_points": 52.6,
@@ -2630,6 +2824,7 @@
             "Hurts So Good",
             "Big Nick Energy"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 1,
         "total_points": 12,
@@ -2643,6 +2838,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 4,
         "total_points": 10.8,
@@ -2657,6 +2853,7 @@
             "I Kelce Clearly Now",
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 2,
         "total_points": 9.8,
@@ -2670,6 +2867,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 6,
         "total_points": 44,
@@ -2684,6 +2882,7 @@
             "La La Land",
             "Game of Jones"
         ],
+        "position": "TE",
         "starts": 5,
         "benched": 5,
         "total_points": 62.8,
@@ -2697,6 +2896,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "TE",
         "starts": 4,
         "benched": 6,
         "total_points": 73,
@@ -2710,6 +2910,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 2,
         "total_points": 16.3,
@@ -2723,6 +2924,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 3,
         "total_points": 1.6,
@@ -2736,6 +2938,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 6,
         "total_points": 101,
@@ -2749,6 +2952,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 5,
         "total_points": 74.7,
@@ -2763,6 +2967,7 @@
             "Hurts So Good",
             "Game of Jones"
         ],
+        "position": "D/ST",
         "starts": 2,
         "benched": 1,
         "total_points": 14,
@@ -2776,6 +2981,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "TE",
         "starts": 2,
         "benched": 1,
         "total_points": 24.1,
@@ -2789,6 +2995,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 7,
         "total_points": 19.16,
@@ -2803,6 +3010,7 @@
             "I Kelce Clearly Now",
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 1,
         "total_points": 19.56,
@@ -2816,6 +3024,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 3,
         "benched": 1,
         "total_points": 43.1,
@@ -2830,6 +3039,7 @@
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "position": "TE",
         "starts": 4,
         "benched": 5,
         "total_points": 75.4,
@@ -2843,6 +3053,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 2,
         "benched": 0,
         "total_points": 14.3,
@@ -2856,6 +3067,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 2,
@@ -2869,6 +3081,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 3,
         "total_points": 3.5,
@@ -2882,6 +3095,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 5,
         "benched": 3,
         "total_points": 60,
@@ -2895,6 +3109,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "TE",
         "starts": 1,
         "benched": 0,
         "total_points": 1.4,
@@ -2908,6 +3123,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "D/ST",
         "starts": 1,
         "benched": 1,
         "total_points": -7,
@@ -2921,6 +3137,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 0,
         "total_points": 21.44,
@@ -2934,6 +3151,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 4.9,
@@ -2947,6 +3165,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 1,
         "total_points": 0,
@@ -2961,6 +3180,7 @@
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 2,
         "total_points": 22,
@@ -2977,6 +3197,7 @@
             "Big Nick Energy",
             "St Charles 69ers"
         ],
+        "position": "QB",
         "starts": 4,
         "benched": 1,
         "total_points": 102.5,
@@ -2990,6 +3211,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "TE",
         "starts": 1,
         "benched": 0,
         "total_points": 5.3,
@@ -3004,6 +3226,7 @@
             "Big Nick Energy",
             "La La Land"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 3,
         "total_points": 13.1,
@@ -3017,6 +3240,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 0,
         "total_points": 48,
@@ -3031,6 +3255,7 @@
             "Freiermuth Gong Show",
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 4,
         "benched": 2,
         "total_points": 33.6,
@@ -3046,6 +3271,7 @@
             "Big Nick Energy",
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 3,
         "benched": 1,
         "total_points": 39.4,
@@ -3059,6 +3285,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "TE",
         "starts": 6,
         "benched": 0,
         "total_points": 59.8,
@@ -3072,6 +3299,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 2.4,
@@ -3085,6 +3313,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 0,
@@ -3099,6 +3328,7 @@
             "La La Land",
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 2,
         "total_points": 17,
@@ -3112,6 +3342,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 5,
         "total_points": 42,
@@ -3125,6 +3356,7 @@
         "teams": [
             "Golaso King Seabass"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 2,
         "total_points": 11.1,
@@ -3138,6 +3370,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 0.1,
@@ -3151,6 +3384,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 2.1,
@@ -3164,6 +3398,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 8.3,
@@ -3177,6 +3412,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 5,
         "total_points": 6.5,
@@ -3190,6 +3426,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "TE",
         "starts": 2,
         "benched": 0,
         "total_points": 11.2,
@@ -3203,6 +3440,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 0,
         "total_points": 0.8,
@@ -3216,6 +3454,7 @@
         "teams": [
             "The Tiger  King"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 0,
         "total_points": 7.1,
@@ -3229,6 +3468,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 2,
@@ -3242,6 +3482,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "D/ST",
         "starts": 3,
         "benched": 1,
         "total_points": 23,
@@ -3255,6 +3496,7 @@
         "teams": [
             "I Kelce Clearly Now"
         ],
+        "position": "RB",
         "starts": 2,
         "benched": 2,
         "total_points": 27.4,
@@ -3268,6 +3510,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": -0.3,
@@ -3281,6 +3524,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 0,
         "total_points": 13.9,
@@ -3294,6 +3538,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 2,
         "total_points": 19.1,
@@ -3307,6 +3552,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 1,
         "total_points": 6.18,
@@ -3320,6 +3566,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 1.3,
@@ -3333,6 +3580,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "TE",
         "starts": 0,
         "benched": 1,
         "total_points": 3.9,
@@ -3346,6 +3594,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 1,
         "total_points": 5.9,
@@ -3359,6 +3608,7 @@
         "teams": [
             "St Charles 69ers"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 1,
         "total_points": 0,
@@ -3372,6 +3622,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 0,
         "total_points": 0.3,
@@ -3385,6 +3636,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 1,
         "benched": 1,
         "total_points": 13.6,
@@ -3398,6 +3650,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 0,
         "total_points": 22.78,
@@ -3411,6 +3664,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "QB",
         "starts": 0,
         "benched": 2,
         "total_points": 50.96,
@@ -3424,6 +3678,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 2,
         "total_points": 0,
@@ -3437,6 +3692,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 2,
         "total_points": 0,
@@ -3450,6 +3706,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "WR",
         "starts": 1,
         "benched": 0,
         "total_points": 3.5,
@@ -3463,6 +3720,7 @@
         "teams": [
             "Big Nick Energy"
         ],
+        "position": "TE",
         "starts": 1,
         "benched": 0,
         "total_points": 9.8,
@@ -3476,6 +3734,7 @@
         "teams": [
             "fore PLAY"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 0,
@@ -3489,6 +3748,7 @@
         "teams": [
             "Hurts So Good"
         ],
+        "position": "QB",
         "starts": 1,
         "benched": 0,
         "total_points": 9.68,
@@ -3502,6 +3762,7 @@
         "teams": [
             "Freiermuth Gong Show"
         ],
+        "position": "D/ST",
         "starts": 1,
         "benched": 0,
         "total_points": 4,
@@ -3515,6 +3776,7 @@
         "teams": [
             "La La Land"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 2.5,
@@ -3528,6 +3790,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "WR",
         "starts": 0,
         "benched": 1,
         "total_points": 15.8,
@@ -3541,6 +3804,7 @@
         "teams": [
             "Game of Jones"
         ],
+        "position": "RB",
         "starts": 0,
         "benched": 1,
         "total_points": 0.5,
