@@ -30,8 +30,8 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
                     .map(teamId => teams.find(tm => tm.id === teamId).name),
         starts: playerStarts.length,
         benched: playerGames.filter(game => !game.starter).length,
-        total_points: playerGames.map(game => game.points).reduce((prev, curr) => prev + curr),
-        started_points: playerStarts.length > 0 ? playerStarts.map(game => game.points).reduce((prev, curr) => prev + curr) : 0,
+        total_points: playerGames.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1,
+        started_points: playerStarts.length > 0 ? playerStarts.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1 : 0,
         drafted_round: playerDrafted ? playerDrafted.round_no : 0,
         sleeper_id: playerDrafted ? playerDrafted.player_id: "0000",
     };
