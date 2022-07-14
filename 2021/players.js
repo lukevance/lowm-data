@@ -34,8 +34,9 @@ const checkDrafted = (player, draftBoard) => {
             return defMatches[0] ? defMatches[0] : null;
         } else if (player.name.indexOf(".") > -1 ){
             // handle initialed names e.g. D.J.
-            console.log(player.name)
-            return null;
+            const initialNameRmDots = player.name.split(".").join("");
+            const initialMatches = draftBoard.filter(pick => pick.player_name === initialNameRmDots);
+            return initialMatches[0] ? initialMatches[0]: null;
         } else {
             return null;
         }
@@ -62,5 +63,4 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
     };
 });
 
-// module.exports = uniquePlayersWithGames;
-uniquePlayersWithGames();
+module.exports = uniquePlayersWithGames;

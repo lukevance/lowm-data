@@ -200,8 +200,8 @@
         "benched": 0,
         "total_points": 10,
         "started_points": 10,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 14,
+        "sleeper_id": "BAL"
     },
     {
         "name": "Tony Jones Jr.",
@@ -1043,8 +1043,8 @@
         "benched": 0,
         "total_points": 44,
         "started_points": 44,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 9,
+        "sleeper_id": "PIT"
     },
     {
         "name": "Brandin Cooks",
@@ -1577,8 +1577,8 @@
         "benched": 2,
         "total_points": 53,
         "started_points": 49,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 16,
+        "sleeper_id": "DEN"
     },
     {
         "name": "Justin Jackson",
@@ -1824,8 +1824,8 @@
         "benched": 2,
         "total_points": 44,
         "started_points": 19,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 16,
+        "sleeper_id": "MIA"
     },
     {
         "name": "Browns D/ST",
@@ -2410,8 +2410,8 @@
         "benched": 5,
         "total_points": 105,
         "started_points": 70,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 15,
+        "sleeper_id": "BUF"
     },
     {
         "name": "Jared Cook",
