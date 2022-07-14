@@ -14,7 +14,23 @@ const checkDrafted = (player, draftBoard) => {
     } else if (matches.length > 1) {
         return matches.filter(match => match.player_position === player.position)[0];
     } else {
-        return null;
+        // check for exceptions between Sleeper/ESPN names
+        const exceptions = ["Jr.", "Sr.", "II", "III", "V"];
+        const nameException = exceptions.filter(element => player.name.split(" ").includes(element)); 
+        const exceptionIndex = player.name.split(" ").indexOf(nameException[0]);
+        if (exceptionIndex > -1 ) {
+            // look for matches after removing exceptions
+            const modName = player.name.split(" ").filter((v, i) => i != exceptionIndex).join(" ");
+            const looseMatches = draftBoard.filter(pick => pick.player_name === modName);
+            if (looseMatches && looseMatches[0]) {
+                return looseMatches[0];
+            } else {
+                return null;
+            } 
+        } else if (player.position === "D/ST") {
+            // handle Defense
+            return null;
+        }
     }
 }
 
