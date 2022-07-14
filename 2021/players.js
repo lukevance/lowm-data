@@ -14,13 +14,13 @@ const checkDrafted = (player, draftBoard) => {
     } else if (matches.length > 1) {
         return matches.filter(match => match.player_position === player.position)[0];
     } else {
-        // check for exceptions between Sleeper/ESPN names
-        const exceptions = ["Jr.", "Sr.", "II", "III", "V"];
-        const nameException = exceptions.filter(element => player.name.split(" ").includes(element)); 
-        const exceptionIndex = player.name.split(" ").indexOf(nameException[0]);
-        if (exceptionIndex > -1 ) {
-            // look for matches after removing exceptions
-            const modName = player.name.split(" ").filter((v, i) => i != exceptionIndex).join(" ");
+        // check for suffixes between Sleeper/ESPN names
+        const suffixes = ["Jr.", "Sr.", "II", "III", "V"];
+        const nameSuffix = suffixes.filter(element => player.name.split(" ").includes(element)); 
+        const suffixIndex = player.name.split(" ").indexOf(nameSuffix[0]);
+        if (suffixIndex > -1 ) {
+            // look for matches after removing suffixes
+            const modName = player.name.split(" ").filter((v, i) => i != suffixIndex).join(" ");
             const looseMatches = draftBoard.filter(pick => pick.player_name === modName);
             if (looseMatches && looseMatches[0]) {
                 return looseMatches[0];
@@ -28,7 +28,15 @@ const checkDrafted = (player, draftBoard) => {
                 return null;
             } 
         } else if (player.position === "D/ST") {
-            // handle Defense
+            // handle Defenses
+            const defName = player.name.split(" ")[0];
+            const defMatches = draftBoard.filter(pick => pick.player_name.split(" ")[1] === defName);
+            return defMatches[0] ? defMatches[0] : null;
+        } else if (player.name.indexOf(".") > -1 ){
+            // handle initialed names e.g. D.J.
+            console.log(player.name)
+            return null;
+        } else {
             return null;
         }
     }
@@ -54,4 +62,5 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
     };
 });
 
-module.exports = uniquePlayersWithGames;
+// module.exports = uniquePlayersWithGames;
+uniquePlayersWithGames();
