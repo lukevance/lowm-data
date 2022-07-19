@@ -30,7 +30,7 @@ const checkDrafted = (player, draftBoard) => {
         } else if (player.position === "D/ST") {
             // handle Defenses
             const defName = player.name.split(" ")[0];
-            const defMatches = draftBoard.filter(pick => pick.player_name.split(" ")[1] === defName);
+            const defMatches = draftBoard.filter(pick => pick.player_name.split(" ")[pick.player_name.split(" ").length - 1] === defName);
             return defMatches[0] ? defMatches[0] : null;
         } else if (player.name.indexOf(".") > -1 ){
             // handle initialed names e.g. D.J.
@@ -50,16 +50,17 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
     return {
         name: playerName,
         id: playerGames[0].playerId,
-        teams: playerGames.map(game => game.team)
+        active_rosters: playerGames.map(game => game.team)
                     .filter(onlyUnique)
                     .map(teamId => teams.find(tm => tm.id === teamId).name),
+        drafted_by: playerDrafted ? playerDrafted.team_draft_user_name : "NA",
         position: playerGames[0].position,
         starts: playerStarts.length,
         benched: playerGames.filter(game => !game.starter).length,
         total_points: playerGames.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1,
         started_points: playerStarts.length > 0 ? playerStarts.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1 : 0,
         drafted_round: playerDrafted ? playerDrafted.round_no : 0,
-        sleeper_id: playerDrafted ? playerDrafted.player_id: "0000",
+        sleeper_id: playerDrafted ? playerDrafted.player_id : "0000",
     };
 });
 

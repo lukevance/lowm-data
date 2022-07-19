@@ -2,9 +2,10 @@
     {
         "name": "Nick Chubb",
         "id": 3128720,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "RB",
         "starts": 10,
         "benched": 4,
@@ -16,9 +17,10 @@
     {
         "name": "Patrick Mahomes",
         "id": 3139477,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "QB",
         "starts": 13,
         "benched": 1,
@@ -30,9 +32,10 @@
     {
         "name": "Robert Woods",
         "id": 15880,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 7,
         "benched": 2,
@@ -44,10 +47,11 @@
     {
         "name": "DK Metcalf",
         "id": 4047650,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "La La Land"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -59,10 +63,11 @@
     {
         "name": "Keenan Allen",
         "id": 15818,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "La La Land"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 11,
         "benched": 3,
@@ -74,9 +79,10 @@
     {
         "name": "T.J. Hockenson",
         "id": 4036133,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "TE",
         "starts": 12,
         "benched": 2,
@@ -88,10 +94,11 @@
     {
         "name": "Ronald Jones II",
         "id": 3912550,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "The Tiger  King"
         ],
+        "drafted_by": "Comish11",
         "position": "RB",
         "starts": 2,
         "benched": 5,
@@ -103,10 +110,11 @@
     {
         "name": "Michael Carter",
         "id": 4240657,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "fore PLAY"
         ],
+        "drafted_by": "Comish11",
         "position": "RB",
         "starts": 4,
         "benched": 10,
@@ -118,9 +126,10 @@
     {
         "name": "Deebo Samuel",
         "id": 3126486,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -132,9 +141,10 @@
     {
         "name": "Antonio Brown",
         "id": 13934,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 4,
         "benched": 9,
@@ -146,9 +156,10 @@
     {
         "name": "Michael Pittman Jr.",
         "id": 4035687,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 6,
         "benched": 8,
@@ -160,9 +171,10 @@
     {
         "name": "Alexander Mattison",
         "id": 4048244,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Comish11",
         "position": "RB",
         "starts": 3,
         "benched": 11,
@@ -174,10 +186,11 @@
     {
         "name": "Marquez Callaway",
         "id": 4035170,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Game of Jones"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 1,
         "benched": 8,
@@ -189,12 +202,13 @@
     {
         "name": "Ravens D/ST",
         "id": -16033,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Freiermuth Gong Show",
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "drafted_by": "Comish11",
         "position": "D/ST",
         "starts": 6,
         "benched": 0,
@@ -206,9 +220,10 @@
     {
         "name": "Tony Jones Jr.",
         "id": 4046676,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 4,
@@ -220,10 +235,11 @@
     {
         "name": "Tevin Coleman",
         "id": 2979477,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 2,
@@ -235,9 +251,10 @@
     {
         "name": "Davante Adams",
         "id": 16800,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -249,9 +266,10 @@
     {
         "name": "DeAndre Hopkins",
         "id": 15795,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -263,9 +281,10 @@
     {
         "name": "Miles Sanders",
         "id": 4045163,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "RB",
         "starts": 9,
         "benched": 5,
@@ -277,9 +296,10 @@
     {
         "name": "Mark Andrews",
         "id": 3116365,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "TE",
         "starts": 13,
         "benched": 1,
@@ -291,9 +311,10 @@
     {
         "name": "Kareem Hunt",
         "id": 3059915,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "RB",
         "starts": 6,
         "benched": 8,
@@ -305,9 +326,10 @@
     {
         "name": "Aaron Rodgers",
         "id": 8439,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "QB",
         "starts": 12,
         "benched": 2,
@@ -319,9 +341,10 @@
     {
         "name": "Raheem Mostert",
         "id": 2576414,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "RB",
         "starts": 1,
         "benched": 0,
@@ -333,9 +356,10 @@
     {
         "name": "AJ Dillon",
         "id": 4239934,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 7,
         "benched": 7,
@@ -347,9 +371,10 @@
     {
         "name": "Rondale Moore",
         "id": 4372485,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -361,9 +386,10 @@
     {
         "name": "Justin Fields",
         "id": 4362887,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "QB",
         "starts": 1,
         "benched": 11,
@@ -375,9 +401,10 @@
     {
         "name": "William Fuller V",
         "id": 3052876,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 13,
@@ -389,11 +416,12 @@
     {
         "name": "Michael Gallup",
         "id": 4036348,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers",
             "Big Nick Energy",
             "La La Land"
         ],
+        "drafted_by": "DeMo5",
         "position": "WR",
         "starts": 2,
         "benched": 7,
@@ -405,9 +433,10 @@
     {
         "name": "Marvin Jones Jr.",
         "id": 15072,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -419,9 +448,10 @@
     {
         "name": "Ty'Son Williams",
         "id": 3895827,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "DeMo5",
         "position": "RB",
         "starts": 3,
         "benched": 11,
@@ -433,9 +463,10 @@
     {
         "name": "Commanders D/ST",
         "id": -16028,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 12,
         "benched": 2,
@@ -447,10 +478,11 @@
     {
         "name": "Tua Tagovailoa",
         "id": 4241479,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers",
             "Big Nick Energy"
         ],
+        "drafted_by": "DeMo5",
         "position": "QB",
         "starts": 0,
         "benched": 4,
@@ -462,9 +494,10 @@
     {
         "name": "Dalvin Cook",
         "id": 3116593,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "RB",
         "starts": 9,
         "benched": 5,
@@ -476,9 +509,10 @@
     {
         "name": "Saquon Barkley",
         "id": 3929630,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "RB",
         "starts": 8,
         "benched": 6,
@@ -490,9 +524,10 @@
     {
         "name": "Amari Cooper",
         "id": 2976499,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 11,
         "benched": 3,
@@ -504,9 +539,10 @@
     {
         "name": "Kyle Pitts",
         "id": 4360248,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "TE",
         "starts": 13,
         "benched": 1,
@@ -518,9 +554,10 @@
     {
         "name": "Stefon Diggs",
         "id": 2976212,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -532,9 +569,10 @@
     {
         "name": "Darrell Henderson Jr.",
         "id": 4039359,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "RB",
         "starts": 10,
         "benched": 4,
@@ -546,9 +584,10 @@
     {
         "name": "Kenny Golladay",
         "id": 2974858,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 3,
         "benched": 8,
@@ -560,9 +599,10 @@
     {
         "name": "JuJu Smith-Schuster",
         "id": 3120348,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 4,
         "benched": 1,
@@ -574,9 +614,10 @@
     {
         "name": "Zack Moss",
         "id": 4035676,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "RB",
         "starts": 5,
         "benched": 7,
@@ -588,9 +629,10 @@
     {
         "name": "Matthew Stafford",
         "id": 12483,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "QB",
         "starts": 13,
         "benched": 1,
@@ -602,11 +644,12 @@
     {
         "name": "Darnell Mooney",
         "id": 4040655,
-        "teams": [
+        "active_rosters": [
             "fore PLAY",
             "The Tiger  King",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 6,
         "benched": 6,
@@ -618,10 +661,11 @@
     {
         "name": "Tyler Higbee",
         "id": 2573401,
-        "teams": [
+        "active_rosters": [
             "fore PLAY",
             "La La Land"
         ],
+        "drafted_by": "tink2020",
         "position": "TE",
         "starts": 6,
         "benched": 7,
@@ -633,9 +677,10 @@
     {
         "name": "Henry Ruggs III",
         "id": 4241475,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "WR",
         "starts": 1,
         "benched": 7,
@@ -647,9 +692,10 @@
     {
         "name": "Latavius Murray",
         "id": 15920,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "RB",
         "starts": 1,
         "benched": 8,
@@ -661,23 +707,25 @@
     {
         "name": "Patriots D/ST",
         "id": -16017,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "D/ST",
         "starts": 7,
         "benched": 7,
         "total_points": 131,
         "started_points": 83,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 15,
+        "sleeper_id": "NE"
     },
     {
         "name": "Jameis Winston",
         "id": 2969939,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "tink2020",
         "position": "QB",
         "starts": 0,
         "benched": 3,
@@ -689,9 +737,10 @@
     {
         "name": "Najee Harris",
         "id": 4241457,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "RB",
         "starts": 13,
         "benched": 1,
@@ -703,9 +752,10 @@
     {
         "name": "Darren Waller",
         "id": 2576925,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "TE",
         "starts": 10,
         "benched": 4,
@@ -717,9 +767,10 @@
     {
         "name": "Chris Godwin",
         "id": 3116165,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -731,9 +782,10 @@
     {
         "name": "Cooper Kupp",
         "id": 2977187,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -745,9 +797,10 @@
     {
         "name": "Mike Davis",
         "id": 3025433,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "RB",
         "starts": 3,
         "benched": 9,
@@ -759,9 +812,10 @@
     {
         "name": "David Montgomery",
         "id": 4035538,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "RB",
         "starts": 8,
         "benched": 6,
@@ -773,9 +827,10 @@
     {
         "name": "Kyler Murray",
         "id": 3917315,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "QB",
         "starts": 8,
         "benched": 6,
@@ -787,10 +842,11 @@
     {
         "name": "Odell Beckham Jr.",
         "id": 16733,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "The Tiger  King"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 4,
         "benched": 10,
@@ -802,10 +858,11 @@
     {
         "name": "DeVonta Smith",
         "id": 4241478,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "The Tiger  King"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 6,
         "benched": 8,
@@ -817,9 +874,10 @@
     {
         "name": "Leonard Fournette",
         "id": 3115364,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "RB",
         "starts": 11,
         "benched": 3,
@@ -831,10 +889,11 @@
     {
         "name": "Dallas Goedert",
         "id": 3121023,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "Hurts So Good"
         ],
+        "drafted_by": "GolasoKing",
         "position": "TE",
         "starts": 4,
         "benched": 10,
@@ -846,9 +905,10 @@
     {
         "name": "Mike Williams",
         "id": 3045138,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 11,
         "benched": 3,
@@ -860,10 +920,11 @@
     {
         "name": "Russell Gage",
         "id": 3115378,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "Game of Jones"
         ],
+        "drafted_by": "GolasoKing",
         "position": "WR",
         "starts": 1,
         "benched": 2,
@@ -875,9 +936,10 @@
     {
         "name": "Tom Brady",
         "id": 2330,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "GolasoKing",
         "position": "QB",
         "starts": 5,
         "benched": 9,
@@ -889,10 +951,11 @@
     {
         "name": "Panthers D/ST",
         "id": -16029,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 10,
         "benched": 3,
@@ -904,9 +967,10 @@
     {
         "name": "Tyrell Williams",
         "id": 2587819,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -918,9 +982,10 @@
     {
         "name": "Christian McCaffrey",
         "id": 3117251,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "RB",
         "starts": 7,
         "benched": 7,
@@ -932,10 +997,11 @@
     {
         "name": "Allen Robinson II",
         "id": 16799,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "The Tiger  King"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 5,
         "benched": 6,
@@ -947,10 +1013,11 @@
     {
         "name": "Russell Wilson",
         "id": 14881,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "The Tiger  King"
         ],
+        "drafted_by": "drdadbod",
         "position": "QB",
         "starts": 7,
         "benched": 6,
@@ -962,9 +1029,10 @@
     {
         "name": "Rob Gronkowski",
         "id": 13229,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "TE",
         "starts": 8,
         "benched": 6,
@@ -976,10 +1044,11 @@
     {
         "name": "Derrick Henry",
         "id": 3043078,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "drdadbod",
         "position": "RB",
         "starts": 8,
         "benched": 6,
@@ -991,9 +1060,10 @@
     {
         "name": "Chase Claypool",
         "id": 4046692,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 11,
         "benched": 3,
@@ -1005,10 +1075,11 @@
     {
         "name": "Chase Edmonds",
         "id": 3119195,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "Golaso King Seabass"
         ],
+        "drafted_by": "drdadbod",
         "position": "RB",
         "starts": 9,
         "benched": 2,
@@ -1020,9 +1091,10 @@
     {
         "name": "Jalen Hurts",
         "id": 4040715,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "QB",
         "starts": 6,
         "benched": 8,
@@ -1034,10 +1106,11 @@
     {
         "name": "Steelers D/ST",
         "id": -16023,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "La La Land"
         ],
+        "drafted_by": "drdadbod",
         "position": "D/ST",
         "starts": 8,
         "benched": 0,
@@ -1049,9 +1122,10 @@
     {
         "name": "Brandin Cooks",
         "id": 16731,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -1063,10 +1137,11 @@
     {
         "name": "Jamaal Williams",
         "id": 2980453,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "Game of Jones"
         ],
+        "drafted_by": "drdadbod",
         "position": "RB",
         "starts": 1,
         "benched": 12,
@@ -1078,11 +1153,12 @@
     {
         "name": "Mecole Hardman",
         "id": 4035004,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "fore PLAY",
             "The Tiger  King"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 1,
         "benched": 6,
@@ -1094,9 +1170,10 @@
     {
         "name": "Marquise Brown",
         "id": 4241372,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 9,
         "benched": 5,
@@ -1108,9 +1185,10 @@
     {
         "name": "Mike Gesicki",
         "id": 3116164,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "TE",
         "starts": 6,
         "benched": 8,
@@ -1122,10 +1200,11 @@
     {
         "name": "Rhamondre Stevenson",
         "id": 4569173,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "La La Land"
         ],
+        "drafted_by": "drdadbod",
         "position": "RB",
         "starts": 2,
         "benched": 8,
@@ -1137,9 +1216,10 @@
     {
         "name": "Justin Jefferson",
         "id": 4262921,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "drdadbod",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -1151,9 +1231,10 @@
     {
         "name": "Ezekiel Elliott",
         "id": 3051392,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "RB",
         "starts": 13,
         "benched": 1,
@@ -1165,9 +1246,10 @@
     {
         "name": "Chris Carson",
         "id": 3919596,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "RB",
         "starts": 4,
         "benched": 6,
@@ -1179,9 +1261,10 @@
     {
         "name": "Terry McLaurin",
         "id": 3121422,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -1193,9 +1276,10 @@
     {
         "name": "Dak Prescott",
         "id": 2577417,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "QB",
         "starts": 12,
         "benched": 2,
@@ -1207,9 +1291,10 @@
     {
         "name": "Tyler Lockett",
         "id": 2577327,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 11,
         "benched": 3,
@@ -1221,9 +1306,10 @@
     {
         "name": "D'Andre Swift",
         "id": 4259545,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "RB",
         "starts": 10,
         "benched": 4,
@@ -1235,9 +1321,10 @@
     {
         "name": "Tee Higgins",
         "id": 4239993,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 8,
         "benched": 6,
@@ -1249,9 +1336,10 @@
     {
         "name": "Courtland Sutton",
         "id": 3128429,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 5,
         "benched": 7,
@@ -1263,9 +1351,10 @@
     {
         "name": "Robby Anderson",
         "id": 2574808,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 1,
         "benched": 7,
@@ -1277,10 +1366,11 @@
     {
         "name": "Nyheim Hines",
         "id": 3916430,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "RB",
         "starts": 0,
         "benched": 12,
@@ -1292,9 +1382,10 @@
     {
         "name": "Corey Davis",
         "id": 3042778,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "WR",
         "starts": 1,
         "benched": 12,
@@ -1306,10 +1397,11 @@
     {
         "name": "Robert Tonyan",
         "id": 2975674,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "Golaso King Seabass"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "TE",
         "starts": 5,
         "benched": 1,
@@ -1321,9 +1413,10 @@
     {
         "name": "Trevor Lawrence",
         "id": 4360310,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "QB",
         "starts": 0,
         "benched": 4,
@@ -1335,24 +1428,26 @@
     {
         "name": "Rams D/ST",
         "id": -16014,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "The Tiger  King"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "D/ST",
         "starts": 8,
         "benched": 4,
         "total_points": 58,
         "started_points": 61,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 14,
+        "sleeper_id": "LAR"
     },
     {
         "name": "James Robinson",
         "id": 4052042,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "FantasyGOATx3",
         "position": "RB",
         "starts": 10,
         "benched": 4,
@@ -1364,9 +1459,10 @@
     {
         "name": "Devonta Freeman",
         "id": 16944,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 2,
         "benched": 7,
@@ -1378,9 +1474,10 @@
     {
         "name": "Travis Kelce",
         "id": 15847,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "TE",
         "starts": 13,
         "benched": 1,
@@ -1392,9 +1489,10 @@
     {
         "name": "Jonathan Taylor",
         "id": 4242335,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 13,
         "benched": 1,
@@ -1406,9 +1504,10 @@
     {
         "name": "DJ Moore",
         "id": 3915416,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -1420,10 +1519,11 @@
     {
         "name": "Julio Jones",
         "id": 13982,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Big Nick Energy"
         ],
+        "drafted_by": "provolove69",
         "position": "WR",
         "starts": 5,
         "benched": 6,
@@ -1435,9 +1535,10 @@
     {
         "name": "Javonte Williams",
         "id": 4361579,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 9,
         "benched": 5,
@@ -1449,9 +1550,10 @@
     {
         "name": "Melvin Gordon III",
         "id": 2576434,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 11,
         "benched": 3,
@@ -1463,12 +1565,13 @@
     {
         "name": "Tyler Boyd",
         "id": 3045144,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "fore PLAY",
             "The Tiger  King",
             "Game of Jones"
         ],
+        "drafted_by": "provolove69",
         "position": "WR",
         "starts": 8,
         "benched": 2,
@@ -1480,9 +1583,10 @@
     {
         "name": "James Conner",
         "id": 3045147,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 7,
         "benched": 7,
@@ -1494,9 +1598,10 @@
     {
         "name": "Josh Allen",
         "id": 3918298,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "QB",
         "starts": 13,
         "benched": 1,
@@ -1508,11 +1613,12 @@
     {
         "name": "Laviska Shenault Jr.",
         "id": 4243160,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Game of Jones",
             "La La Land"
         ],
+        "drafted_by": "provolove69",
         "position": "WR",
         "starts": 3,
         "benched": 5,
@@ -1524,10 +1630,11 @@
     {
         "name": "Sony Michel",
         "id": 3128721,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 2,
         "benched": 11,
@@ -1539,9 +1646,10 @@
     {
         "name": "Phillip Lindsay",
         "id": 3052117,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 0,
         "benched": 2,
@@ -1553,9 +1661,10 @@
     {
         "name": "James White",
         "id": 16913,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "RB",
         "starts": 0,
         "benched": 3,
@@ -1567,11 +1676,12 @@
     {
         "name": "Broncos D/ST",
         "id": -16007,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "St Charles 69ers",
             "La La Land"
         ],
+        "drafted_by": "provolove69",
         "position": "D/ST",
         "starts": 7,
         "benched": 2,
@@ -1583,9 +1693,10 @@
     {
         "name": "Justin Jackson",
         "id": 3116136,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -1597,9 +1708,10 @@
     {
         "name": "Jonnu Smith",
         "id": 3054212,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "provolove69",
         "position": "TE",
         "starts": 0,
         "benched": 1,
@@ -1611,10 +1723,11 @@
     {
         "name": "Tyreek Hill",
         "id": 3116406,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Big Nick Energy"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 13,
         "benched": 1,
@@ -1626,9 +1739,10 @@
     {
         "name": "Joe Mixon",
         "id": 3116385,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 12,
         "benched": 2,
@@ -1640,9 +1754,10 @@
     {
         "name": "Mike Evans",
         "id": 16737,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -1654,9 +1769,10 @@
     {
         "name": "Calvin Ridley",
         "id": 3925357,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 5,
         "benched": 9,
@@ -1668,10 +1784,11 @@
     {
         "name": "Adam Thielen",
         "id": 16460,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -1683,10 +1800,11 @@
     {
         "name": "Damien Harris",
         "id": 3925347,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Game of Jones"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 8,
         "benched": 5,
@@ -1698,9 +1816,10 @@
     {
         "name": "Ja'Marr Chase",
         "id": 4362628,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -1712,10 +1831,11 @@
     {
         "name": "Logan Thomas",
         "id": 16813,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "Nserrrr",
         "position": "TE",
         "starts": 6,
         "benched": 1,
@@ -1727,10 +1847,11 @@
     {
         "name": "Devin Singletary",
         "id": 4040761,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "St Charles 69ers"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 4,
         "benched": 6,
@@ -1742,9 +1863,10 @@
     {
         "name": "Tony Pollard",
         "id": 3916148,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 4,
         "benched": 10,
@@ -1756,9 +1878,10 @@
     {
         "name": "Lamar Jackson",
         "id": 3916387,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "QB",
         "starts": 12,
         "benched": 2,
@@ -1770,9 +1893,10 @@
     {
         "name": "Damien Williams",
         "id": 17359,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 1,
         "benched": 5,
@@ -1784,11 +1908,12 @@
     {
         "name": "DeVante Parker",
         "id": 2576623,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "fore PLAY",
             "Golaso King Seabass"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 0,
         "benched": 7,
@@ -1800,10 +1925,11 @@
     {
         "name": "Jakobi Meyers",
         "id": 3916433,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "fore PLAY"
         ],
+        "drafted_by": "Nserrrr",
         "position": "WR",
         "starts": 0,
         "benched": 10,
@@ -1815,10 +1941,11 @@
     {
         "name": "Dolphins D/ST",
         "id": -16015,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Big Nick Energy"
         ],
+        "drafted_by": "Nserrrr",
         "position": "D/ST",
         "starts": 3,
         "benched": 2,
@@ -1830,10 +1957,11 @@
     {
         "name": "Browns D/ST",
         "id": -16005,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 2,
@@ -1845,9 +1973,10 @@
     {
         "name": "Aaron Jones",
         "id": 3042519,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "RB",
         "starts": 12,
         "benched": 2,
@@ -1859,10 +1988,11 @@
     {
         "name": "Clyde Edwards-Helaire",
         "id": 4242214,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "The Tiger  King"
         ],
+        "drafted_by": "willydawg71088",
         "position": "RB",
         "starts": 7,
         "benched": 6,
@@ -1874,9 +2004,10 @@
     {
         "name": "Josh Jacobs",
         "id": 4047365,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "RB",
         "starts": 10,
         "benched": 4,
@@ -1888,9 +2019,10 @@
     {
         "name": "A.J. Brown",
         "id": 4047646,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 10,
         "benched": 4,
@@ -1902,9 +2034,10 @@
     {
         "name": "Diontae Johnson",
         "id": 3932905,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -1916,9 +2049,10 @@
     {
         "name": "Austin Ekeler",
         "id": 3068267,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "RB",
         "starts": 13,
         "benched": 1,
@@ -1930,9 +2064,10 @@
     {
         "name": "Justin Herbert",
         "id": 4038941,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "QB",
         "starts": 13,
         "benched": 1,
@@ -1944,9 +2079,10 @@
     {
         "name": "Michael Thomas",
         "id": 2976316,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 0,
         "benched": 14,
@@ -1958,9 +2094,10 @@
     {
         "name": "Noah Fant",
         "id": 4036131,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "TE",
         "starts": 7,
         "benched": 6,
@@ -1972,9 +2109,10 @@
     {
         "name": "DJ Chark Jr.",
         "id": 3115394,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 2,
         "benched": 2,
@@ -1986,11 +2124,12 @@
     {
         "name": "Jarvis Landry",
         "id": 16790,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "I Kelce Clearly Now",
             "The Tiger  King"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 3,
         "benched": 9,
@@ -2002,9 +2141,10 @@
     {
         "name": "Curtis Samuel",
         "id": 3121427,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -2016,11 +2156,12 @@
     {
         "name": "David Johnson",
         "id": 2508176,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "The Tiger  King",
             "fore PLAY"
         ],
+        "drafted_by": "willydawg71088",
         "position": "RB",
         "starts": 1,
         "benched": 4,
@@ -2032,10 +2173,11 @@
     {
         "name": "Elijah Moore",
         "id": 4372414,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "willydawg71088",
         "position": "WR",
         "starts": 0,
         "benched": 7,
@@ -2047,25 +2189,27 @@
     {
         "name": "Buccaneers D/ST",
         "id": -16027,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "Big Nick Energy",
             "The Tiger  King"
         ],
+        "drafted_by": "willydawg71088",
         "position": "D/ST",
         "starts": 7,
         "benched": 6,
         "total_points": 83,
         "started_points": 53,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 15,
+        "sleeper_id": "TB"
     },
     {
         "name": "Baker Mayfield",
         "id": 3052587,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "willydawg71088",
         "position": "QB",
         "starts": 0,
         "benched": 2,
@@ -2077,9 +2221,10 @@
     {
         "name": "Alvin Kamara",
         "id": 3054850,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 9,
         "benched": 5,
@@ -2091,9 +2236,10 @@
     {
         "name": "George Kittle",
         "id": 3040151,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "TE",
         "starts": 10,
         "benched": 4,
@@ -2105,9 +2251,10 @@
     {
         "name": "CeeDee Lamb",
         "id": 4241389,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -2119,9 +2266,10 @@
     {
         "name": "Myles Gaskin",
         "id": 3886818,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 11,
         "benched": 3,
@@ -2133,10 +2281,11 @@
     {
         "name": "Brandon Aiyuk",
         "id": 4360438,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "WR",
         "starts": 6,
         "benched": 7,
@@ -2148,10 +2297,11 @@
     {
         "name": "Jerry Jeudy",
         "id": 4241463,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "WR",
         "starts": 5,
         "benched": 6,
@@ -2163,9 +2313,10 @@
     {
         "name": "Trey Sermon",
         "id": 4241401,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 1,
         "benched": 8,
@@ -2177,9 +2328,10 @@
     {
         "name": "Antonio Gibson",
         "id": 4360294,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 11,
         "benched": 3,
@@ -2191,10 +2343,11 @@
     {
         "name": "Kenyan Drake",
         "id": 2979843,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 2,
         "benched": 7,
@@ -2206,10 +2359,11 @@
     {
         "name": "Ryan Tannehill",
         "id": 14876,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "fore PLAY"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "QB",
         "starts": 3,
         "benched": 6,
@@ -2221,9 +2375,10 @@
     {
         "name": "Jaylen Waddle",
         "id": 4372016,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "WR",
         "starts": 12,
         "benched": 2,
@@ -2235,9 +2390,10 @@
     {
         "name": "Joe Burrow",
         "id": 3915511,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "QB",
         "starts": 9,
         "benched": 5,
@@ -2249,11 +2405,12 @@
     {
         "name": "Chuba Hubbard",
         "id": 4241416,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Hurts So Good",
             "fore PLAY"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 6,
         "benched": 5,
@@ -2265,24 +2422,26 @@
     {
         "name": "49ers D/ST",
         "id": -16025,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "D/ST",
         "starts": 4,
         "benched": 5,
         "total_points": 69,
         "started_points": 32,
-        "drafted_round": 0,
-        "sleeper_id": "0000"
+        "drafted_round": 15,
+        "sleeper_id": "SF"
     },
     {
         "name": "Kenneth Gainwell",
         "id": 4371733,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "mikeoc2891",
         "position": "RB",
         "starts": 1,
         "benched": 8,
@@ -2294,12 +2453,13 @@
     {
         "name": "Colts D/ST",
         "id": -16011,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "I Kelce Clearly Now",
             "Golaso King Seabass",
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 4,
@@ -2311,11 +2471,12 @@
     {
         "name": "Saints D/ST",
         "id": -16018,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Game of Jones",
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 5,
         "benched": 5,
@@ -2327,11 +2488,12 @@
     {
         "name": "Cardinals D/ST",
         "id": -16022,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "La La Land",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 7,
         "benched": 3,
@@ -2343,9 +2505,10 @@
     {
         "name": "Carlos Hyde",
         "id": 16777,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 6,
@@ -2357,10 +2520,11 @@
     {
         "name": "Mark Ingram II",
         "id": 13981,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 3,
         "benched": 4,
@@ -2372,10 +2536,11 @@
     {
         "name": "Elijah Mitchell",
         "id": 4241555,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 6,
         "benched": 7,
@@ -2387,9 +2552,10 @@
     {
         "name": "Jalen Reagor",
         "id": 4241802,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 3,
@@ -2401,10 +2567,11 @@
     {
         "name": "Bills D/ST",
         "id": -16002,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "GolasoKing",
         "position": "D/ST",
         "starts": 8,
         "benched": 5,
@@ -2416,11 +2583,12 @@
     {
         "name": "Jared Cook",
         "id": 12537,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "Freiermuth Gong Show",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 1,
         "benched": 2,
@@ -2432,10 +2600,11 @@
     {
         "name": "Zach Pascal",
         "id": 2978109,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 2,
@@ -2447,9 +2616,10 @@
     {
         "name": "Cordarrelle Patterson",
         "id": 15807,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 9,
         "benched": 3,
@@ -2461,9 +2631,10 @@
     {
         "name": "Bengals D/ST",
         "id": -16004,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 1,
@@ -2475,9 +2646,10 @@
     {
         "name": "Corey Clement",
         "id": 3045260,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 1,
@@ -2489,10 +2661,11 @@
     {
         "name": "Sterling Shepard",
         "id": 2976592,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 6,
@@ -2504,10 +2677,11 @@
     {
         "name": "Daniel Jones",
         "id": 3917792,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 1,
@@ -2519,9 +2693,10 @@
     {
         "name": "Jacques Patrick",
         "id": 3693033,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -2533,10 +2708,11 @@
     {
         "name": "Derek Carr",
         "id": 16757,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 2,
         "benched": 3,
@@ -2548,10 +2724,11 @@
     {
         "name": "Raiders D/ST",
         "id": -16013,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 0,
@@ -2563,9 +2740,10 @@
     {
         "name": "Peyton Barber",
         "id": 3051902,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 1,
@@ -2577,9 +2755,10 @@
     {
         "name": "Teddy Bridgewater",
         "id": 16728,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 0,
@@ -2591,10 +2770,11 @@
     {
         "name": "Titans D/ST",
         "id": -16010,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 7,
         "benched": 1,
@@ -2606,9 +2786,10 @@
     {
         "name": "Cowboys D/ST",
         "id": -16006,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 7,
         "benched": 4,
@@ -2620,10 +2801,11 @@
     {
         "name": "Chargers D/ST",
         "id": -16024,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 1,
         "benched": 2,
@@ -2635,10 +2817,11 @@
     {
         "name": "Bears D/ST",
         "id": -16003,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 1,
@@ -2650,10 +2833,11 @@
     {
         "name": "Lions D/ST",
         "id": -16008,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 0,
@@ -2665,10 +2849,11 @@
     {
         "name": "Cole Beasley",
         "id": 15349,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 3,
         "benched": 6,
@@ -2680,10 +2865,11 @@
     {
         "name": "Christian Kirk",
         "id": 3895856,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 3,
         "benched": 6,
@@ -2695,10 +2881,11 @@
     {
         "name": "J.D. McKissic",
         "id": 2572861,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 7,
@@ -2710,12 +2897,13 @@
     {
         "name": "Tyler Conklin",
         "id": 3915486,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "The Tiger  King",
             "St Charles 69ers",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 4,
         "benched": 1,
@@ -2727,11 +2915,12 @@
     {
         "name": "Packers D/ST",
         "id": -16009,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Freiermuth Gong Show",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 1,
@@ -2743,12 +2932,13 @@
     {
         "name": "Emmanuel Sanders",
         "id": 13295,
-        "teams": [
+        "active_rosters": [
             "Game of Jones",
             "Big Nick Energy",
             "The Tiger  King",
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 5,
         "benched": 6,
@@ -2760,10 +2950,11 @@
     {
         "name": "Hunter Henry",
         "id": 3046439,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 1,
         "benched": 4,
@@ -2775,10 +2966,11 @@
     {
         "name": "Falcons D/ST",
         "id": -16001,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 1,
@@ -2790,10 +2982,11 @@
     {
         "name": "Hunter Renfrow",
         "id": 3135321,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 6,
         "benched": 3,
@@ -2805,10 +2998,11 @@
     {
         "name": "A.J. Green",
         "id": 13983,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 2,
         "benched": 6,
@@ -2820,10 +3014,11 @@
     {
         "name": "Texans D/ST",
         "id": -16034,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 1,
@@ -2835,9 +3030,10 @@
     {
         "name": "Jeremy McNichols",
         "id": 3127586,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 4,
@@ -2849,10 +3045,11 @@
     {
         "name": "Jamison Crowder",
         "id": 2576716,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 2,
@@ -2864,9 +3061,10 @@
     {
         "name": "Alex Collins",
         "id": 3046409,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 2,
         "benched": 6,
@@ -2878,10 +3076,11 @@
     {
         "name": "Dalton Schultz",
         "id": 3117256,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 5,
         "benched": 5,
@@ -2893,9 +3092,10 @@
     {
         "name": "Dawson Knox",
         "id": 3930086,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 4,
         "benched": 6,
@@ -2907,9 +3107,10 @@
     {
         "name": "Samaje Perine",
         "id": 3116389,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 2,
@@ -2921,9 +3122,10 @@
     {
         "name": "Josh Gordon",
         "id": 15705,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 3,
@@ -2935,9 +3137,10 @@
     {
         "name": "Darrel Williams",
         "id": 3115375,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "Nserrrr",
         "position": "RB",
         "starts": 3,
         "benched": 6,
@@ -2949,9 +3152,10 @@
     {
         "name": "Devontae Booker",
         "id": 3122866,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 4,
         "benched": 5,
@@ -2963,10 +3167,11 @@
     {
         "name": "Vikings D/ST",
         "id": -16016,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good",
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 2,
         "benched": 1,
@@ -2978,9 +3183,10 @@
     {
         "name": "Ricky Seals-Jones",
         "id": 3051806,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 2,
         "benched": 1,
@@ -2992,9 +3198,10 @@
     {
         "name": "Kadarius Toney",
         "id": 4240600,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 7,
@@ -3006,10 +3213,11 @@
     {
         "name": "Sam Darnold",
         "id": 3912547,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 1,
@@ -3021,9 +3229,10 @@
     {
         "name": "Khalil Herbert",
         "id": 4035886,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 3,
         "benched": 1,
@@ -3035,10 +3244,11 @@
     {
         "name": "Zach Ertz",
         "id": 15835,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King",
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 4,
         "benched": 5,
@@ -3050,9 +3260,10 @@
     {
         "name": "Tim Patrick",
         "id": 3134353,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 2,
         "benched": 0,
@@ -3064,9 +3275,10 @@
     {
         "name": "Jerick McKinnon",
         "id": 16782,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3078,9 +3290,10 @@
     {
         "name": "Rashaad Penny",
         "id": 3139925,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "GolasoKing",
         "position": "RB",
         "starts": 0,
         "benched": 3,
@@ -3092,9 +3305,10 @@
     {
         "name": "D'Ernest Johnson",
         "id": 3139602,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 5,
         "benched": 3,
@@ -3106,9 +3320,10 @@
     {
         "name": "O.J. Howard",
         "id": 3043080,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 1,
         "benched": 0,
@@ -3120,9 +3335,10 @@
     {
         "name": "Jets D/ST",
         "id": -16020,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 1,
         "benched": 1,
@@ -3134,9 +3350,10 @@
     {
         "name": "Matt Ryan",
         "id": 11237,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 0,
@@ -3148,9 +3365,10 @@
     {
         "name": "Demetric Felton",
         "id": 4035826,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3162,9 +3380,10 @@
     {
         "name": "Deshaun Watson",
         "id": 3122840,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 0,
         "benched": 1,
@@ -3176,10 +3395,11 @@
     {
         "name": "Boston Scott",
         "id": 3051439,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now",
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 2,
@@ -3191,12 +3411,13 @@
     {
         "name": "Kirk Cousins",
         "id": 14880,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Golaso King Seabass",
             "Big Nick Energy",
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 4,
         "benched": 1,
@@ -3208,9 +3429,10 @@
     {
         "name": "C.J. Uzomah",
         "id": 2574576,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 1,
         "benched": 0,
@@ -3222,10 +3444,11 @@
     {
         "name": "Jeff Wilson Jr.",
         "id": 3122976,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy",
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 2,
         "benched": 3,
@@ -3237,9 +3460,10 @@
     {
         "name": "Chiefs D/ST",
         "id": -16012,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 0,
@@ -3251,10 +3475,11 @@
     {
         "name": "Ty Johnson",
         "id": 3915411,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 4,
         "benched": 2,
@@ -3266,11 +3491,12 @@
     {
         "name": "Van Jefferson",
         "id": 3930066,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show",
             "Big Nick Energy",
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 3,
         "benched": 1,
@@ -3282,9 +3508,10 @@
     {
         "name": "Pat Freiermuth",
         "id": 4361411,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 6,
         "benched": 0,
@@ -3296,9 +3523,10 @@
     {
         "name": "Derrick Gore",
         "id": 3925346,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3310,9 +3538,10 @@
     {
         "name": "Bryan Edwards",
         "id": 4038818,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "Comish11",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -3324,10 +3553,11 @@
     {
         "name": "Adrian Peterson",
         "id": 10452,
-        "teams": [
+        "active_rosters": [
             "La La Land",
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 2,
@@ -3339,9 +3569,10 @@
     {
         "name": "Rashod Bateman",
         "id": 4360939,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 5,
@@ -3353,9 +3584,10 @@
     {
         "name": "Brandon Bolden",
         "id": 15478,
-        "teams": [
+        "active_rosters": [
             "Golaso King Seabass"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 2,
@@ -3367,9 +3599,10 @@
     {
         "name": "Le'Veon Bell",
         "id": 15825,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3381,9 +3614,10 @@
     {
         "name": "Donovan Peoples-Jones",
         "id": 4258195,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -3395,9 +3629,10 @@
     {
         "name": "Jordan Howard",
         "id": 3060022,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3409,9 +3644,10 @@
     {
         "name": "Eno Benjamin",
         "id": 4242873,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 5,
@@ -3423,9 +3659,10 @@
     {
         "name": "Dan Arnold",
         "id": 4212989,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 2,
         "benched": 0,
@@ -3437,9 +3674,10 @@
     {
         "name": "Jalen Richard",
         "id": 2972091,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 0,
@@ -3451,9 +3689,10 @@
     {
         "name": "Carson Wentz",
         "id": 2573079,
-        "teams": [
+        "active_rosters": [
             "The Tiger  King"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 0,
@@ -3465,9 +3704,10 @@
     {
         "name": "Randall Cobb",
         "id": 14053,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -3479,9 +3719,10 @@
     {
         "name": "Eagles D/ST",
         "id": -16021,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 3,
         "benched": 1,
@@ -3493,9 +3734,10 @@
     {
         "name": "D'Onta Foreman",
         "id": 3125116,
-        "teams": [
+        "active_rosters": [
             "I Kelce Clearly Now"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 2,
         "benched": 2,
@@ -3507,9 +3749,10 @@
     {
         "name": "Wayne Gallman",
         "id": 3045127,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3521,9 +3764,10 @@
     {
         "name": "Cedrick Wilson",
         "id": 4036335,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 0,
@@ -3535,9 +3779,10 @@
     {
         "name": "Dontrell Hilliard",
         "id": 3126246,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 2,
@@ -3549,9 +3794,10 @@
     {
         "name": "Cam Newton",
         "id": 13994,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 0,
         "benched": 1,
@@ -3563,9 +3809,10 @@
     {
         "name": "Matt Breida",
         "id": 3049916,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3577,9 +3824,10 @@
     {
         "name": "Foster Moreau",
         "id": 3843945,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 0,
         "benched": 1,
@@ -3591,9 +3839,10 @@
     {
         "name": "Mike Boone",
         "id": 3139033,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 1,
@@ -3605,9 +3854,10 @@
     {
         "name": "Matthew Slater",
         "id": 11387,
-        "teams": [
+        "active_rosters": [
             "St Charles 69ers"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 1,
@@ -3619,9 +3869,10 @@
     {
         "name": "Kendrick Bourne",
         "id": 3045523,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 0,
@@ -3633,9 +3884,10 @@
     {
         "name": "Rex Burkhead",
         "id": 15971,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 1,
         "benched": 1,
@@ -3647,9 +3899,10 @@
     {
         "name": "Gardner Minshew",
         "id": 4038524,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 0,
@@ -3661,9 +3914,10 @@
     {
         "name": "Taysom Hill",
         "id": 2468609,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 0,
         "benched": 2,
@@ -3675,9 +3929,10 @@
     {
         "name": "Cam Akers",
         "id": 4240021,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 2,
@@ -3689,9 +3944,10 @@
     {
         "name": "J.K. Dobbins",
         "id": 4241985,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 2,
@@ -3703,9 +3959,10 @@
     {
         "name": "Marquez Valdes-Scantling",
         "id": 3051738,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 1,
         "benched": 0,
@@ -3717,9 +3974,10 @@
     {
         "name": "Gerald Everett",
         "id": 3918639,
-        "teams": [
+        "active_rosters": [
             "Big Nick Energy"
         ],
+        "drafted_by": "NA",
         "position": "TE",
         "starts": 1,
         "benched": 0,
@@ -3731,9 +3989,10 @@
     {
         "name": "Travis Etienne Jr.",
         "id": 4239996,
-        "teams": [
+        "active_rosters": [
             "fore PLAY"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3745,9 +4004,10 @@
     {
         "name": "Taylor Heinicke",
         "id": 2565969,
-        "teams": [
+        "active_rosters": [
             "Hurts So Good"
         ],
+        "drafted_by": "NA",
         "position": "QB",
         "starts": 1,
         "benched": 0,
@@ -3759,9 +4019,10 @@
     {
         "name": "Seahawks D/ST",
         "id": -16026,
-        "teams": [
+        "active_rosters": [
             "Freiermuth Gong Show"
         ],
+        "drafted_by": "NA",
         "position": "D/ST",
         "starts": 1,
         "benched": 0,
@@ -3773,9 +4034,10 @@
     {
         "name": "JaMycal Hasty",
         "id": 3928925,
-        "teams": [
+        "active_rosters": [
             "La La Land"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
@@ -3787,9 +4049,10 @@
     {
         "name": "K.J. Osborn",
         "id": 3916566,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "WR",
         "starts": 0,
         "benched": 1,
@@ -3801,9 +4064,10 @@
     {
         "name": "Godwin Igwebuike",
         "id": 3045238,
-        "teams": [
+        "active_rosters": [
             "Game of Jones"
         ],
+        "drafted_by": "NA",
         "position": "RB",
         "starts": 0,
         "benched": 1,
