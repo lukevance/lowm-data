@@ -1,6 +1,7 @@
 const allGamesRegularSeason = require('./playerGames');
 const teams = require('./teams');
 const draftBoard2021 = require('./draft');
+const sleeperESPNmap = require('../sleeper_espn_map.json');
 
 const onlyUnique = (val, index, self) => self.indexOf(val) === index;
 
@@ -14,11 +15,16 @@ const checkDrafted = (player, draftBoard) => {
     } else if (matches.length > 1) {
         return matches.filter(match => match.player_position === player.position)[0];
     } else {
-        // check for suffixes between Sleeper/ESPN names
+        // check for suffixes in ESPN names
         const suffixes = ["Jr.", "Sr.", "II", "III", "V"];
         const nameSuffix = suffixes.filter(element => player.name.split(" ").includes(element)); 
         const suffixIndex = player.name.split(" ").indexOf(nameSuffix[0]);
-        if (suffixIndex > -1 ) {
+        // check for known exceptions
+        if (sleeperESPNmap.some(plyr => plyr.espn_id === player.playerId)) {
+            const mappedPlayer = sleeperESPNmap.find(plyr => plyr.espn_id === player.playerId);
+            const match = draftBoard.find(pick => pick.player_id == mappedPlayer.sleeper_id);
+            return match;
+        } else if (suffixIndex > -1 ) {
             // look for matches after removing suffixes
             const modName = player.name.split(" ").filter((v, i) => i != suffixIndex).join(" ");
             const looseMatches = draftBoard.filter(pick => pick.player_name === modName);
@@ -38,6 +44,7 @@ const checkDrafted = (player, draftBoard) => {
             const initialMatches = draftBoard.filter(pick => pick.player_name === initialNameRmDots);
             return initialMatches[0] ? initialMatches[0]: null;
         } else {
+            // for undrafted players return no match
             return null;
         }
     }
@@ -55,6 +62,7 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
                     .map(teamId => teams.find(tm => tm.id === teamId).name),
         drafted_by: playerDrafted ? playerDrafted.team_draft_user_name : "NA",
         position: playerGames[0].position,
+        years_exp: playerDrafted ? playerDrafted.player_exp * 1 : -1,
         starts: playerStarts.length,
         benched: playerGames.filter(game => !game.starter).length,
         total_points: playerGames.map(game => game.points).reduce((prev, curr) => prev + curr).toFixed(2) * 1,
