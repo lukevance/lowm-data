@@ -1,4 +1,5 @@
-const {regularSeason, postSeason} = require('./weeklyRosters');
+// const {regularSeason, postSeason} = require('./weeklyRosters');
+const {regularSeason} = require('./2022/weeklyRosters');
 
 const scheduleTeamHomeOrAway = (game, teamId) => {
     if (game.away.teamId === teamId){
