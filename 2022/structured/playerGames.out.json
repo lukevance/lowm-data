@@ -1,0 +1,6402 @@
+[
+    {
+        "id": "pl14881wk1",
+        "team": 1,
+        "week": 1,
+        "position": "QB",
+        "name": "Russell Wilson",
+        "playerId": 14881,
+        "points": 17.8,
+        "starter": true
+    },
+    {
+        "id": "pl3116593wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Dalvin Cook",
+        "playerId": 3116593,
+        "points": 12.3,
+        "starter": true
+    },
+    {
+        "id": "pl4047646wk1",
+        "team": 1,
+        "week": 1,
+        "position": "WR",
+        "name": "A.J. Brown",
+        "playerId": 4047646,
+        "points": 20.5,
+        "starter": true
+    },
+    {
+        "id": "pl4362887wk1",
+        "team": 1,
+        "week": 1,
+        "position": "QB",
+        "name": "Justin Fields",
+        "playerId": 4362887,
+        "points": 13.64,
+        "starter": false
+    },
+    {
+        "id": "pl3128429wk1",
+        "team": 1,
+        "week": 1,
+        "position": "WR",
+        "name": "Courtland Sutton",
+        "playerId": 3128429,
+        "points": 9.2,
+        "starter": true
+    },
+    {
+        "id": "pl4241555wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Elijah Mitchell",
+        "playerId": 4241555,
+        "points": 4.1,
+        "starter": true
+    },
+    {
+        "id": "pl3117256wk1",
+        "team": 1,
+        "week": 1,
+        "position": "TE",
+        "name": "Dalton Schultz",
+        "playerId": 3117256,
+        "points": 9.7,
+        "starter": true
+    },
+    {
+        "id": "pl4242214wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Clyde Edwards-Helaire",
+        "playerId": 4242214,
+        "points": 20.9,
+        "starter": false
+    },
+    {
+        "id": "pl3126486wk1",
+        "team": 1,
+        "week": 1,
+        "position": "WR",
+        "name": "Deebo Samuel",
+        "playerId": 3126486,
+        "points": 11.6,
+        "starter": false
+    },
+    {
+        "id": "pl4040761wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Devin Singletary",
+        "playerId": 4040761,
+        "points": 7.2,
+        "starter": false
+    },
+    {
+        "id": "pl4035687wk1",
+        "team": 1,
+        "week": 1,
+        "position": "WR",
+        "name": "Michael Pittman Jr.",
+        "playerId": 4035687,
+        "points": 22.6,
+        "starter": true
+    },
+    {
+        "id": "pl4048244wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Alexander Mattison",
+        "playerId": 4048244,
+        "points": 3.6,
+        "starter": false
+    },
+    {
+        "id": "pl4361529wk1",
+        "team": 1,
+        "week": 1,
+        "position": "RB",
+        "name": "Isiah Pacheco",
+        "playerId": 4361529,
+        "points": 12.2,
+        "starter": false
+    },
+    {
+        "id": "pl-16011wk1",
+        "team": 1,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Colts D/ST",
+        "playerId": -16011,
+        "points": 7,
+        "starter": true
+    },
+    {
+        "id": "pl4361432wk1",
+        "team": 1,
+        "week": 1,
+        "position": "WR",
+        "name": "Romeo Doubs",
+        "playerId": 4361432,
+        "points": 6.8,
+        "starter": false
+    },
+    {
+        "id": "pl2576980wk1",
+        "team": 1,
+        "week": 1,
+        "position": "QB",
+        "name": "Marcus Mariota",
+        "playerId": 2576980,
+        "points": 19.8,
+        "starter": true
+    },
+    {
+        "id": "pl4040715wk1",
+        "team": 2,
+        "week": 1,
+        "position": "QB",
+        "name": "Jalen Hurts",
+        "playerId": 4040715,
+        "points": 24.72,
+        "starter": true
+    },
+    {
+        "id": "pl2976212wk1",
+        "team": 2,
+        "week": 1,
+        "position": "WR",
+        "name": "Stefon Diggs",
+        "playerId": 2976212,
+        "points": 22.2,
+        "starter": true
+    },
+    {
+        "id": "pl3116406wk1",
+        "team": 2,
+        "week": 1,
+        "position": "WR",
+        "name": "Tyreek Hill",
+        "playerId": 3116406,
+        "points": 14,
+        "starter": true
+    },
+    {
+        "id": "pl4239993wk1",
+        "team": 2,
+        "week": 1,
+        "position": "WR",
+        "name": "Tee Higgins",
+        "playerId": 4239993,
+        "points": 3.7,
+        "starter": true
+    },
+    {
+        "id": "pl4241479wk1",
+        "team": 2,
+        "week": 1,
+        "position": "QB",
+        "name": "Tua Tagovailoa",
+        "playerId": 4241479,
+        "points": 14.8,
+        "starter": true
+    },
+    {
+        "id": "pl4241985wk1",
+        "team": 2,
+        "week": 1,
+        "position": "RB",
+        "name": "J.K. Dobbins",
+        "playerId": 4241985,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4243537wk1",
+        "team": 2,
+        "week": 1,
+        "position": "WR",
+        "name": "Gabe Davis",
+        "playerId": 4243537,
+        "points": 16.8,
+        "starter": false
+    },
+    {
+        "id": "pl4239934wk1",
+        "team": 2,
+        "week": 1,
+        "position": "RB",
+        "name": "AJ Dillon",
+        "playerId": 4239934,
+        "points": 17.6,
+        "starter": true
+    },
+    {
+        "id": "pl4361259wk1",
+        "team": 2,
+        "week": 1,
+        "position": "QB",
+        "name": "Zach Wilson",
+        "playerId": 4361259,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3916148wk1",
+        "team": 2,
+        "week": 1,
+        "position": "RB",
+        "name": "Tony Pollard",
+        "playerId": 3916148,
+        "points": 3.2,
+        "starter": true
+    },
+    {
+        "id": "pl15835wk1",
+        "team": 2,
+        "week": 1,
+        "position": "TE",
+        "name": "Zach Ertz",
+        "playerId": 15835,
+        "points": 10.4,
+        "starter": true
+    },
+    {
+        "id": "pl3917792wk1",
+        "team": 2,
+        "week": 1,
+        "position": "QB",
+        "name": "Daniel Jones",
+        "playerId": 3917792,
+        "points": 16.02,
+        "starter": false
+    },
+    {
+        "id": "pl4430191wk1",
+        "team": 2,
+        "week": 1,
+        "position": "WR",
+        "name": "Skyy Moore",
+        "playerId": 4430191,
+        "points": 3.5,
+        "starter": false
+    },
+    {
+        "id": "pl3046439wk1",
+        "team": 2,
+        "week": 1,
+        "position": "TE",
+        "name": "Hunter Henry",
+        "playerId": 3046439,
+        "points": 3,
+        "starter": false
+    },
+    {
+        "id": "pl-16009wk1",
+        "team": 2,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Packers D/ST",
+        "playerId": -16009,
+        "points": 0,
+        "starter": true
+    },
+    {
+        "id": "pl3912550wk1",
+        "team": 2,
+        "week": 1,
+        "position": "RB",
+        "name": "Ronald Jones",
+        "playerId": 3912550,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3068267wk1",
+        "team": 3,
+        "week": 1,
+        "position": "RB",
+        "name": "Austin Ekeler",
+        "playerId": 3068267,
+        "points": 9.2,
+        "starter": true
+    },
+    {
+        "id": "pl3116385wk1",
+        "team": 3,
+        "week": 1,
+        "position": "RB",
+        "name": "Joe Mixon",
+        "playerId": 3116385,
+        "points": 18,
+        "starter": true
+    },
+    {
+        "id": "pl16757wk1",
+        "team": 3,
+        "week": 1,
+        "position": "QB",
+        "name": "Derek Carr",
+        "playerId": 16757,
+        "points": 13.8,
+        "starter": true
+    },
+    {
+        "id": "pl4047650wk1",
+        "team": 3,
+        "week": 1,
+        "position": "WR",
+        "name": "DK Metcalf",
+        "playerId": 4047650,
+        "points": 5.1,
+        "starter": true
+    },
+    {
+        "id": "pl2576925wk1",
+        "team": 3,
+        "week": 1,
+        "position": "TE",
+        "name": "Darren Waller",
+        "playerId": 2576925,
+        "points": 9.9,
+        "starter": true
+    },
+    {
+        "id": "pl4241463wk1",
+        "team": 3,
+        "week": 1,
+        "position": "WR",
+        "name": "Jerry Jeudy",
+        "playerId": 4241463,
+        "points": 18.2,
+        "starter": true
+    },
+    {
+        "id": "pl4040655wk1",
+        "team": 3,
+        "week": 1,
+        "position": "WR",
+        "name": "Darnell Mooney",
+        "playerId": 4040655,
+        "points": 1.3,
+        "starter": false
+    },
+    {
+        "id": "pl2976499wk1",
+        "team": 3,
+        "week": 1,
+        "position": "WR",
+        "name": "Amari Cooper",
+        "playerId": 2976499,
+        "points": 3.2,
+        "starter": false
+    },
+    {
+        "id": "pl3925347wk1",
+        "team": 3,
+        "week": 1,
+        "position": "RB",
+        "name": "Damien Harris",
+        "playerId": 3925347,
+        "points": 6.8,
+        "starter": false
+    },
+    {
+        "id": "pl12483wk1",
+        "team": 3,
+        "week": 1,
+        "position": "QB",
+        "name": "Matthew Stafford",
+        "playerId": 12483,
+        "points": 7.8,
+        "starter": true
+    },
+    {
+        "id": "pl15880wk1",
+        "team": 3,
+        "week": 1,
+        "position": "WR",
+        "name": "Robert Woods",
+        "playerId": 15880,
+        "points": 1.8,
+        "starter": false
+    },
+    {
+        "id": "pl4052042wk1",
+        "team": 3,
+        "week": 1,
+        "position": "RB",
+        "name": "James Robinson",
+        "playerId": 4052042,
+        "points": 19.4,
+        "starter": false
+    },
+    {
+        "id": "pl2975674wk1",
+        "team": 3,
+        "week": 1,
+        "position": "TE",
+        "name": "Robert Tonyan",
+        "playerId": 2975674,
+        "points": 5.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16006wk1",
+        "team": 3,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Cowboys D/ST",
+        "playerId": -16006,
+        "points": 4,
+        "starter": false
+    },
+    {
+        "id": "pl4239996wk1",
+        "team": 3,
+        "week": 1,
+        "position": "RB",
+        "name": "Travis Etienne Jr.",
+        "playerId": 4239996,
+        "points": 7.5,
+        "starter": true
+    },
+    {
+        "id": "pl-16004wk1",
+        "team": 3,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Bengals D/ST",
+        "playerId": -16004,
+        "points": 4,
+        "starter": true
+    },
+    {
+        "id": "pl4241457wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "Najee Harris",
+        "playerId": 4241457,
+        "points": 9.6,
+        "starter": true
+    },
+    {
+        "id": "pl4383351wk1",
+        "team": 4,
+        "week": 1,
+        "position": "QB",
+        "name": "Trey Lance",
+        "playerId": 4383351,
+        "points": 9.96,
+        "starter": true
+    },
+    {
+        "id": "pl3116365wk1",
+        "team": 4,
+        "week": 1,
+        "position": "TE",
+        "name": "Mark Andrews",
+        "playerId": 3116365,
+        "points": 7.7,
+        "starter": true
+    },
+    {
+        "id": "pl2977187wk1",
+        "team": 4,
+        "week": 1,
+        "position": "WR",
+        "name": "Cooper Kupp",
+        "playerId": 2977187,
+        "points": 25.3,
+        "starter": true
+    },
+    {
+        "id": "pl4035538wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "David Montgomery",
+        "playerId": 4035538,
+        "points": 6.5,
+        "starter": true
+    },
+    {
+        "id": "pl3120348wk1",
+        "team": 4,
+        "week": 1,
+        "position": "WR",
+        "name": "JuJu Smith-Schuster",
+        "playerId": 3120348,
+        "points": 8.9,
+        "starter": true
+    },
+    {
+        "id": "pl4360294wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "Antonio Gibson",
+        "playerId": 4360294,
+        "points": 16.5,
+        "starter": true
+    },
+    {
+        "id": "pl15807wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "Cordarrelle Patterson",
+        "playerId": 15807,
+        "points": 21.1,
+        "starter": false
+    },
+    {
+        "id": "pl16460wk1",
+        "team": 4,
+        "week": 1,
+        "position": "WR",
+        "name": "Adam Thielen",
+        "playerId": 16460,
+        "points": 5.1,
+        "starter": false
+    },
+    {
+        "id": "pl3128390wk1",
+        "team": 4,
+        "week": 1,
+        "position": "WR",
+        "name": "Allen Lazard",
+        "playerId": 3128390,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4379399wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "James Cook",
+        "playerId": 4379399,
+        "points": -1.8,
+        "starter": false
+    },
+    {
+        "id": "pl2576623wk1",
+        "team": 4,
+        "week": 1,
+        "position": "WR",
+        "name": "DeVante Parker",
+        "playerId": 2576623,
+        "points": 1.4,
+        "starter": false
+    },
+    {
+        "id": "pl4697815wk1",
+        "team": 4,
+        "week": 1,
+        "position": "RB",
+        "name": "Rachaad White",
+        "playerId": 4697815,
+        "points": 3.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16025wk1",
+        "team": 4,
+        "week": 1,
+        "position": "D/ST",
+        "name": "49ers D/ST",
+        "playerId": -16025,
+        "points": 6,
+        "starter": true
+    },
+    {
+        "id": "pl2330wk1",
+        "team": 4,
+        "week": 1,
+        "position": "QB",
+        "name": "Tom Brady",
+        "playerId": 2330,
+        "points": 10.38,
+        "starter": true
+    },
+    {
+        "id": "pl2573079wk1",
+        "team": 4,
+        "week": 1,
+        "position": "QB",
+        "name": "Carson Wentz",
+        "playerId": 2573079,
+        "points": 27.72,
+        "starter": false
+    },
+    {
+        "id": "pl3117251wk1",
+        "team": 5,
+        "week": 1,
+        "position": "RB",
+        "name": "Christian McCaffrey",
+        "playerId": 3117251,
+        "points": 13.7,
+        "starter": true
+    },
+    {
+        "id": "pl8439wk1",
+        "team": 5,
+        "week": 1,
+        "position": "QB",
+        "name": "Aaron Rodgers",
+        "playerId": 8439,
+        "points": 3.7,
+        "starter": true
+    },
+    {
+        "id": "pl3128720wk1",
+        "team": 5,
+        "week": 1,
+        "position": "RB",
+        "name": "Nick Chubb",
+        "playerId": 3128720,
+        "points": 14.8,
+        "starter": true
+    },
+    {
+        "id": "pl3121023wk1",
+        "team": 5,
+        "week": 1,
+        "position": "TE",
+        "name": "Dallas Goedert",
+        "playerId": 3121023,
+        "points": 7.5,
+        "starter": true
+    },
+    {
+        "id": "pl3932905wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Diontae Johnson",
+        "playerId": 3932905,
+        "points": 9,
+        "starter": false
+    },
+    {
+        "id": "pl11237wk1",
+        "team": 5,
+        "week": 1,
+        "position": "QB",
+        "name": "Matt Ryan",
+        "playerId": 11237,
+        "points": 15.28,
+        "starter": true
+    },
+    {
+        "id": "pl16731wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Brandin Cooks",
+        "playerId": 16731,
+        "points": 11.7,
+        "starter": true
+    },
+    {
+        "id": "pl4372414wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Elijah Moore",
+        "playerId": 4372414,
+        "points": 7.4,
+        "starter": true
+    },
+    {
+        "id": "pl4361411wk1",
+        "team": 5,
+        "week": 1,
+        "position": "TE",
+        "name": "Pat Freiermuth",
+        "playerId": 4361411,
+        "points": 10,
+        "starter": false
+    },
+    {
+        "id": "pl2576434wk1",
+        "team": 5,
+        "week": 1,
+        "position": "RB",
+        "name": "Melvin Gordon III",
+        "playerId": 2576434,
+        "points": 6.2,
+        "starter": false
+    },
+    {
+        "id": "pl2577327wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Tyler Lockett",
+        "playerId": 2577327,
+        "points": 4.3,
+        "starter": false
+    },
+    {
+        "id": "pl4569618wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Garrett Wilson",
+        "playerId": 4569618,
+        "points": 7.2,
+        "starter": false
+    },
+    {
+        "id": "pl4371733wk1",
+        "team": 5,
+        "week": 1,
+        "position": "RB",
+        "name": "Kenneth Gainwell",
+        "playerId": 4371733,
+        "points": 10.2,
+        "starter": false
+    },
+    {
+        "id": "pl4039359wk1",
+        "team": 5,
+        "week": 1,
+        "position": "RB",
+        "name": "Darrell Henderson Jr.",
+        "playerId": 4039359,
+        "points": 9.8,
+        "starter": false
+    },
+    {
+        "id": "pl-16002wk1",
+        "team": 5,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Bills D/ST",
+        "playerId": -16002,
+        "points": 18,
+        "starter": true
+    },
+    {
+        "id": "pl4262921wk1",
+        "team": 5,
+        "week": 1,
+        "position": "WR",
+        "name": "Justin Jefferson",
+        "playerId": 4262921,
+        "points": 34.9,
+        "starter": true
+    },
+    {
+        "id": "pl3916387wk1",
+        "team": 6,
+        "week": 1,
+        "position": "QB",
+        "name": "Lamar Jackson",
+        "playerId": 3916387,
+        "points": 20.22,
+        "starter": true
+    },
+    {
+        "id": "pl16800wk1",
+        "team": 6,
+        "week": 1,
+        "position": "WR",
+        "name": "Davante Adams",
+        "playerId": 16800,
+        "points": 25.1,
+        "starter": true
+    },
+    {
+        "id": "pl3054850wk1",
+        "team": 6,
+        "week": 1,
+        "position": "RB",
+        "name": "Alvin Kamara",
+        "playerId": 3054850,
+        "points": 6.1,
+        "starter": true
+    },
+    {
+        "id": "pl3040151wk1",
+        "team": 6,
+        "week": 1,
+        "position": "TE",
+        "name": "George Kittle",
+        "playerId": 3040151,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl14880wk1",
+        "team": 6,
+        "week": 1,
+        "position": "QB",
+        "name": "Kirk Cousins",
+        "playerId": 14880,
+        "points": 19.08,
+        "starter": true
+    },
+    {
+        "id": "pl4259545wk1",
+        "team": 6,
+        "week": 1,
+        "position": "RB",
+        "name": "D'Andre Swift",
+        "playerId": 4259545,
+        "points": 25,
+        "starter": true
+    },
+    {
+        "id": "pl2976316wk1",
+        "team": 6,
+        "week": 1,
+        "position": "WR",
+        "name": "Michael Thomas",
+        "playerId": 2976316,
+        "points": 20.2,
+        "starter": true
+    },
+    {
+        "id": "pl15795wk1",
+        "team": 6,
+        "week": 1,
+        "position": "WR",
+        "name": "DeAndre Hopkins",
+        "playerId": 15795,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3135321wk1",
+        "team": 6,
+        "week": 1,
+        "position": "WR",
+        "name": "Hunter Renfrow",
+        "playerId": 3135321,
+        "points": 3.6,
+        "starter": false
+    },
+    {
+        "id": "pl4360438wk1",
+        "team": 6,
+        "week": 1,
+        "position": "WR",
+        "name": "Brandon Aiyuk",
+        "playerId": 4360438,
+        "points": 5.7,
+        "starter": false
+    },
+    {
+        "id": "pl4240657wk1",
+        "team": 6,
+        "week": 1,
+        "position": "RB",
+        "name": "Michael Carter",
+        "playerId": 4240657,
+        "points": 13.5,
+        "starter": false
+    },
+    {
+        "id": "pl3916430wk1",
+        "team": 6,
+        "week": 1,
+        "position": "RB",
+        "name": "Nyheim Hines",
+        "playerId": 3916430,
+        "points": 8.4,
+        "starter": false
+    },
+    {
+        "id": "pl3122840wk1",
+        "team": 6,
+        "week": 1,
+        "position": "QB",
+        "name": "Deshaun Watson",
+        "playerId": 3122840,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4258595wk1",
+        "team": 6,
+        "week": 1,
+        "position": "TE",
+        "name": "Cole Kmet",
+        "playerId": 4258595,
+        "points": 0,
+        "starter": true
+    },
+    {
+        "id": "pl4240021wk1",
+        "team": 6,
+        "week": 1,
+        "position": "RB",
+        "name": "Cam Akers",
+        "playerId": 4240021,
+        "points": 0,
+        "starter": true
+    },
+    {
+        "id": "pl-16005wk1",
+        "team": 6,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Browns D/ST",
+        "playerId": -16005,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl3043078wk1",
+        "team": 7,
+        "week": 1,
+        "position": "RB",
+        "name": "Derrick Henry",
+        "playerId": 3043078,
+        "points": 8.2,
+        "starter": true
+    },
+    {
+        "id": "pl4242335wk1",
+        "team": 7,
+        "week": 1,
+        "position": "RB",
+        "name": "Jonathan Taylor",
+        "playerId": 4242335,
+        "points": 25.5,
+        "starter": true
+    },
+    {
+        "id": "pl15818wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Keenan Allen",
+        "playerId": 15818,
+        "points": 8.6,
+        "starter": true
+    },
+    {
+        "id": "pl4360248wk1",
+        "team": 7,
+        "week": 1,
+        "position": "TE",
+        "name": "Kyle Pitts",
+        "playerId": 4360248,
+        "points": 2.9,
+        "starter": true
+    },
+    {
+        "id": "pl3915416wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "DJ Moore",
+        "playerId": 3915416,
+        "points": 6.5,
+        "starter": true
+    },
+    {
+        "id": "pl4360310wk1",
+        "team": 7,
+        "week": 1,
+        "position": "QB",
+        "name": "Trevor Lawrence",
+        "playerId": 4360310,
+        "points": 13.4,
+        "starter": true
+    },
+    {
+        "id": "pl3116165wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Chris Godwin",
+        "playerId": 3116165,
+        "points": 5,
+        "starter": false
+    },
+    {
+        "id": "pl4374302wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Amon-Ra St. Brown",
+        "playerId": 4374302,
+        "points": 16.4,
+        "starter": false
+    },
+    {
+        "id": "pl3119195wk1",
+        "team": 7,
+        "week": 1,
+        "position": "RB",
+        "name": "Chase Edmonds",
+        "playerId": 3119195,
+        "points": 8.5,
+        "starter": false
+    },
+    {
+        "id": "pl3918298wk1",
+        "team": 7,
+        "week": 1,
+        "position": "QB",
+        "name": "Josh Allen",
+        "playerId": 3918298,
+        "points": 31.48,
+        "starter": true
+    },
+    {
+        "id": "pl3139925wk1",
+        "team": 7,
+        "week": 1,
+        "position": "RB",
+        "name": "Rashaad Penny",
+        "playerId": 3139925,
+        "points": 7.7,
+        "starter": true
+    },
+    {
+        "id": "pl4240600wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Kadarius Toney",
+        "playerId": 4240600,
+        "points": 2.3,
+        "starter": false
+    },
+    {
+        "id": "pl4361777wk1",
+        "team": 7,
+        "week": 1,
+        "position": "RB",
+        "name": "Zamir White",
+        "playerId": 4361777,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4036348wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Michael Gallup",
+        "playerId": 4036348,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4426388wk1",
+        "team": 7,
+        "week": 1,
+        "position": "WR",
+        "name": "Jameson Williams",
+        "playerId": 4426388,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16007wk1",
+        "team": 7,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Broncos D/ST",
+        "playerId": -16007,
+        "points": 7,
+        "starter": true
+    },
+    {
+        "id": "pl3917315wk1",
+        "team": 8,
+        "week": 1,
+        "position": "QB",
+        "name": "Kyler Murray",
+        "playerId": 3917315,
+        "points": 20.62,
+        "starter": true
+    },
+    {
+        "id": "pl4241389wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "CeeDee Lamb",
+        "playerId": 4241389,
+        "points": 3.9,
+        "starter": true
+    },
+    {
+        "id": "pl16737wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "Mike Evans",
+        "playerId": 16737,
+        "points": 15.6,
+        "starter": true
+    },
+    {
+        "id": "pl3045147wk1",
+        "team": 8,
+        "week": 1,
+        "position": "RB",
+        "name": "James Conner",
+        "playerId": 3045147,
+        "points": 14,
+        "starter": true
+    },
+    {
+        "id": "pl4427366wk1",
+        "team": 8,
+        "week": 1,
+        "position": "RB",
+        "name": "Breece Hall",
+        "playerId": 4427366,
+        "points": 7.1,
+        "starter": false
+    },
+    {
+        "id": "pl16799wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "Allen Robinson II",
+        "playerId": 16799,
+        "points": 1.7,
+        "starter": false
+    },
+    {
+        "id": "pl4362628wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "Ja'Marr Chase",
+        "playerId": 4362628,
+        "points": 23.9,
+        "starter": true
+    },
+    {
+        "id": "pl4360238wk1",
+        "team": 8,
+        "week": 1,
+        "position": "RB",
+        "name": "Dameon Pierce",
+        "playerId": 4360238,
+        "points": 4.4,
+        "starter": true
+    },
+    {
+        "id": "pl2969939wk1",
+        "team": 8,
+        "week": 1,
+        "position": "QB",
+        "name": "Jameis Winston",
+        "playerId": 2969939,
+        "points": 21.66,
+        "starter": true
+    },
+    {
+        "id": "pl4569173wk1",
+        "team": 8,
+        "week": 1,
+        "position": "RB",
+        "name": "Rhamondre Stevenson",
+        "playerId": 4569173,
+        "points": 3.7,
+        "starter": false
+    },
+    {
+        "id": "pl3895856wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "Christian Kirk",
+        "playerId": 3895856,
+        "points": 14.7,
+        "starter": false
+    },
+    {
+        "id": "pl3930086wk1",
+        "team": 8,
+        "week": 1,
+        "position": "TE",
+        "name": "Dawson Knox",
+        "playerId": 3930086,
+        "points": 1,
+        "starter": true
+    },
+    {
+        "id": "pl4035115wk1",
+        "team": 8,
+        "week": 1,
+        "position": "TE",
+        "name": "Albert Okwuegbunam",
+        "playerId": 4035115,
+        "points": 5.8,
+        "starter": false
+    },
+    {
+        "id": "pl4426354wk1",
+        "team": 8,
+        "week": 1,
+        "position": "WR",
+        "name": "George Pickens",
+        "playerId": 4426354,
+        "points": 0.8,
+        "starter": false
+    },
+    {
+        "id": "pl-16018wk1",
+        "team": 8,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Saints D/ST",
+        "playerId": -16018,
+        "points": 3,
+        "starter": true
+    },
+    {
+        "id": "pl-16021wk1",
+        "team": 8,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Eagles D/ST",
+        "playerId": -16021,
+        "points": 5,
+        "starter": false
+    },
+    {
+        "id": "pl3042519wk1",
+        "team": 9,
+        "week": 1,
+        "position": "RB",
+        "name": "Aaron Jones",
+        "playerId": 3042519,
+        "points": 9.1,
+        "starter": true
+    },
+    {
+        "id": "pl2577417wk1",
+        "team": 9,
+        "week": 1,
+        "position": "QB",
+        "name": "Dak Prescott",
+        "playerId": 2577417,
+        "points": 4.46,
+        "starter": true
+    },
+    {
+        "id": "pl4361579wk1",
+        "team": 9,
+        "week": 1,
+        "position": "RB",
+        "name": "Javonte Williams",
+        "playerId": 4361579,
+        "points": 14.3,
+        "starter": true
+    },
+    {
+        "id": "pl3115364wk1",
+        "team": 9,
+        "week": 1,
+        "position": "RB",
+        "name": "Leonard Fournette",
+        "playerId": 3115364,
+        "points": 14.7,
+        "starter": true
+    },
+    {
+        "id": "pl3045138wk1",
+        "team": 9,
+        "week": 1,
+        "position": "WR",
+        "name": "Mike Williams",
+        "playerId": 3045138,
+        "points": 2,
+        "starter": true
+    },
+    {
+        "id": "pl4241372wk1",
+        "team": 9,
+        "week": 1,
+        "position": "WR",
+        "name": "Marquise Brown",
+        "playerId": 4241372,
+        "points": 12.3,
+        "starter": true
+    },
+    {
+        "id": "pl4038941wk1",
+        "team": 9,
+        "week": 1,
+        "position": "QB",
+        "name": "Justin Herbert",
+        "playerId": 4038941,
+        "points": 23.26,
+        "starter": true
+    },
+    {
+        "id": "pl4036133wk1",
+        "team": 9,
+        "week": 1,
+        "position": "TE",
+        "name": "T.J. Hockenson",
+        "playerId": 4036133,
+        "points": 5.8,
+        "starter": true
+    },
+    {
+        "id": "pl4567048wk1",
+        "team": 9,
+        "week": 1,
+        "position": "RB",
+        "name": "Kenneth Walker III",
+        "playerId": 4567048,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4241478wk1",
+        "team": 9,
+        "week": 1,
+        "position": "WR",
+        "name": "DeVonta Smith",
+        "playerId": 4241478,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4045163wk1",
+        "team": 9,
+        "week": 1,
+        "position": "RB",
+        "name": "Miles Sanders",
+        "playerId": 4045163,
+        "points": 17.5,
+        "starter": false
+    },
+    {
+        "id": "pl4361370wk1",
+        "team": 9,
+        "week": 1,
+        "position": "WR",
+        "name": "Chris Olave",
+        "playerId": 4361370,
+        "points": 7.6,
+        "starter": false
+    },
+    {
+        "id": "pl4046692wk1",
+        "team": 9,
+        "week": 1,
+        "position": "WR",
+        "name": "Chase Claypool",
+        "playerId": 4046692,
+        "points": 7.4,
+        "starter": false
+    },
+    {
+        "id": "pl3116164wk1",
+        "team": 9,
+        "week": 1,
+        "position": "TE",
+        "name": "Mike Gesicki",
+        "playerId": 3116164,
+        "points": 0.6,
+        "starter": false
+    },
+    {
+        "id": "pl-16027wk1",
+        "team": 9,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Buccaneers D/ST",
+        "playerId": -16027,
+        "points": 12,
+        "starter": false
+    },
+    {
+        "id": "pl-16010wk1",
+        "team": 9,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Titans D/ST",
+        "playerId": -16010,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl3139477wk1",
+        "team": 10,
+        "week": 1,
+        "position": "QB",
+        "name": "Patrick Mahomes",
+        "playerId": 3139477,
+        "points": 34.9,
+        "starter": true
+    },
+    {
+        "id": "pl15847wk1",
+        "team": 10,
+        "week": 1,
+        "position": "TE",
+        "name": "Travis Kelce",
+        "playerId": 15847,
+        "points": 22.1,
+        "starter": true
+    },
+    {
+        "id": "pl3929630wk1",
+        "team": 10,
+        "week": 1,
+        "position": "RB",
+        "name": "Saquon Barkley",
+        "playerId": 3929630,
+        "points": 30.4,
+        "starter": true
+    },
+    {
+        "id": "pl3051392wk1",
+        "team": 10,
+        "week": 1,
+        "position": "RB",
+        "name": "Ezekiel Elliott",
+        "playerId": 3051392,
+        "points": 5.4,
+        "starter": true
+    },
+    {
+        "id": "pl3121422wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Terry McLaurin",
+        "playerId": 3121422,
+        "points": 12.8,
+        "starter": true
+    },
+    {
+        "id": "pl4360939wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Rashod Bateman",
+        "playerId": 4360939,
+        "points": 12.9,
+        "starter": false
+    },
+    {
+        "id": "pl4047365wk1",
+        "team": 10,
+        "week": 1,
+        "position": "RB",
+        "name": "Josh Jacobs",
+        "playerId": 4047365,
+        "points": 7.8,
+        "starter": true
+    },
+    {
+        "id": "pl3059915wk1",
+        "team": 10,
+        "week": 1,
+        "position": "RB",
+        "name": "Kareem Hunt",
+        "playerId": 3059915,
+        "points": 21,
+        "starter": false
+    },
+    {
+        "id": "pl4426502wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Drake London",
+        "playerId": 4426502,
+        "points": 9.9,
+        "starter": false
+    },
+    {
+        "id": "pl4567156wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Treylon Burks",
+        "playerId": 4567156,
+        "points": 7,
+        "starter": false
+    },
+    {
+        "id": "pl4372016wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Jaylen Waddle",
+        "playerId": 4372016,
+        "points": 15.7,
+        "starter": true
+    },
+    {
+        "id": "pl3915511wk1",
+        "team": 10,
+        "week": 1,
+        "position": "QB",
+        "name": "Joe Burrow",
+        "playerId": 3915511,
+        "points": 18.22,
+        "starter": true
+    },
+    {
+        "id": "pl4373626wk1",
+        "team": 10,
+        "week": 1,
+        "position": "RB",
+        "name": "Tyler Allgeier",
+        "playerId": 4373626,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4241410wk1",
+        "team": 10,
+        "week": 1,
+        "position": "TE",
+        "name": "Jelani Woods",
+        "playerId": 4241410,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16033wk1",
+        "team": 10,
+        "week": 1,
+        "position": "D/ST",
+        "name": "Ravens D/ST",
+        "playerId": -16033,
+        "points": 9,
+        "starter": true
+    },
+    {
+        "id": "pl13982wk1",
+        "team": 10,
+        "week": 1,
+        "position": "WR",
+        "name": "Julio Jones",
+        "playerId": 13982,
+        "points": 10.1,
+        "starter": false
+    },
+    {
+        "id": "pl14881wk2",
+        "team": 1,
+        "week": 2,
+        "position": "QB",
+        "name": "Russell Wilson",
+        "playerId": 14881,
+        "points": 11.06,
+        "starter": true
+    },
+    {
+        "id": "pl3116593wk2",
+        "team": 1,
+        "week": 2,
+        "position": "RB",
+        "name": "Dalvin Cook",
+        "playerId": 3116593,
+        "points": 5.6,
+        "starter": true
+    },
+    {
+        "id": "pl4047646wk2",
+        "team": 1,
+        "week": 2,
+        "position": "WR",
+        "name": "A.J. Brown",
+        "playerId": 4047646,
+        "points": 9.4,
+        "starter": true
+    },
+    {
+        "id": "pl4362887wk2",
+        "team": 1,
+        "week": 2,
+        "position": "QB",
+        "name": "Justin Fields",
+        "playerId": 4362887,
+        "points": 8.8,
+        "starter": true
+    },
+    {
+        "id": "pl3128429wk2",
+        "team": 1,
+        "week": 2,
+        "position": "WR",
+        "name": "Courtland Sutton",
+        "playerId": 3128429,
+        "points": 16.2,
+        "starter": true
+    },
+    {
+        "id": "pl3117256wk2",
+        "team": 1,
+        "week": 2,
+        "position": "TE",
+        "name": "Dalton Schultz",
+        "playerId": 3117256,
+        "points": 0.8,
+        "starter": true
+    },
+    {
+        "id": "pl4242214wk2",
+        "team": 1,
+        "week": 2,
+        "position": "RB",
+        "name": "Clyde Edwards-Helaire",
+        "playerId": 4242214,
+        "points": 13.8,
+        "starter": true
+    },
+    {
+        "id": "pl3126486wk2",
+        "team": 1,
+        "week": 2,
+        "position": "WR",
+        "name": "Deebo Samuel",
+        "playerId": 3126486,
+        "points": 12.2,
+        "starter": true
+    },
+    {
+        "id": "pl4040761wk2",
+        "team": 1,
+        "week": 2,
+        "position": "RB",
+        "name": "Devin Singletary",
+        "playerId": 4040761,
+        "points": 3.1,
+        "starter": false
+    },
+    {
+        "id": "pl4035687wk2",
+        "team": 1,
+        "week": 2,
+        "position": "WR",
+        "name": "Michael Pittman Jr.",
+        "playerId": 4035687,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4048244wk2",
+        "team": 1,
+        "week": 2,
+        "position": "RB",
+        "name": "Alexander Mattison",
+        "playerId": 4048244,
+        "points": 2.9,
+        "starter": false
+    },
+    {
+        "id": "pl4361529wk2",
+        "team": 1,
+        "week": 2,
+        "position": "RB",
+        "name": "Isiah Pacheco",
+        "playerId": 4361529,
+        "points": 0.6,
+        "starter": false
+    },
+    {
+        "id": "pl2576980wk2",
+        "team": 1,
+        "week": 2,
+        "position": "QB",
+        "name": "Marcus Mariota",
+        "playerId": 2576980,
+        "points": 13.44,
+        "starter": false
+    },
+    {
+        "id": "pl-16023wk2",
+        "team": 1,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Steelers D/ST",
+        "playerId": -16023,
+        "points": 2,
+        "starter": true
+    },
+    {
+        "id": "pl2574808wk2",
+        "team": 1,
+        "week": 2,
+        "position": "WR",
+        "name": "Robbie Anderson",
+        "playerId": 2574808,
+        "points": 2.7,
+        "starter": false
+    },
+    {
+        "id": "pl-16024wk2",
+        "team": 1,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Chargers D/ST",
+        "playerId": -16024,
+        "points": 1,
+        "starter": false
+    },
+    {
+        "id": "pl4040715wk2",
+        "team": 2,
+        "week": 2,
+        "position": "QB",
+        "name": "Jalen Hurts",
+        "playerId": 4040715,
+        "points": 33.02,
+        "starter": true
+    },
+    {
+        "id": "pl2976212wk2",
+        "team": 2,
+        "week": 2,
+        "position": "WR",
+        "name": "Stefon Diggs",
+        "playerId": 2976212,
+        "points": 38.8,
+        "starter": true
+    },
+    {
+        "id": "pl3116406wk2",
+        "team": 2,
+        "week": 2,
+        "position": "WR",
+        "name": "Tyreek Hill",
+        "playerId": 3116406,
+        "points": 36.5,
+        "starter": true
+    },
+    {
+        "id": "pl4239993wk2",
+        "team": 2,
+        "week": 2,
+        "position": "WR",
+        "name": "Tee Higgins",
+        "playerId": 4239993,
+        "points": 16.1,
+        "starter": true
+    },
+    {
+        "id": "pl4241479wk2",
+        "team": 2,
+        "week": 2,
+        "position": "QB",
+        "name": "Tua Tagovailoa",
+        "playerId": 4241479,
+        "points": 38.86,
+        "starter": true
+    },
+    {
+        "id": "pl4241985wk2",
+        "team": 2,
+        "week": 2,
+        "position": "RB",
+        "name": "J.K. Dobbins",
+        "playerId": 4241985,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4243537wk2",
+        "team": 2,
+        "week": 2,
+        "position": "WR",
+        "name": "Gabe Davis",
+        "playerId": 4243537,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4239934wk2",
+        "team": 2,
+        "week": 2,
+        "position": "RB",
+        "name": "AJ Dillon",
+        "playerId": 4239934,
+        "points": 7.2,
+        "starter": true
+    },
+    {
+        "id": "pl4361259wk2",
+        "team": 2,
+        "week": 2,
+        "position": "QB",
+        "name": "Zach Wilson",
+        "playerId": 4361259,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3916148wk2",
+        "team": 2,
+        "week": 2,
+        "position": "RB",
+        "name": "Tony Pollard",
+        "playerId": 3916148,
+        "points": 17.8,
+        "starter": true
+    },
+    {
+        "id": "pl15835wk2",
+        "team": 2,
+        "week": 2,
+        "position": "TE",
+        "name": "Zach Ertz",
+        "playerId": 15835,
+        "points": 11.5,
+        "starter": true
+    },
+    {
+        "id": "pl3917792wk2",
+        "team": 2,
+        "week": 2,
+        "position": "QB",
+        "name": "Daniel Jones",
+        "playerId": 3917792,
+        "points": 13.14,
+        "starter": false
+    },
+    {
+        "id": "pl4430191wk2",
+        "team": 2,
+        "week": 2,
+        "position": "WR",
+        "name": "Skyy Moore",
+        "playerId": 4430191,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3046439wk2",
+        "team": 2,
+        "week": 2,
+        "position": "TE",
+        "name": "Hunter Henry",
+        "playerId": 3046439,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16009wk2",
+        "team": 2,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Packers D/ST",
+        "playerId": -16009,
+        "points": 10,
+        "starter": true
+    },
+    {
+        "id": "pl3912550wk2",
+        "team": 2,
+        "week": 2,
+        "position": "RB",
+        "name": "Ronald Jones",
+        "playerId": 3912550,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3068267wk2",
+        "team": 3,
+        "week": 2,
+        "position": "RB",
+        "name": "Austin Ekeler",
+        "playerId": 3068267,
+        "points": 13.9,
+        "starter": true
+    },
+    {
+        "id": "pl3116385wk2",
+        "team": 3,
+        "week": 2,
+        "position": "RB",
+        "name": "Joe Mixon",
+        "playerId": 3116385,
+        "points": 9.8,
+        "starter": true
+    },
+    {
+        "id": "pl16757wk2",
+        "team": 3,
+        "week": 2,
+        "position": "QB",
+        "name": "Derek Carr",
+        "playerId": 16757,
+        "points": 18.98,
+        "starter": true
+    },
+    {
+        "id": "pl4047650wk2",
+        "team": 3,
+        "week": 2,
+        "position": "WR",
+        "name": "DK Metcalf",
+        "playerId": 4047650,
+        "points": 5.5,
+        "starter": true
+    },
+    {
+        "id": "pl2576925wk2",
+        "team": 3,
+        "week": 2,
+        "position": "TE",
+        "name": "Darren Waller",
+        "playerId": 2576925,
+        "points": 14,
+        "starter": true
+    },
+    {
+        "id": "pl4241463wk2",
+        "team": 3,
+        "week": 2,
+        "position": "WR",
+        "name": "Jerry Jeudy",
+        "playerId": 4241463,
+        "points": 1.7,
+        "starter": true
+    },
+    {
+        "id": "pl4040655wk2",
+        "team": 3,
+        "week": 2,
+        "position": "WR",
+        "name": "Darnell Mooney",
+        "playerId": 4040655,
+        "points": 0.1,
+        "starter": false
+    },
+    {
+        "id": "pl2976499wk2",
+        "team": 3,
+        "week": 2,
+        "position": "WR",
+        "name": "Amari Cooper",
+        "playerId": 2976499,
+        "points": 20.6,
+        "starter": false
+    },
+    {
+        "id": "pl3925347wk2",
+        "team": 3,
+        "week": 2,
+        "position": "RB",
+        "name": "Damien Harris",
+        "playerId": 3925347,
+        "points": 15.7,
+        "starter": false
+    },
+    {
+        "id": "pl12483wk2",
+        "team": 3,
+        "week": 2,
+        "position": "QB",
+        "name": "Matthew Stafford",
+        "playerId": 12483,
+        "points": 18.88,
+        "starter": true
+    },
+    {
+        "id": "pl4052042wk2",
+        "team": 3,
+        "week": 2,
+        "position": "RB",
+        "name": "James Robinson",
+        "playerId": 4052042,
+        "points": 14.8,
+        "starter": true
+    },
+    {
+        "id": "pl2975674wk2",
+        "team": 3,
+        "week": 2,
+        "position": "TE",
+        "name": "Robert Tonyan",
+        "playerId": 2975674,
+        "points": 2.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16006wk2",
+        "team": 3,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Cowboys D/ST",
+        "playerId": -16006,
+        "points": 9,
+        "starter": false
+    },
+    {
+        "id": "pl4239996wk2",
+        "team": 3,
+        "week": 2,
+        "position": "RB",
+        "name": "Travis Etienne Jr.",
+        "playerId": 4239996,
+        "points": 6.8,
+        "starter": false
+    },
+    {
+        "id": "pl-16004wk2",
+        "team": 3,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Bengals D/ST",
+        "playerId": -16004,
+        "points": 3,
+        "starter": true
+    },
+    {
+        "id": "pl3121427wk2",
+        "team": 3,
+        "week": 2,
+        "position": "WR",
+        "name": "Curtis Samuel",
+        "playerId": 3121427,
+        "points": 19.4,
+        "starter": false
+    },
+    {
+        "id": "pl4241457wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "Najee Harris",
+        "playerId": 4241457,
+        "points": 11.4,
+        "starter": true
+    },
+    {
+        "id": "pl4383351wk2",
+        "team": 4,
+        "week": 2,
+        "position": "QB",
+        "name": "Trey Lance",
+        "playerId": 4383351,
+        "points": 2.5,
+        "starter": false
+    },
+    {
+        "id": "pl3116365wk2",
+        "team": 4,
+        "week": 2,
+        "position": "TE",
+        "name": "Mark Andrews",
+        "playerId": 3116365,
+        "points": 21.2,
+        "starter": true
+    },
+    {
+        "id": "pl2977187wk2",
+        "team": 4,
+        "week": 2,
+        "position": "WR",
+        "name": "Cooper Kupp",
+        "playerId": 2977187,
+        "points": 26.3,
+        "starter": true
+    },
+    {
+        "id": "pl4035538wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "David Montgomery",
+        "playerId": 4035538,
+        "points": 14.6,
+        "starter": false
+    },
+    {
+        "id": "pl3120348wk2",
+        "team": 4,
+        "week": 2,
+        "position": "WR",
+        "name": "JuJu Smith-Schuster",
+        "playerId": 3120348,
+        "points": 2.5,
+        "starter": true
+    },
+    {
+        "id": "pl4360294wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "Antonio Gibson",
+        "playerId": 4360294,
+        "points": 11.1,
+        "starter": true
+    },
+    {
+        "id": "pl15807wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "Cordarrelle Patterson",
+        "playerId": 15807,
+        "points": 4.1,
+        "starter": true
+    },
+    {
+        "id": "pl16460wk2",
+        "team": 4,
+        "week": 2,
+        "position": "WR",
+        "name": "Adam Thielen",
+        "playerId": 16460,
+        "points": 7.2,
+        "starter": false
+    },
+    {
+        "id": "pl3128390wk2",
+        "team": 4,
+        "week": 2,
+        "position": "WR",
+        "name": "Allen Lazard",
+        "playerId": 3128390,
+        "points": 8.3,
+        "starter": false
+    },
+    {
+        "id": "pl4697815wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "Rachaad White",
+        "playerId": 4697815,
+        "points": 0.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16025wk2",
+        "team": 4,
+        "week": 2,
+        "position": "D/ST",
+        "name": "49ers D/ST",
+        "playerId": -16025,
+        "points": 13,
+        "starter": true
+    },
+    {
+        "id": "pl2330wk2",
+        "team": 4,
+        "week": 2,
+        "position": "QB",
+        "name": "Tom Brady",
+        "playerId": 2330,
+        "points": 9.4,
+        "starter": true
+    },
+    {
+        "id": "pl2573079wk2",
+        "team": 4,
+        "week": 2,
+        "position": "QB",
+        "name": "Carson Wentz",
+        "playerId": 2573079,
+        "points": 27.78,
+        "starter": true
+    },
+    {
+        "id": "pl16790wk2",
+        "team": 4,
+        "week": 2,
+        "position": "WR",
+        "name": "Jarvis Landry",
+        "playerId": 16790,
+        "points": 4.5,
+        "starter": false
+    },
+    {
+        "id": "pl2980453wk2",
+        "team": 4,
+        "week": 2,
+        "position": "RB",
+        "name": "Jamaal Williams",
+        "playerId": 2980453,
+        "points": 6.5,
+        "starter": false
+    },
+    {
+        "id": "pl3117251wk2",
+        "team": 5,
+        "week": 2,
+        "position": "RB",
+        "name": "Christian McCaffrey",
+        "playerId": 3117251,
+        "points": 14.8,
+        "starter": true
+    },
+    {
+        "id": "pl8439wk2",
+        "team": 5,
+        "week": 2,
+        "position": "QB",
+        "name": "Aaron Rodgers",
+        "playerId": 8439,
+        "points": 16.36,
+        "starter": true
+    },
+    {
+        "id": "pl3128720wk2",
+        "team": 5,
+        "week": 2,
+        "position": "RB",
+        "name": "Nick Chubb",
+        "playerId": 3128720,
+        "points": 30.8,
+        "starter": true
+    },
+    {
+        "id": "pl3121023wk2",
+        "team": 5,
+        "week": 2,
+        "position": "TE",
+        "name": "Dallas Goedert",
+        "playerId": 3121023,
+        "points": 10.7,
+        "starter": false
+    },
+    {
+        "id": "pl3932905wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Diontae Johnson",
+        "playerId": 3932905,
+        "points": 10.7,
+        "starter": false
+    },
+    {
+        "id": "pl11237wk2",
+        "team": 5,
+        "week": 2,
+        "position": "QB",
+        "name": "Matt Ryan",
+        "playerId": 11237,
+        "points": 1.8,
+        "starter": true
+    },
+    {
+        "id": "pl16731wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Brandin Cooks",
+        "playerId": 16731,
+        "points": 7.4,
+        "starter": true
+    },
+    {
+        "id": "pl4372414wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Elijah Moore",
+        "playerId": 4372414,
+        "points": 5,
+        "starter": false
+    },
+    {
+        "id": "pl4361411wk2",
+        "team": 5,
+        "week": 2,
+        "position": "TE",
+        "name": "Pat Freiermuth",
+        "playerId": 4361411,
+        "points": 10.2,
+        "starter": true
+    },
+    {
+        "id": "pl2576434wk2",
+        "team": 5,
+        "week": 2,
+        "position": "RB",
+        "name": "Melvin Gordon III",
+        "playerId": 2576434,
+        "points": 5.8,
+        "starter": false
+    },
+    {
+        "id": "pl2577327wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Tyler Lockett",
+        "playerId": 2577327,
+        "points": 15.2,
+        "starter": false
+    },
+    {
+        "id": "pl4569618wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Garrett Wilson",
+        "playerId": 4569618,
+        "points": 26,
+        "starter": false
+    },
+    {
+        "id": "pl4371733wk2",
+        "team": 5,
+        "week": 2,
+        "position": "RB",
+        "name": "Kenneth Gainwell",
+        "playerId": 4371733,
+        "points": 2.3,
+        "starter": false
+    },
+    {
+        "id": "pl4039359wk2",
+        "team": 5,
+        "week": 2,
+        "position": "RB",
+        "name": "Darrell Henderson Jr.",
+        "playerId": 4039359,
+        "points": 10.7,
+        "starter": true
+    },
+    {
+        "id": "pl-16002wk2",
+        "team": 5,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Bills D/ST",
+        "playerId": -16002,
+        "points": 22,
+        "starter": true
+    },
+    {
+        "id": "pl4262921wk2",
+        "team": 5,
+        "week": 2,
+        "position": "WR",
+        "name": "Justin Jefferson",
+        "playerId": 4262921,
+        "points": 7.8,
+        "starter": true
+    },
+    {
+        "id": "pl3916387wk2",
+        "team": 6,
+        "week": 2,
+        "position": "QB",
+        "name": "Lamar Jackson",
+        "playerId": 3916387,
+        "points": 42.62,
+        "starter": true
+    },
+    {
+        "id": "pl16800wk2",
+        "team": 6,
+        "week": 2,
+        "position": "WR",
+        "name": "Davante Adams",
+        "playerId": 16800,
+        "points": 8.2,
+        "starter": true
+    },
+    {
+        "id": "pl3054850wk2",
+        "team": 6,
+        "week": 2,
+        "position": "RB",
+        "name": "Alvin Kamara",
+        "playerId": 3054850,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3040151wk2",
+        "team": 6,
+        "week": 2,
+        "position": "TE",
+        "name": "George Kittle",
+        "playerId": 3040151,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl14880wk2",
+        "team": 6,
+        "week": 2,
+        "position": "QB",
+        "name": "Kirk Cousins",
+        "playerId": 14880,
+        "points": 8.84,
+        "starter": true
+    },
+    {
+        "id": "pl4259545wk2",
+        "team": 6,
+        "week": 2,
+        "position": "RB",
+        "name": "D'Andre Swift",
+        "playerId": 4259545,
+        "points": 15.7,
+        "starter": true
+    },
+    {
+        "id": "pl2976316wk2",
+        "team": 6,
+        "week": 2,
+        "position": "WR",
+        "name": "Michael Thomas",
+        "playerId": 2976316,
+        "points": 15.5,
+        "starter": true
+    },
+    {
+        "id": "pl15795wk2",
+        "team": 6,
+        "week": 2,
+        "position": "WR",
+        "name": "DeAndre Hopkins",
+        "playerId": 15795,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3135321wk2",
+        "team": 6,
+        "week": 2,
+        "position": "WR",
+        "name": "Hunter Renfrow",
+        "playerId": 3135321,
+        "points": 7.4,
+        "starter": true
+    },
+    {
+        "id": "pl4360438wk2",
+        "team": 6,
+        "week": 2,
+        "position": "WR",
+        "name": "Brandon Aiyuk",
+        "playerId": 4360438,
+        "points": 8.8,
+        "starter": false
+    },
+    {
+        "id": "pl4240657wk2",
+        "team": 6,
+        "week": 2,
+        "position": "RB",
+        "name": "Michael Carter",
+        "playerId": 4240657,
+        "points": 7.5,
+        "starter": true
+    },
+    {
+        "id": "pl3916430wk2",
+        "team": 6,
+        "week": 2,
+        "position": "RB",
+        "name": "Nyheim Hines",
+        "playerId": 3916430,
+        "points": 5.7,
+        "starter": false
+    },
+    {
+        "id": "pl3122840wk2",
+        "team": 6,
+        "week": 2,
+        "position": "QB",
+        "name": "Deshaun Watson",
+        "playerId": 3122840,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4240021wk2",
+        "team": 6,
+        "week": 2,
+        "position": "RB",
+        "name": "Cam Akers",
+        "playerId": 4240021,
+        "points": 7.2,
+        "starter": false
+    },
+    {
+        "id": "pl-16005wk2",
+        "team": 6,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Browns D/ST",
+        "playerId": -16005,
+        "points": 0,
+        "starter": true
+    },
+    {
+        "id": "pl2468609wk2",
+        "team": 6,
+        "week": 2,
+        "position": "TE",
+        "name": "Taysom Hill",
+        "playerId": 2468609,
+        "points": 1.4,
+        "starter": true
+    },
+    {
+        "id": "pl3043078wk2",
+        "team": 7,
+        "week": 2,
+        "position": "RB",
+        "name": "Derrick Henry",
+        "playerId": 3043078,
+        "points": 8.5,
+        "starter": true
+    },
+    {
+        "id": "pl4242335wk2",
+        "team": 7,
+        "week": 2,
+        "position": "RB",
+        "name": "Jonathan Taylor",
+        "playerId": 4242335,
+        "points": 6.8,
+        "starter": true
+    },
+    {
+        "id": "pl15818wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Keenan Allen",
+        "playerId": 15818,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4360248wk2",
+        "team": 7,
+        "week": 2,
+        "position": "TE",
+        "name": "Kyle Pitts",
+        "playerId": 4360248,
+        "points": 2.9,
+        "starter": true
+    },
+    {
+        "id": "pl3915416wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "DJ Moore",
+        "playerId": 3915416,
+        "points": 11.8,
+        "starter": true
+    },
+    {
+        "id": "pl4360310wk2",
+        "team": 7,
+        "week": 2,
+        "position": "QB",
+        "name": "Trevor Lawrence",
+        "playerId": 4360310,
+        "points": 18.5,
+        "starter": true
+    },
+    {
+        "id": "pl3116165wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Chris Godwin",
+        "playerId": 3116165,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4374302wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Amon-Ra St. Brown",
+        "playerId": 4374302,
+        "points": 34.9,
+        "starter": true
+    },
+    {
+        "id": "pl3119195wk2",
+        "team": 7,
+        "week": 2,
+        "position": "RB",
+        "name": "Chase Edmonds",
+        "playerId": 3119195,
+        "points": 4.6,
+        "starter": false
+    },
+    {
+        "id": "pl3918298wk2",
+        "team": 7,
+        "week": 2,
+        "position": "QB",
+        "name": "Josh Allen",
+        "playerId": 3918298,
+        "points": 29.68,
+        "starter": true
+    },
+    {
+        "id": "pl3139925wk2",
+        "team": 7,
+        "week": 2,
+        "position": "RB",
+        "name": "Rashaad Penny",
+        "playerId": 3139925,
+        "points": 1.5,
+        "starter": false
+    },
+    {
+        "id": "pl4036348wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Michael Gallup",
+        "playerId": 4036348,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4426388wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Jameson Williams",
+        "playerId": 4426388,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16007wk2",
+        "team": 7,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Broncos D/ST",
+        "playerId": -16007,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl3122976wk2",
+        "team": 7,
+        "week": 2,
+        "position": "RB",
+        "name": "Jeff Wilson Jr.",
+        "playerId": 3122976,
+        "points": 11.3,
+        "starter": true
+    },
+    {
+        "id": "pl4361409wk2",
+        "team": 7,
+        "week": 2,
+        "position": "WR",
+        "name": "Jahan Dotson",
+        "playerId": 4361409,
+        "points": 15.9,
+        "starter": false
+    },
+    {
+        "id": "pl3917315wk2",
+        "team": 8,
+        "week": 2,
+        "position": "QB",
+        "name": "Kyler Murray",
+        "playerId": 3917315,
+        "points": 25.88,
+        "starter": true
+    },
+    {
+        "id": "pl4241389wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "CeeDee Lamb",
+        "playerId": 4241389,
+        "points": 11.6,
+        "starter": true
+    },
+    {
+        "id": "pl16737wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "Mike Evans",
+        "playerId": 16737,
+        "points": 7.6,
+        "starter": true
+    },
+    {
+        "id": "pl3045147wk2",
+        "team": 8,
+        "week": 2,
+        "position": "RB",
+        "name": "James Conner",
+        "playerId": 3045147,
+        "points": 6.1,
+        "starter": true
+    },
+    {
+        "id": "pl4427366wk2",
+        "team": 8,
+        "week": 2,
+        "position": "RB",
+        "name": "Breece Hall",
+        "playerId": 4427366,
+        "points": 12.5,
+        "starter": false
+    },
+    {
+        "id": "pl16799wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "Allen Robinson II",
+        "playerId": 16799,
+        "points": 13.3,
+        "starter": false
+    },
+    {
+        "id": "pl4362628wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "Ja'Marr Chase",
+        "playerId": 4362628,
+        "points": 8.3,
+        "starter": true
+    },
+    {
+        "id": "pl4360238wk2",
+        "team": 8,
+        "week": 2,
+        "position": "RB",
+        "name": "Dameon Pierce",
+        "playerId": 4360238,
+        "points": 8.2,
+        "starter": false
+    },
+    {
+        "id": "pl2969939wk2",
+        "team": 8,
+        "week": 2,
+        "position": "QB",
+        "name": "Jameis Winston",
+        "playerId": 2969939,
+        "points": 7.64,
+        "starter": true
+    },
+    {
+        "id": "pl4569173wk2",
+        "team": 8,
+        "week": 2,
+        "position": "RB",
+        "name": "Rhamondre Stevenson",
+        "playerId": 4569173,
+        "points": 5.6,
+        "starter": true
+    },
+    {
+        "id": "pl3895856wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "Christian Kirk",
+        "playerId": 3895856,
+        "points": 22.8,
+        "starter": false
+    },
+    {
+        "id": "pl3930086wk2",
+        "team": 8,
+        "week": 2,
+        "position": "TE",
+        "name": "Dawson Knox",
+        "playerId": 3930086,
+        "points": 6.1,
+        "starter": true
+    },
+    {
+        "id": "pl4035115wk2",
+        "team": 8,
+        "week": 2,
+        "position": "TE",
+        "name": "Albert Okwuegbunam",
+        "playerId": 4035115,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4426354wk2",
+        "team": 8,
+        "week": 2,
+        "position": "WR",
+        "name": "George Pickens",
+        "playerId": 4426354,
+        "points": 2.8,
+        "starter": false
+    },
+    {
+        "id": "pl-16014wk2",
+        "team": 8,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Rams D/ST",
+        "playerId": -16014,
+        "points": 11,
+        "starter": true
+    },
+    {
+        "id": "pl-16026wk2",
+        "team": 8,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Seahawks D/ST",
+        "playerId": -16026,
+        "points": 8,
+        "starter": false
+    },
+    {
+        "id": "pl3042519wk2",
+        "team": 9,
+        "week": 2,
+        "position": "RB",
+        "name": "Aaron Jones",
+        "playerId": 3042519,
+        "points": 30.5,
+        "starter": true
+    },
+    {
+        "id": "pl2577417wk2",
+        "team": 9,
+        "week": 2,
+        "position": "QB",
+        "name": "Dak Prescott",
+        "playerId": 2577417,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4361579wk2",
+        "team": 9,
+        "week": 2,
+        "position": "RB",
+        "name": "Javonte Williams",
+        "playerId": 4361579,
+        "points": 9,
+        "starter": true
+    },
+    {
+        "id": "pl3115364wk2",
+        "team": 9,
+        "week": 2,
+        "position": "RB",
+        "name": "Leonard Fournette",
+        "playerId": 3115364,
+        "points": 8.4,
+        "starter": true
+    },
+    {
+        "id": "pl3045138wk2",
+        "team": 9,
+        "week": 2,
+        "position": "WR",
+        "name": "Mike Williams",
+        "playerId": 3045138,
+        "points": 21.3,
+        "starter": true
+    },
+    {
+        "id": "pl4241372wk2",
+        "team": 9,
+        "week": 2,
+        "position": "WR",
+        "name": "Marquise Brown",
+        "playerId": 4241372,
+        "points": 9.8,
+        "starter": true
+    },
+    {
+        "id": "pl4038941wk2",
+        "team": 9,
+        "week": 2,
+        "position": "QB",
+        "name": "Justin Herbert",
+        "playerId": 4038941,
+        "points": 23.46,
+        "starter": true
+    },
+    {
+        "id": "pl4036133wk2",
+        "team": 9,
+        "week": 2,
+        "position": "TE",
+        "name": "T.J. Hockenson",
+        "playerId": 4036133,
+        "points": 4.1,
+        "starter": true
+    },
+    {
+        "id": "pl4567048wk2",
+        "team": 9,
+        "week": 2,
+        "position": "RB",
+        "name": "Kenneth Walker III",
+        "playerId": 4567048,
+        "points": 2.5,
+        "starter": false
+    },
+    {
+        "id": "pl4241478wk2",
+        "team": 9,
+        "week": 2,
+        "position": "WR",
+        "name": "DeVonta Smith",
+        "playerId": 4241478,
+        "points": 11.5,
+        "starter": false
+    },
+    {
+        "id": "pl4045163wk2",
+        "team": 9,
+        "week": 2,
+        "position": "RB",
+        "name": "Miles Sanders",
+        "playerId": 4045163,
+        "points": 10.1,
+        "starter": false
+    },
+    {
+        "id": "pl4361370wk2",
+        "team": 9,
+        "week": 2,
+        "position": "WR",
+        "name": "Chris Olave",
+        "playerId": 4361370,
+        "points": 8.5,
+        "starter": false
+    },
+    {
+        "id": "pl4046692wk2",
+        "team": 9,
+        "week": 2,
+        "position": "WR",
+        "name": "Chase Claypool",
+        "playerId": 4046692,
+        "points": 4.6,
+        "starter": false
+    },
+    {
+        "id": "pl3116164wk2",
+        "team": 9,
+        "week": 2,
+        "position": "TE",
+        "name": "Mike Gesicki",
+        "playerId": 3116164,
+        "points": 12.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16027wk2",
+        "team": 9,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Buccaneers D/ST",
+        "playerId": -16027,
+        "points": 25,
+        "starter": true
+    },
+    {
+        "id": "pl14876wk2",
+        "team": 9,
+        "week": 2,
+        "position": "QB",
+        "name": "Ryan Tannehill",
+        "playerId": 14876,
+        "points": 0.88,
+        "starter": true
+    },
+    {
+        "id": "pl3139477wk2",
+        "team": 10,
+        "week": 2,
+        "position": "QB",
+        "name": "Patrick Mahomes",
+        "playerId": 3139477,
+        "points": 17.3,
+        "starter": true
+    },
+    {
+        "id": "pl15847wk2",
+        "team": 10,
+        "week": 2,
+        "position": "TE",
+        "name": "Travis Kelce",
+        "playerId": 15847,
+        "points": 7.6,
+        "starter": true
+    },
+    {
+        "id": "pl3929630wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Saquon Barkley",
+        "playerId": 3929630,
+        "points": 10.3,
+        "starter": true
+    },
+    {
+        "id": "pl3051392wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Ezekiel Elliott",
+        "playerId": 3051392,
+        "points": 5.4,
+        "starter": true
+    },
+    {
+        "id": "pl3121422wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Terry McLaurin",
+        "playerId": 3121422,
+        "points": 10.2,
+        "starter": true
+    },
+    {
+        "id": "pl4360939wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Rashod Bateman",
+        "playerId": 4360939,
+        "points": 18.8,
+        "starter": false
+    },
+    {
+        "id": "pl4047365wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Josh Jacobs",
+        "playerId": 4047365,
+        "points": 8.6,
+        "starter": true
+    },
+    {
+        "id": "pl3059915wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Kareem Hunt",
+        "playerId": 3059915,
+        "points": 8.4,
+        "starter": false
+    },
+    {
+        "id": "pl4426502wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Drake London",
+        "playerId": 4426502,
+        "points": 20.6,
+        "starter": false
+    },
+    {
+        "id": "pl4567156wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Treylon Burks",
+        "playerId": 4567156,
+        "points": 6.7,
+        "starter": false
+    },
+    {
+        "id": "pl4372016wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Jaylen Waddle",
+        "playerId": 4372016,
+        "points": 34.6,
+        "starter": true
+    },
+    {
+        "id": "pl3915511wk2",
+        "team": 10,
+        "week": 2,
+        "position": "QB",
+        "name": "Joe Burrow",
+        "playerId": 3915511,
+        "points": 16.56,
+        "starter": true
+    },
+    {
+        "id": "pl-16033wk2",
+        "team": 10,
+        "week": 2,
+        "position": "D/ST",
+        "name": "Ravens D/ST",
+        "playerId": -16033,
+        "points": 2,
+        "starter": true
+    },
+    {
+        "id": "pl13982wk2",
+        "team": 10,
+        "week": 2,
+        "position": "WR",
+        "name": "Julio Jones",
+        "playerId": 13982,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4241474wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Brian Robinson",
+        "playerId": 4241474,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4035886wk2",
+        "team": 10,
+        "week": 2,
+        "position": "RB",
+        "name": "Khalil Herbert",
+        "playerId": 4035886,
+        "points": 4.6,
+        "starter": false
+    },
+    {
+        "id": "pl14881wk3",
+        "team": 1,
+        "week": 3,
+        "position": "QB",
+        "name": "Russell Wilson",
+        "playerId": 14881,
+        "points": 9.06,
+        "starter": true
+    },
+    {
+        "id": "pl3116593wk3",
+        "team": 1,
+        "week": 3,
+        "position": "RB",
+        "name": "Dalvin Cook",
+        "playerId": 3116593,
+        "points": 13.6,
+        "starter": true
+    },
+    {
+        "id": "pl4047646wk3",
+        "team": 1,
+        "week": 3,
+        "position": "WR",
+        "name": "A.J. Brown",
+        "playerId": 4047646,
+        "points": 17,
+        "starter": true
+    },
+    {
+        "id": "pl4362887wk3",
+        "team": 1,
+        "week": 3,
+        "position": "QB",
+        "name": "Justin Fields",
+        "playerId": 4362887,
+        "points": 4.94,
+        "starter": false
+    },
+    {
+        "id": "pl3128429wk3",
+        "team": 1,
+        "week": 3,
+        "position": "WR",
+        "name": "Courtland Sutton",
+        "playerId": 3128429,
+        "points": 13.7,
+        "starter": false
+    },
+    {
+        "id": "pl3117256wk3",
+        "team": 1,
+        "week": 3,
+        "position": "TE",
+        "name": "Dalton Schultz",
+        "playerId": 3117256,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4242214wk3",
+        "team": 1,
+        "week": 3,
+        "position": "RB",
+        "name": "Clyde Edwards-Helaire",
+        "playerId": 4242214,
+        "points": 12.4,
+        "starter": true
+    },
+    {
+        "id": "pl3126486wk3",
+        "team": 1,
+        "week": 3,
+        "position": "WR",
+        "name": "Deebo Samuel",
+        "playerId": 3126486,
+        "points": 10.4,
+        "starter": true
+    },
+    {
+        "id": "pl4040761wk3",
+        "team": 1,
+        "week": 3,
+        "position": "RB",
+        "name": "Devin Singletary",
+        "playerId": 4040761,
+        "points": 19.6,
+        "starter": false
+    },
+    {
+        "id": "pl4035687wk3",
+        "team": 1,
+        "week": 3,
+        "position": "WR",
+        "name": "Michael Pittman Jr.",
+        "playerId": 4035687,
+        "points": 11.2,
+        "starter": true
+    },
+    {
+        "id": "pl4048244wk3",
+        "team": 1,
+        "week": 3,
+        "position": "RB",
+        "name": "Alexander Mattison",
+        "playerId": 4048244,
+        "points": 10.9,
+        "starter": false
+    },
+    {
+        "id": "pl2576980wk3",
+        "team": 1,
+        "week": 3,
+        "position": "QB",
+        "name": "Marcus Mariota",
+        "playerId": 2576980,
+        "points": 15.56,
+        "starter": true
+    },
+    {
+        "id": "pl-16023wk3",
+        "team": 1,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Steelers D/ST",
+        "playerId": -16023,
+        "points": 1,
+        "starter": false
+    },
+    {
+        "id": "pl16760wk3",
+        "team": 1,
+        "week": 3,
+        "position": "QB",
+        "name": "Jimmy Garoppolo",
+        "playerId": 16760,
+        "points": 8.44,
+        "starter": false
+    },
+    {
+        "id": "pl3918639wk3",
+        "team": 1,
+        "week": 3,
+        "position": "TE",
+        "name": "Gerald Everett",
+        "playerId": 3918639,
+        "points": 3.5,
+        "starter": true
+    },
+    {
+        "id": "pl-16018wk3",
+        "team": 1,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Saints D/ST",
+        "playerId": -16018,
+        "points": 6,
+        "starter": true
+    },
+    {
+        "id": "pl4040715wk3",
+        "team": 2,
+        "week": 3,
+        "position": "QB",
+        "name": "Jalen Hurts",
+        "playerId": 4040715,
+        "points": 27.6,
+        "starter": true
+    },
+    {
+        "id": "pl2976212wk3",
+        "team": 2,
+        "week": 3,
+        "position": "WR",
+        "name": "Stefon Diggs",
+        "playerId": 2976212,
+        "points": 10.9,
+        "starter": true
+    },
+    {
+        "id": "pl3116406wk3",
+        "team": 2,
+        "week": 3,
+        "position": "WR",
+        "name": "Tyreek Hill",
+        "playerId": 3116406,
+        "points": 4.3,
+        "starter": true
+    },
+    {
+        "id": "pl4239993wk3",
+        "team": 2,
+        "week": 3,
+        "position": "WR",
+        "name": "Tee Higgins",
+        "playerId": 4239993,
+        "points": 11.8,
+        "starter": true
+    },
+    {
+        "id": "pl4241479wk3",
+        "team": 2,
+        "week": 3,
+        "position": "QB",
+        "name": "Tua Tagovailoa",
+        "playerId": 4241479,
+        "points": 11.44,
+        "starter": true
+    },
+    {
+        "id": "pl4241985wk3",
+        "team": 2,
+        "week": 3,
+        "position": "RB",
+        "name": "J.K. Dobbins",
+        "playerId": 4241985,
+        "points": 5,
+        "starter": false
+    },
+    {
+        "id": "pl4243537wk3",
+        "team": 2,
+        "week": 3,
+        "position": "WR",
+        "name": "Gabe Davis",
+        "playerId": 4243537,
+        "points": 5.2,
+        "starter": false
+    },
+    {
+        "id": "pl4239934wk3",
+        "team": 2,
+        "week": 3,
+        "position": "RB",
+        "name": "AJ Dillon",
+        "playerId": 4239934,
+        "points": 4.8,
+        "starter": true
+    },
+    {
+        "id": "pl4361259wk3",
+        "team": 2,
+        "week": 3,
+        "position": "QB",
+        "name": "Zach Wilson",
+        "playerId": 4361259,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3916148wk3",
+        "team": 2,
+        "week": 3,
+        "position": "RB",
+        "name": "Tony Pollard",
+        "playerId": 3916148,
+        "points": 10.5,
+        "starter": true
+    },
+    {
+        "id": "pl15835wk3",
+        "team": 2,
+        "week": 3,
+        "position": "TE",
+        "name": "Zach Ertz",
+        "playerId": 15835,
+        "points": 7.5,
+        "starter": true
+    },
+    {
+        "id": "pl3917792wk3",
+        "team": 2,
+        "week": 3,
+        "position": "QB",
+        "name": "Daniel Jones",
+        "playerId": 3917792,
+        "points": 13.74,
+        "starter": false
+    },
+    {
+        "id": "pl4430191wk3",
+        "team": 2,
+        "week": 3,
+        "position": "WR",
+        "name": "Skyy Moore",
+        "playerId": 4430191,
+        "points": -2,
+        "starter": false
+    },
+    {
+        "id": "pl3046439wk3",
+        "team": 2,
+        "week": 3,
+        "position": "TE",
+        "name": "Hunter Henry",
+        "playerId": 3046439,
+        "points": 1.3,
+        "starter": false
+    },
+    {
+        "id": "pl-16009wk3",
+        "team": 2,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Packers D/ST",
+        "playerId": -16009,
+        "points": 12,
+        "starter": false
+    },
+    {
+        "id": "pl-16012wk3",
+        "team": 2,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Chiefs D/ST",
+        "playerId": -16012,
+        "points": 9,
+        "starter": true
+    },
+    {
+        "id": "pl3068267wk3",
+        "team": 3,
+        "week": 3,
+        "position": "RB",
+        "name": "Austin Ekeler",
+        "playerId": 3068267,
+        "points": 9.3,
+        "starter": true
+    },
+    {
+        "id": "pl3116385wk3",
+        "team": 3,
+        "week": 3,
+        "position": "RB",
+        "name": "Joe Mixon",
+        "playerId": 3116385,
+        "points": 5.3,
+        "starter": true
+    },
+    {
+        "id": "pl16757wk3",
+        "team": 3,
+        "week": 3,
+        "position": "QB",
+        "name": "Derek Carr",
+        "playerId": 16757,
+        "points": 19.82,
+        "starter": true
+    },
+    {
+        "id": "pl4047650wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "DK Metcalf",
+        "playerId": 4047650,
+        "points": 14.9,
+        "starter": true
+    },
+    {
+        "id": "pl2576925wk3",
+        "team": 3,
+        "week": 3,
+        "position": "TE",
+        "name": "Darren Waller",
+        "playerId": 2576925,
+        "points": 3.7,
+        "starter": true
+    },
+    {
+        "id": "pl4241463wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "Jerry Jeudy",
+        "playerId": 4241463,
+        "points": 2.7,
+        "starter": false
+    },
+    {
+        "id": "pl4040655wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "Darnell Mooney",
+        "playerId": 4040655,
+        "points": 3.3,
+        "starter": false
+    },
+    {
+        "id": "pl2976499wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "Amari Cooper",
+        "playerId": 2976499,
+        "points": 19.6,
+        "starter": false
+    },
+    {
+        "id": "pl3925347wk3",
+        "team": 3,
+        "week": 3,
+        "position": "RB",
+        "name": "Damien Harris",
+        "playerId": 3925347,
+        "points": 11.6,
+        "starter": false
+    },
+    {
+        "id": "pl12483wk3",
+        "team": 3,
+        "week": 3,
+        "position": "QB",
+        "name": "Matthew Stafford",
+        "playerId": 12483,
+        "points": 10.16,
+        "starter": true
+    },
+    {
+        "id": "pl4052042wk3",
+        "team": 3,
+        "week": 3,
+        "position": "RB",
+        "name": "James Robinson",
+        "playerId": 4052042,
+        "points": 19.1,
+        "starter": true
+    },
+    {
+        "id": "pl2975674wk3",
+        "team": 3,
+        "week": 3,
+        "position": "TE",
+        "name": "Robert Tonyan",
+        "playerId": 2975674,
+        "points": 6.7,
+        "starter": false
+    },
+    {
+        "id": "pl-16006wk3",
+        "team": 3,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Cowboys D/ST",
+        "playerId": -16006,
+        "points": 10,
+        "starter": true
+    },
+    {
+        "id": "pl4239996wk3",
+        "team": 3,
+        "week": 3,
+        "position": "RB",
+        "name": "Travis Etienne Jr.",
+        "playerId": 4239996,
+        "points": 9,
+        "starter": false
+    },
+    {
+        "id": "pl3121427wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "Curtis Samuel",
+        "playerId": 3121427,
+        "points": 9.6,
+        "starter": true
+    },
+    {
+        "id": "pl13982wk3",
+        "team": 3,
+        "week": 3,
+        "position": "WR",
+        "name": "Julio Jones",
+        "playerId": 13982,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4241457wk3",
+        "team": 4,
+        "week": 3,
+        "position": "RB",
+        "name": "Najee Harris",
+        "playerId": 4241457,
+        "points": 11.6,
+        "starter": true
+    },
+    {
+        "id": "pl3116365wk3",
+        "team": 4,
+        "week": 3,
+        "position": "TE",
+        "name": "Mark Andrews",
+        "playerId": 3116365,
+        "points": 24.9,
+        "starter": true
+    },
+    {
+        "id": "pl2977187wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "Cooper Kupp",
+        "playerId": 2977187,
+        "points": 14.4,
+        "starter": true
+    },
+    {
+        "id": "pl4035538wk3",
+        "team": 4,
+        "week": 3,
+        "position": "RB",
+        "name": "David Montgomery",
+        "playerId": 4035538,
+        "points": 1.1,
+        "starter": true
+    },
+    {
+        "id": "pl3120348wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "JuJu Smith-Schuster",
+        "playerId": 3120348,
+        "points": 11.4,
+        "starter": false
+    },
+    {
+        "id": "pl4360294wk3",
+        "team": 4,
+        "week": 3,
+        "position": "RB",
+        "name": "Antonio Gibson",
+        "playerId": 4360294,
+        "points": 10.5,
+        "starter": true
+    },
+    {
+        "id": "pl15807wk3",
+        "team": 4,
+        "week": 3,
+        "position": "RB",
+        "name": "Cordarrelle Patterson",
+        "playerId": 15807,
+        "points": 21.8,
+        "starter": false
+    },
+    {
+        "id": "pl16460wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "Adam Thielen",
+        "playerId": 16460,
+        "points": 15.1,
+        "starter": true
+    },
+    {
+        "id": "pl3128390wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "Allen Lazard",
+        "playerId": 3128390,
+        "points": 12.5,
+        "starter": false
+    },
+    {
+        "id": "pl4697815wk3",
+        "team": 4,
+        "week": 3,
+        "position": "RB",
+        "name": "Rachaad White",
+        "playerId": 4697815,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16025wk3",
+        "team": 4,
+        "week": 3,
+        "position": "D/ST",
+        "name": "49ers D/ST",
+        "playerId": -16025,
+        "points": 9,
+        "starter": true
+    },
+    {
+        "id": "pl2330wk3",
+        "team": 4,
+        "week": 3,
+        "position": "QB",
+        "name": "Tom Brady",
+        "playerId": 2330,
+        "points": 14.74,
+        "starter": false
+    },
+    {
+        "id": "pl2573079wk3",
+        "team": 4,
+        "week": 3,
+        "position": "QB",
+        "name": "Carson Wentz",
+        "playerId": 2573079,
+        "points": 8.64,
+        "starter": true
+    },
+    {
+        "id": "pl16790wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "Jarvis Landry",
+        "playerId": 16790,
+        "points": 3.2,
+        "starter": false
+    },
+    {
+        "id": "pl3046779wk3",
+        "team": 4,
+        "week": 3,
+        "position": "QB",
+        "name": "Jared Goff",
+        "playerId": 3046779,
+        "points": 13.88,
+        "starter": true
+    },
+    {
+        "id": "pl3916433wk3",
+        "team": 4,
+        "week": 3,
+        "position": "WR",
+        "name": "Jakobi Meyers",
+        "playerId": 3916433,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3117251wk3",
+        "team": 5,
+        "week": 3,
+        "position": "RB",
+        "name": "Christian McCaffrey",
+        "playerId": 3117251,
+        "points": 12.5,
+        "starter": true
+    },
+    {
+        "id": "pl8439wk3",
+        "team": 5,
+        "week": 3,
+        "position": "QB",
+        "name": "Aaron Rodgers",
+        "playerId": 8439,
+        "points": 16.1,
+        "starter": true
+    },
+    {
+        "id": "pl3128720wk3",
+        "team": 5,
+        "week": 3,
+        "position": "RB",
+        "name": "Nick Chubb",
+        "playerId": 3128720,
+        "points": 17.3,
+        "starter": true
+    },
+    {
+        "id": "pl3121023wk3",
+        "team": 5,
+        "week": 3,
+        "position": "TE",
+        "name": "Dallas Goedert",
+        "playerId": 3121023,
+        "points": 10.1,
+        "starter": false
+    },
+    {
+        "id": "pl3932905wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Diontae Johnson",
+        "playerId": 3932905,
+        "points": 12.4,
+        "starter": false
+    },
+    {
+        "id": "pl11237wk3",
+        "team": 5,
+        "week": 3,
+        "position": "QB",
+        "name": "Matt Ryan",
+        "playerId": 11237,
+        "points": 15.28,
+        "starter": true
+    },
+    {
+        "id": "pl16731wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Brandin Cooks",
+        "playerId": 16731,
+        "points": 3.2,
+        "starter": true
+    },
+    {
+        "id": "pl4372414wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Elijah Moore",
+        "playerId": 4372414,
+        "points": 6.9,
+        "starter": false
+    },
+    {
+        "id": "pl4361411wk3",
+        "team": 5,
+        "week": 3,
+        "position": "TE",
+        "name": "Pat Freiermuth",
+        "playerId": 4361411,
+        "points": 5.1,
+        "starter": true
+    },
+    {
+        "id": "pl2576434wk3",
+        "team": 5,
+        "week": 3,
+        "position": "RB",
+        "name": "Melvin Gordon III",
+        "playerId": 2576434,
+        "points": 14,
+        "starter": false
+    },
+    {
+        "id": "pl2577327wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Tyler Lockett",
+        "playerId": 2577327,
+        "points": 12.1,
+        "starter": false
+    },
+    {
+        "id": "pl4569618wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Garrett Wilson",
+        "playerId": 4569618,
+        "points": 9,
+        "starter": true
+    },
+    {
+        "id": "pl4371733wk3",
+        "team": 5,
+        "week": 3,
+        "position": "RB",
+        "name": "Kenneth Gainwell",
+        "playerId": 4371733,
+        "points": 0.6,
+        "starter": false
+    },
+    {
+        "id": "pl4039359wk3",
+        "team": 5,
+        "week": 3,
+        "position": "RB",
+        "name": "Darrell Henderson Jr.",
+        "playerId": 4039359,
+        "points": 1.7,
+        "starter": false
+    },
+    {
+        "id": "pl-16002wk3",
+        "team": 5,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Bills D/ST",
+        "playerId": -16002,
+        "points": 6,
+        "starter": true
+    },
+    {
+        "id": "pl4262921wk3",
+        "team": 5,
+        "week": 3,
+        "position": "WR",
+        "name": "Justin Jefferson",
+        "playerId": 4262921,
+        "points": 2.9,
+        "starter": true
+    },
+    {
+        "id": "pl3916387wk3",
+        "team": 6,
+        "week": 3,
+        "position": "QB",
+        "name": "Lamar Jackson",
+        "playerId": 3916387,
+        "points": 39.42,
+        "starter": true
+    },
+    {
+        "id": "pl16800wk3",
+        "team": 6,
+        "week": 3,
+        "position": "WR",
+        "name": "Davante Adams",
+        "playerId": 16800,
+        "points": 11.7,
+        "starter": true
+    },
+    {
+        "id": "pl3054850wk3",
+        "team": 6,
+        "week": 3,
+        "position": "RB",
+        "name": "Alvin Kamara",
+        "playerId": 3054850,
+        "points": 6.3,
+        "starter": true
+    },
+    {
+        "id": "pl3040151wk3",
+        "team": 6,
+        "week": 3,
+        "position": "TE",
+        "name": "George Kittle",
+        "playerId": 3040151,
+        "points": 4.8,
+        "starter": true
+    },
+    {
+        "id": "pl14880wk3",
+        "team": 6,
+        "week": 3,
+        "position": "QB",
+        "name": "Kirk Cousins",
+        "playerId": 14880,
+        "points": 18.3,
+        "starter": true
+    },
+    {
+        "id": "pl4259545wk3",
+        "team": 6,
+        "week": 3,
+        "position": "RB",
+        "name": "D'Andre Swift",
+        "playerId": 4259545,
+        "points": 6.1,
+        "starter": true
+    },
+    {
+        "id": "pl2976316wk3",
+        "team": 6,
+        "week": 3,
+        "position": "WR",
+        "name": "Michael Thomas",
+        "playerId": 2976316,
+        "points": 7.4,
+        "starter": true
+    },
+    {
+        "id": "pl15795wk3",
+        "team": 6,
+        "week": 3,
+        "position": "WR",
+        "name": "DeAndre Hopkins",
+        "playerId": 15795,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3135321wk3",
+        "team": 6,
+        "week": 3,
+        "position": "WR",
+        "name": "Hunter Renfrow",
+        "playerId": 3135321,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4360438wk3",
+        "team": 6,
+        "week": 3,
+        "position": "WR",
+        "name": "Brandon Aiyuk",
+        "playerId": 4360438,
+        "points": 11.4,
+        "starter": false
+    },
+    {
+        "id": "pl4240657wk3",
+        "team": 6,
+        "week": 3,
+        "position": "RB",
+        "name": "Michael Carter",
+        "playerId": 4240657,
+        "points": 5.1,
+        "starter": true
+    },
+    {
+        "id": "pl3916430wk3",
+        "team": 6,
+        "week": 3,
+        "position": "RB",
+        "name": "Nyheim Hines",
+        "playerId": 3916430,
+        "points": 5.5,
+        "starter": false
+    },
+    {
+        "id": "pl3122840wk3",
+        "team": 6,
+        "week": 3,
+        "position": "QB",
+        "name": "Deshaun Watson",
+        "playerId": 3122840,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4240021wk3",
+        "team": 6,
+        "week": 3,
+        "position": "RB",
+        "name": "Cam Akers",
+        "playerId": 4240021,
+        "points": 10.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16005wk3",
+        "team": 6,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Browns D/ST",
+        "playerId": -16005,
+        "points": 10,
+        "starter": true
+    },
+    {
+        "id": "pl2468609wk3",
+        "team": 6,
+        "week": 3,
+        "position": "TE",
+        "name": "Taysom Hill",
+        "playerId": 2468609,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3043078wk3",
+        "team": 7,
+        "week": 3,
+        "position": "RB",
+        "name": "Derrick Henry",
+        "playerId": 3043078,
+        "points": 22.8,
+        "starter": true
+    },
+    {
+        "id": "pl4242335wk3",
+        "team": 7,
+        "week": 3,
+        "position": "RB",
+        "name": "Jonathan Taylor",
+        "playerId": 4242335,
+        "points": 10.6,
+        "starter": true
+    },
+    {
+        "id": "pl15818wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Keenan Allen",
+        "playerId": 15818,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4360248wk3",
+        "team": 7,
+        "week": 3,
+        "position": "TE",
+        "name": "Kyle Pitts",
+        "playerId": 4360248,
+        "points": 11.2,
+        "starter": true
+    },
+    {
+        "id": "pl3915416wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "DJ Moore",
+        "playerId": 3915416,
+        "points": 2,
+        "starter": true
+    },
+    {
+        "id": "pl4360310wk3",
+        "team": 7,
+        "week": 3,
+        "position": "QB",
+        "name": "Trevor Lawrence",
+        "playerId": 4360310,
+        "points": 25.18,
+        "starter": true
+    },
+    {
+        "id": "pl3116165wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Chris Godwin",
+        "playerId": 3116165,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4374302wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Amon-Ra St. Brown",
+        "playerId": 4374302,
+        "points": 10.3,
+        "starter": true
+    },
+    {
+        "id": "pl3119195wk3",
+        "team": 7,
+        "week": 3,
+        "position": "RB",
+        "name": "Chase Edmonds",
+        "playerId": 3119195,
+        "points": 15.2,
+        "starter": false
+    },
+    {
+        "id": "pl3918298wk3",
+        "team": 7,
+        "week": 3,
+        "position": "QB",
+        "name": "Josh Allen",
+        "playerId": 3918298,
+        "points": 26.7,
+        "starter": true
+    },
+    {
+        "id": "pl3139925wk3",
+        "team": 7,
+        "week": 3,
+        "position": "RB",
+        "name": "Rashaad Penny",
+        "playerId": 3139925,
+        "points": 7.4,
+        "starter": false
+    },
+    {
+        "id": "pl4036348wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Michael Gallup",
+        "playerId": 4036348,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4426388wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Jameson Williams",
+        "playerId": 4426388,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3122976wk3",
+        "team": 7,
+        "week": 3,
+        "position": "RB",
+        "name": "Jeff Wilson Jr.",
+        "playerId": 3122976,
+        "points": 10.1,
+        "starter": true
+    },
+    {
+        "id": "pl4361409wk3",
+        "team": 7,
+        "week": 3,
+        "position": "WR",
+        "name": "Jahan Dotson",
+        "playerId": 4361409,
+        "points": 2,
+        "starter": false
+    },
+    {
+        "id": "pl-16034wk3",
+        "team": 7,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Texans D/ST",
+        "playerId": -16034,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl3917315wk3",
+        "team": 8,
+        "week": 3,
+        "position": "QB",
+        "name": "Kyler Murray",
+        "playerId": 3917315,
+        "points": 13.36,
+        "starter": true
+    },
+    {
+        "id": "pl4241389wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "CeeDee Lamb",
+        "playerId": 4241389,
+        "points": 18.7,
+        "starter": true
+    },
+    {
+        "id": "pl16737wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "Mike Evans",
+        "playerId": 16737,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3045147wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "James Conner",
+        "playerId": 3045147,
+        "points": 7.2,
+        "starter": true
+    },
+    {
+        "id": "pl4427366wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "Breece Hall",
+        "playerId": 4427366,
+        "points": 12.2,
+        "starter": false
+    },
+    {
+        "id": "pl16799wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "Allen Robinson II",
+        "playerId": 16799,
+        "points": 3.3,
+        "starter": false
+    },
+    {
+        "id": "pl4362628wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "Ja'Marr Chase",
+        "playerId": 4362628,
+        "points": 9.7,
+        "starter": true
+    },
+    {
+        "id": "pl4360238wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "Dameon Pierce",
+        "playerId": 4360238,
+        "points": 17.1,
+        "starter": true
+    },
+    {
+        "id": "pl2969939wk3",
+        "team": 8,
+        "week": 3,
+        "position": "QB",
+        "name": "Jameis Winston",
+        "playerId": 2969939,
+        "points": 14.62,
+        "starter": true
+    },
+    {
+        "id": "pl4569173wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "Rhamondre Stevenson",
+        "playerId": 4569173,
+        "points": 18.1,
+        "starter": false
+    },
+    {
+        "id": "pl3895856wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "Christian Kirk",
+        "playerId": 3895856,
+        "points": 16.2,
+        "starter": true
+    },
+    {
+        "id": "pl3930086wk3",
+        "team": 8,
+        "week": 3,
+        "position": "TE",
+        "name": "Dawson Knox",
+        "playerId": 3930086,
+        "points": 4.5,
+        "starter": true
+    },
+    {
+        "id": "pl4426354wk3",
+        "team": 8,
+        "week": 3,
+        "position": "WR",
+        "name": "George Pickens",
+        "playerId": 4426354,
+        "points": 5.4,
+        "starter": false
+    },
+    {
+        "id": "pl-16026wk3",
+        "team": 8,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Seahawks D/ST",
+        "playerId": -16026,
+        "points": 6,
+        "starter": true
+    },
+    {
+        "id": "pl2576414wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "Raheem Mostert",
+        "playerId": 2576414,
+        "points": 1.1,
+        "starter": false
+    },
+    {
+        "id": "pl4242873wk3",
+        "team": 8,
+        "week": 3,
+        "position": "RB",
+        "name": "Eno Benjamin",
+        "playerId": 4242873,
+        "points": 3.3,
+        "starter": false
+    },
+    {
+        "id": "pl3042519wk3",
+        "team": 9,
+        "week": 3,
+        "position": "RB",
+        "name": "Aaron Jones",
+        "playerId": 3042519,
+        "points": 4.2,
+        "starter": true
+    },
+    {
+        "id": "pl2577417wk3",
+        "team": 9,
+        "week": 3,
+        "position": "QB",
+        "name": "Dak Prescott",
+        "playerId": 2577417,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4361579wk3",
+        "team": 9,
+        "week": 3,
+        "position": "RB",
+        "name": "Javonte Williams",
+        "playerId": 4361579,
+        "points": 7.5,
+        "starter": false
+    },
+    {
+        "id": "pl3115364wk3",
+        "team": 9,
+        "week": 3,
+        "position": "RB",
+        "name": "Leonard Fournette",
+        "playerId": 3115364,
+        "points": 9.5,
+        "starter": true
+    },
+    {
+        "id": "pl3045138wk3",
+        "team": 9,
+        "week": 3,
+        "position": "WR",
+        "name": "Mike Williams",
+        "playerId": 3045138,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl4241372wk3",
+        "team": 9,
+        "week": 3,
+        "position": "WR",
+        "name": "Marquise Brown",
+        "playerId": 4241372,
+        "points": 21,
+        "starter": true
+    },
+    {
+        "id": "pl4038941wk3",
+        "team": 9,
+        "week": 3,
+        "position": "QB",
+        "name": "Justin Herbert",
+        "playerId": 4038941,
+        "points": 12.58,
+        "starter": true
+    },
+    {
+        "id": "pl4036133wk3",
+        "team": 9,
+        "week": 3,
+        "position": "TE",
+        "name": "T.J. Hockenson",
+        "playerId": 4036133,
+        "points": 9.3,
+        "starter": false
+    },
+    {
+        "id": "pl4567048wk3",
+        "team": 9,
+        "week": 3,
+        "position": "RB",
+        "name": "Kenneth Walker III",
+        "playerId": 4567048,
+        "points": 4.8,
+        "starter": false
+    },
+    {
+        "id": "pl4241478wk3",
+        "team": 9,
+        "week": 3,
+        "position": "WR",
+        "name": "DeVonta Smith",
+        "playerId": 4241478,
+        "points": 26.9,
+        "starter": false
+    },
+    {
+        "id": "pl4045163wk3",
+        "team": 9,
+        "week": 3,
+        "position": "RB",
+        "name": "Miles Sanders",
+        "playerId": 4045163,
+        "points": 4.9,
+        "starter": true
+    },
+    {
+        "id": "pl4361370wk3",
+        "team": 9,
+        "week": 3,
+        "position": "WR",
+        "name": "Chris Olave",
+        "playerId": 4361370,
+        "points": 19.2,
+        "starter": false
+    },
+    {
+        "id": "pl4046692wk3",
+        "team": 9,
+        "week": 3,
+        "position": "WR",
+        "name": "Chase Claypool",
+        "playerId": 4046692,
+        "points": 6.1,
+        "starter": false
+    },
+    {
+        "id": "pl-16027wk3",
+        "team": 9,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Buccaneers D/ST",
+        "playerId": -16027,
+        "points": 6,
+        "starter": true
+    },
+    {
+        "id": "pl14876wk3",
+        "team": 9,
+        "week": 3,
+        "position": "QB",
+        "name": "Ryan Tannehill",
+        "playerId": 14876,
+        "points": 18.76,
+        "starter": true
+    },
+    {
+        "id": "pl2573401wk3",
+        "team": 9,
+        "week": 3,
+        "position": "TE",
+        "name": "Tyler Higbee",
+        "playerId": 2573401,
+        "points": 8.1,
+        "starter": true
+    },
+    {
+        "id": "pl3139477wk3",
+        "team": 10,
+        "week": 3,
+        "position": "QB",
+        "name": "Patrick Mahomes",
+        "playerId": 3139477,
+        "points": 17.08,
+        "starter": true
+    },
+    {
+        "id": "pl15847wk3",
+        "team": 10,
+        "week": 3,
+        "position": "TE",
+        "name": "Travis Kelce",
+        "playerId": 15847,
+        "points": 15.9,
+        "starter": true
+    },
+    {
+        "id": "pl3929630wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Saquon Barkley",
+        "playerId": 3929630,
+        "points": 20.6,
+        "starter": true
+    },
+    {
+        "id": "pl3051392wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Ezekiel Elliott",
+        "playerId": 3051392,
+        "points": 14,
+        "starter": true
+    },
+    {
+        "id": "pl3121422wk3",
+        "team": 10,
+        "week": 3,
+        "position": "WR",
+        "name": "Terry McLaurin",
+        "playerId": 3121422,
+        "points": 13.2,
+        "starter": false
+    },
+    {
+        "id": "pl4360939wk3",
+        "team": 10,
+        "week": 3,
+        "position": "WR",
+        "name": "Rashod Bateman",
+        "playerId": 4360939,
+        "points": 4.9,
+        "starter": true
+    },
+    {
+        "id": "pl4047365wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Josh Jacobs",
+        "playerId": 4047365,
+        "points": 12.2,
+        "starter": false
+    },
+    {
+        "id": "pl3059915wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Kareem Hunt",
+        "playerId": 3059915,
+        "points": 7.6,
+        "starter": false
+    },
+    {
+        "id": "pl4426502wk3",
+        "team": 10,
+        "week": 3,
+        "position": "WR",
+        "name": "Drake London",
+        "playerId": 4426502,
+        "points": 12.9,
+        "starter": true
+    },
+    {
+        "id": "pl4567156wk3",
+        "team": 10,
+        "week": 3,
+        "position": "WR",
+        "name": "Treylon Burks",
+        "playerId": 4567156,
+        "points": 2.6,
+        "starter": false
+    },
+    {
+        "id": "pl4372016wk3",
+        "team": 10,
+        "week": 3,
+        "position": "WR",
+        "name": "Jaylen Waddle",
+        "playerId": 4372016,
+        "points": 13.1,
+        "starter": true
+    },
+    {
+        "id": "pl3915511wk3",
+        "team": 10,
+        "week": 3,
+        "position": "QB",
+        "name": "Joe Burrow",
+        "playerId": 3915511,
+        "points": 23,
+        "starter": true
+    },
+    {
+        "id": "pl4241474wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Brian Robinson",
+        "playerId": 4241474,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4373626wk3",
+        "team": 10,
+        "week": 3,
+        "position": "RB",
+        "name": "Tyler Allgeier",
+        "playerId": 4373626,
+        "points": 3.5,
+        "starter": false
+    },
+    {
+        "id": "pl4240703wk3",
+        "team": 10,
+        "week": 3,
+        "position": "QB",
+        "name": "Kenny Pickett",
+        "playerId": 4240703,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16024wk3",
+        "team": 10,
+        "week": 3,
+        "position": "D/ST",
+        "name": "Chargers D/ST",
+        "playerId": -16024,
+        "points": -6,
+        "starter": true
+    },
+    {
+        "id": "pl14881wk4",
+        "team": 1,
+        "week": 4,
+        "position": "QB",
+        "name": "Russell Wilson",
+        "playerId": 14881,
+        "points": 26.98,
+        "starter": true
+    },
+    {
+        "id": "pl3116593wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "Dalvin Cook",
+        "playerId": 3116593,
+        "points": 9.6,
+        "starter": true
+    },
+    {
+        "id": "pl4047646wk4",
+        "team": 1,
+        "week": 4,
+        "position": "WR",
+        "name": "A.J. Brown",
+        "playerId": 4047646,
+        "points": 12,
+        "starter": true
+    },
+    {
+        "id": "pl3128429wk4",
+        "team": 1,
+        "week": 4,
+        "position": "WR",
+        "name": "Courtland Sutton",
+        "playerId": 3128429,
+        "points": 13.7,
+        "starter": false
+    },
+    {
+        "id": "pl3117256wk4",
+        "team": 1,
+        "week": 4,
+        "position": "TE",
+        "name": "Dalton Schultz",
+        "playerId": 3117256,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4242214wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "Clyde Edwards-Helaire",
+        "playerId": 4242214,
+        "points": 21.9,
+        "starter": false
+    },
+    {
+        "id": "pl3126486wk4",
+        "team": 1,
+        "week": 4,
+        "position": "WR",
+        "name": "Deebo Samuel",
+        "playerId": 3126486,
+        "points": 20.7,
+        "starter": true
+    },
+    {
+        "id": "pl4040761wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "Devin Singletary",
+        "playerId": 4040761,
+        "points": 9.6,
+        "starter": true
+    },
+    {
+        "id": "pl4035687wk4",
+        "team": 1,
+        "week": 4,
+        "position": "WR",
+        "name": "Michael Pittman Jr.",
+        "playerId": 4035687,
+        "points": 4.6,
+        "starter": true
+    },
+    {
+        "id": "pl4048244wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "Alexander Mattison",
+        "playerId": 4048244,
+        "points": 8.3,
+        "starter": false
+    },
+    {
+        "id": "pl2576980wk4",
+        "team": 1,
+        "week": 4,
+        "position": "QB",
+        "name": "Marcus Mariota",
+        "playerId": 2576980,
+        "points": 3.86,
+        "starter": true
+    },
+    {
+        "id": "pl-16023wk4",
+        "team": 1,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Steelers D/ST",
+        "playerId": -16023,
+        "points": 5,
+        "starter": true
+    },
+    {
+        "id": "pl3918639wk4",
+        "team": 1,
+        "week": 4,
+        "position": "TE",
+        "name": "Gerald Everett",
+        "playerId": 3918639,
+        "points": 14.6,
+        "starter": true
+    },
+    {
+        "id": "pl3916430wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "Nyheim Hines",
+        "playerId": 3916430,
+        "points": 1.3,
+        "starter": false
+    },
+    {
+        "id": "pl3125116wk4",
+        "team": 1,
+        "week": 4,
+        "position": "RB",
+        "name": "D'Onta Foreman",
+        "playerId": 3125116,
+        "points": 0.2,
+        "starter": false
+    },
+    {
+        "id": "pl3135321wk4",
+        "team": 1,
+        "week": 4,
+        "position": "WR",
+        "name": "Hunter Renfrow",
+        "playerId": 3135321,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4040715wk4",
+        "team": 2,
+        "week": 4,
+        "position": "QB",
+        "name": "Jalen Hurts",
+        "playerId": 4040715,
+        "points": 15.96,
+        "starter": true
+    },
+    {
+        "id": "pl2976212wk4",
+        "team": 2,
+        "week": 4,
+        "position": "WR",
+        "name": "Stefon Diggs",
+        "playerId": 2976212,
+        "points": 8.2,
+        "starter": true
+    },
+    {
+        "id": "pl3116406wk4",
+        "team": 2,
+        "week": 4,
+        "position": "WR",
+        "name": "Tyreek Hill",
+        "playerId": 3116406,
+        "points": 20.9,
+        "starter": true
+    },
+    {
+        "id": "pl4239993wk4",
+        "team": 2,
+        "week": 4,
+        "position": "WR",
+        "name": "Tee Higgins",
+        "playerId": 4239993,
+        "points": 21.9,
+        "starter": true
+    },
+    {
+        "id": "pl4241479wk4",
+        "team": 2,
+        "week": 4,
+        "position": "QB",
+        "name": "Tua Tagovailoa",
+        "playerId": 4241479,
+        "points": 2.4,
+        "starter": true
+    },
+    {
+        "id": "pl4241985wk4",
+        "team": 2,
+        "week": 4,
+        "position": "RB",
+        "name": "J.K. Dobbins",
+        "playerId": 4241985,
+        "points": 20.3,
+        "starter": false
+    },
+    {
+        "id": "pl4243537wk4",
+        "team": 2,
+        "week": 4,
+        "position": "WR",
+        "name": "Gabe Davis",
+        "playerId": 4243537,
+        "points": 1.8,
+        "starter": false
+    },
+    {
+        "id": "pl4239934wk4",
+        "team": 2,
+        "week": 4,
+        "position": "RB",
+        "name": "AJ Dillon",
+        "playerId": 4239934,
+        "points": 8.9,
+        "starter": true
+    },
+    {
+        "id": "pl4361259wk4",
+        "team": 2,
+        "week": 4,
+        "position": "QB",
+        "name": "Zach Wilson",
+        "playerId": 4361259,
+        "points": 18.28,
+        "starter": false
+    },
+    {
+        "id": "pl3916148wk4",
+        "team": 2,
+        "week": 4,
+        "position": "RB",
+        "name": "Tony Pollard",
+        "playerId": 3916148,
+        "points": 1.3,
+        "starter": true
+    },
+    {
+        "id": "pl15835wk4",
+        "team": 2,
+        "week": 4,
+        "position": "TE",
+        "name": "Zach Ertz",
+        "playerId": 15835,
+        "points": 13.7,
+        "starter": true
+    },
+    {
+        "id": "pl3917792wk4",
+        "team": 2,
+        "week": 4,
+        "position": "QB",
+        "name": "Daniel Jones",
+        "playerId": 3917792,
+        "points": 21.64,
+        "starter": false
+    },
+    {
+        "id": "pl4430191wk4",
+        "team": 2,
+        "week": 4,
+        "position": "WR",
+        "name": "Skyy Moore",
+        "playerId": 4430191,
+        "points": 4.1,
+        "starter": false
+    },
+    {
+        "id": "pl3046439wk4",
+        "team": 2,
+        "week": 4,
+        "position": "TE",
+        "name": "Hunter Henry",
+        "playerId": 3046439,
+        "points": 2.3,
+        "starter": false
+    },
+    {
+        "id": "pl-16009wk4",
+        "team": 2,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Packers D/ST",
+        "playerId": -16009,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl-16012wk4",
+        "team": 2,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Chiefs D/ST",
+        "playerId": -16012,
+        "points": 3,
+        "starter": false
+    },
+    {
+        "id": "pl3068267wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "Austin Ekeler",
+        "playerId": 3068267,
+        "points": 31.9,
+        "starter": true
+    },
+    {
+        "id": "pl3116385wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "Joe Mixon",
+        "playerId": 3116385,
+        "points": 15.4,
+        "starter": true
+    },
+    {
+        "id": "pl16757wk4",
+        "team": 3,
+        "week": 4,
+        "position": "QB",
+        "name": "Derek Carr",
+        "playerId": 16757,
+        "points": 11.52,
+        "starter": true
+    },
+    {
+        "id": "pl4047650wk4",
+        "team": 3,
+        "week": 4,
+        "position": "WR",
+        "name": "DK Metcalf",
+        "playerId": 4047650,
+        "points": 18.4,
+        "starter": false
+    },
+    {
+        "id": "pl2576925wk4",
+        "team": 3,
+        "week": 4,
+        "position": "TE",
+        "name": "Darren Waller",
+        "playerId": 2576925,
+        "points": 3.9,
+        "starter": true
+    },
+    {
+        "id": "pl4241463wk4",
+        "team": 3,
+        "week": 4,
+        "position": "WR",
+        "name": "Jerry Jeudy",
+        "playerId": 4241463,
+        "points": 13.3,
+        "starter": false
+    },
+    {
+        "id": "pl4040655wk4",
+        "team": 3,
+        "week": 4,
+        "position": "WR",
+        "name": "Darnell Mooney",
+        "playerId": 4040655,
+        "points": 11.4,
+        "starter": false
+    },
+    {
+        "id": "pl2976499wk4",
+        "team": 3,
+        "week": 4,
+        "position": "WR",
+        "name": "Amari Cooper",
+        "playerId": 2976499,
+        "points": 1.4,
+        "starter": true
+    },
+    {
+        "id": "pl3925347wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "Damien Harris",
+        "playerId": 3925347,
+        "points": 14.9,
+        "starter": false
+    },
+    {
+        "id": "pl12483wk4",
+        "team": 3,
+        "week": 4,
+        "position": "QB",
+        "name": "Matthew Stafford",
+        "playerId": 12483,
+        "points": 6.76,
+        "starter": true
+    },
+    {
+        "id": "pl4052042wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "James Robinson",
+        "playerId": 4052042,
+        "points": 2.9,
+        "starter": true
+    },
+    {
+        "id": "pl2975674wk4",
+        "team": 3,
+        "week": 4,
+        "position": "TE",
+        "name": "Robert Tonyan",
+        "playerId": 2975674,
+        "points": 9.2,
+        "starter": false
+    },
+    {
+        "id": "pl-16006wk4",
+        "team": 3,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Cowboys D/ST",
+        "playerId": -16006,
+        "points": 11,
+        "starter": true
+    },
+    {
+        "id": "pl4239996wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "Travis Etienne Jr.",
+        "playerId": 4239996,
+        "points": 3.2,
+        "starter": false
+    },
+    {
+        "id": "pl3121427wk4",
+        "team": 3,
+        "week": 4,
+        "position": "WR",
+        "name": "Curtis Samuel",
+        "playerId": 3121427,
+        "points": 5.8,
+        "starter": true
+    },
+    {
+        "id": "pl3128721wk4",
+        "team": 3,
+        "week": 4,
+        "position": "RB",
+        "name": "Sony Michel",
+        "playerId": 3128721,
+        "points": 4.2,
+        "starter": false
+    },
+    {
+        "id": "pl4241457wk4",
+        "team": 4,
+        "week": 4,
+        "position": "RB",
+        "name": "Najee Harris",
+        "playerId": 4241457,
+        "points": 7.4,
+        "starter": true
+    },
+    {
+        "id": "pl3116365wk4",
+        "team": 4,
+        "week": 4,
+        "position": "TE",
+        "name": "Mark Andrews",
+        "playerId": 3116365,
+        "points": 2.5,
+        "starter": true
+    },
+    {
+        "id": "pl2977187wk4",
+        "team": 4,
+        "week": 4,
+        "position": "WR",
+        "name": "Cooper Kupp",
+        "playerId": 2977187,
+        "points": 19.2,
+        "starter": true
+    },
+    {
+        "id": "pl4035538wk4",
+        "team": 4,
+        "week": 4,
+        "position": "RB",
+        "name": "David Montgomery",
+        "playerId": 4035538,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3120348wk4",
+        "team": 4,
+        "week": 4,
+        "position": "WR",
+        "name": "JuJu Smith-Schuster",
+        "playerId": 3120348,
+        "points": 7.1,
+        "starter": true
+    },
+    {
+        "id": "pl4360294wk4",
+        "team": 4,
+        "week": 4,
+        "position": "RB",
+        "name": "Antonio Gibson",
+        "playerId": 4360294,
+        "points": 7.8,
+        "starter": true
+    },
+    {
+        "id": "pl15807wk4",
+        "team": 4,
+        "week": 4,
+        "position": "RB",
+        "name": "Cordarrelle Patterson",
+        "playerId": 15807,
+        "points": 9.8,
+        "starter": false
+    },
+    {
+        "id": "pl16460wk4",
+        "team": 4,
+        "week": 4,
+        "position": "WR",
+        "name": "Adam Thielen",
+        "playerId": 16460,
+        "points": 11.2,
+        "starter": false
+    },
+    {
+        "id": "pl3128390wk4",
+        "team": 4,
+        "week": 4,
+        "position": "WR",
+        "name": "Allen Lazard",
+        "playerId": 3128390,
+        "points": 14.6,
+        "starter": false
+    },
+    {
+        "id": "pl-16025wk4",
+        "team": 4,
+        "week": 4,
+        "position": "D/ST",
+        "name": "49ers D/ST",
+        "playerId": -16025,
+        "points": 22,
+        "starter": true
+    },
+    {
+        "id": "pl2330wk4",
+        "team": 4,
+        "week": 4,
+        "position": "QB",
+        "name": "Tom Brady",
+        "playerId": 2330,
+        "points": 25.4,
+        "starter": true
+    },
+    {
+        "id": "pl2573079wk4",
+        "team": 4,
+        "week": 4,
+        "position": "QB",
+        "name": "Carson Wentz",
+        "playerId": 2573079,
+        "points": 7.3,
+        "starter": false
+    },
+    {
+        "id": "pl3046779wk4",
+        "team": 4,
+        "week": 4,
+        "position": "QB",
+        "name": "Jared Goff",
+        "playerId": 3046779,
+        "points": 33.22,
+        "starter": true
+    },
+    {
+        "id": "pl4035886wk4",
+        "team": 4,
+        "week": 4,
+        "position": "RB",
+        "name": "Khalil Herbert",
+        "playerId": 4035886,
+        "points": 10.6,
+        "starter": true
+    },
+    {
+        "id": "pl4037235wk4",
+        "team": 4,
+        "week": 4,
+        "position": "WR",
+        "name": "Greg Dortch",
+        "playerId": 4037235,
+        "points": 1.1,
+        "starter": false
+    },
+    {
+        "id": "pl3915486wk4",
+        "team": 4,
+        "week": 4,
+        "position": "TE",
+        "name": "Tyler Conklin",
+        "playerId": 3915486,
+        "points": 6.7,
+        "starter": false
+    },
+    {
+        "id": "pl3117251wk4",
+        "team": 5,
+        "week": 4,
+        "position": "RB",
+        "name": "Christian McCaffrey",
+        "playerId": 3117251,
+        "points": 21.3,
+        "starter": true
+    },
+    {
+        "id": "pl8439wk4",
+        "team": 5,
+        "week": 4,
+        "position": "QB",
+        "name": "Aaron Rodgers",
+        "playerId": 8439,
+        "points": 16.14,
+        "starter": true
+    },
+    {
+        "id": "pl3128720wk4",
+        "team": 5,
+        "week": 4,
+        "position": "RB",
+        "name": "Nick Chubb",
+        "playerId": 3128720,
+        "points": 19.7,
+        "starter": true
+    },
+    {
+        "id": "pl3121023wk4",
+        "team": 5,
+        "week": 4,
+        "position": "TE",
+        "name": "Dallas Goedert",
+        "playerId": 3121023,
+        "points": 9.7,
+        "starter": false
+    },
+    {
+        "id": "pl3932905wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Diontae Johnson",
+        "playerId": 3932905,
+        "points": 3.2,
+        "starter": false
+    },
+    {
+        "id": "pl11237wk4",
+        "team": 5,
+        "week": 4,
+        "position": "QB",
+        "name": "Matt Ryan",
+        "playerId": 11237,
+        "points": 17.84,
+        "starter": true
+    },
+    {
+        "id": "pl16731wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Brandin Cooks",
+        "playerId": 16731,
+        "points": 15.2,
+        "starter": true
+    },
+    {
+        "id": "pl4372414wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Elijah Moore",
+        "playerId": 4372414,
+        "points": 7,
+        "starter": false
+    },
+    {
+        "id": "pl4361411wk4",
+        "team": 5,
+        "week": 4,
+        "position": "TE",
+        "name": "Pat Freiermuth",
+        "playerId": 4361411,
+        "points": 12,
+        "starter": true
+    },
+    {
+        "id": "pl2576434wk4",
+        "team": 5,
+        "week": 4,
+        "position": "RB",
+        "name": "Melvin Gordon III",
+        "playerId": 2576434,
+        "points": -1.2,
+        "starter": false
+    },
+    {
+        "id": "pl2577327wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Tyler Lockett",
+        "playerId": 2577327,
+        "points": 10.1,
+        "starter": false
+    },
+    {
+        "id": "pl4569618wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Garrett Wilson",
+        "playerId": 4569618,
+        "points": 5.1,
+        "starter": true
+    },
+    {
+        "id": "pl4371733wk4",
+        "team": 5,
+        "week": 4,
+        "position": "RB",
+        "name": "Kenneth Gainwell",
+        "playerId": 4371733,
+        "points": 8.2,
+        "starter": false
+    },
+    {
+        "id": "pl4039359wk4",
+        "team": 5,
+        "week": 4,
+        "position": "RB",
+        "name": "Darrell Henderson Jr.",
+        "playerId": 4039359,
+        "points": 5.4,
+        "starter": false
+    },
+    {
+        "id": "pl-16002wk4",
+        "team": 5,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Bills D/ST",
+        "playerId": -16002,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl4262921wk4",
+        "team": 5,
+        "week": 4,
+        "position": "WR",
+        "name": "Justin Jefferson",
+        "playerId": 4262921,
+        "points": 26,
+        "starter": true
+    },
+    {
+        "id": "pl3916387wk4",
+        "team": 6,
+        "week": 4,
+        "position": "QB",
+        "name": "Lamar Jackson",
+        "playerId": 3916387,
+        "points": 13.06,
+        "starter": true
+    },
+    {
+        "id": "pl16800wk4",
+        "team": 6,
+        "week": 4,
+        "position": "WR",
+        "name": "Davante Adams",
+        "playerId": 16800,
+        "points": 15,
+        "starter": true
+    },
+    {
+        "id": "pl3054850wk4",
+        "team": 6,
+        "week": 4,
+        "position": "RB",
+        "name": "Alvin Kamara",
+        "playerId": 3054850,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3040151wk4",
+        "team": 6,
+        "week": 4,
+        "position": "TE",
+        "name": "George Kittle",
+        "playerId": 3040151,
+        "points": 3.4,
+        "starter": true
+    },
+    {
+        "id": "pl14880wk4",
+        "team": 6,
+        "week": 4,
+        "position": "QB",
+        "name": "Kirk Cousins",
+        "playerId": 14880,
+        "points": 12.92,
+        "starter": true
+    },
+    {
+        "id": "pl4259545wk4",
+        "team": 6,
+        "week": 4,
+        "position": "RB",
+        "name": "D'Andre Swift",
+        "playerId": 4259545,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl2976316wk4",
+        "team": 6,
+        "week": 4,
+        "position": "WR",
+        "name": "Michael Thomas",
+        "playerId": 2976316,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl15795wk4",
+        "team": 6,
+        "week": 4,
+        "position": "WR",
+        "name": "DeAndre Hopkins",
+        "playerId": 15795,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4360438wk4",
+        "team": 6,
+        "week": 4,
+        "position": "WR",
+        "name": "Brandon Aiyuk",
+        "playerId": 4360438,
+        "points": 5.7,
+        "starter": true
+    },
+    {
+        "id": "pl4240657wk4",
+        "team": 6,
+        "week": 4,
+        "position": "RB",
+        "name": "Michael Carter",
+        "playerId": 4240657,
+        "points": 3.9,
+        "starter": false
+    },
+    {
+        "id": "pl3122840wk4",
+        "team": 6,
+        "week": 4,
+        "position": "QB",
+        "name": "Deshaun Watson",
+        "playerId": 3122840,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4240021wk4",
+        "team": 6,
+        "week": 4,
+        "position": "RB",
+        "name": "Cam Akers",
+        "playerId": 4240021,
+        "points": 1.3,
+        "starter": true
+    },
+    {
+        "id": "pl2980453wk4",
+        "team": 6,
+        "week": 4,
+        "position": "RB",
+        "name": "Jamaal Williams",
+        "playerId": 2980453,
+        "points": 23.4,
+        "starter": true
+    },
+    {
+        "id": "pl3123076wk4",
+        "team": 6,
+        "week": 4,
+        "position": "TE",
+        "name": "David Njoku",
+        "playerId": 3123076,
+        "points": 7.2,
+        "starter": true
+    },
+    {
+        "id": "pl3059722wk4",
+        "team": 6,
+        "week": 4,
+        "position": "WR",
+        "name": "Zay Jones",
+        "playerId": 3059722,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16011wk4",
+        "team": 6,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Colts D/ST",
+        "playerId": -16011,
+        "points": 5,
+        "starter": true
+    },
+    {
+        "id": "pl3043078wk4",
+        "team": 7,
+        "week": 4,
+        "position": "RB",
+        "name": "Derrick Henry",
+        "playerId": 3043078,
+        "points": 22.2,
+        "starter": true
+    },
+    {
+        "id": "pl4242335wk4",
+        "team": 7,
+        "week": 4,
+        "position": "RB",
+        "name": "Jonathan Taylor",
+        "playerId": 4242335,
+        "points": 2.8,
+        "starter": true
+    },
+    {
+        "id": "pl15818wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Keenan Allen",
+        "playerId": 15818,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4360248wk4",
+        "team": 7,
+        "week": 4,
+        "position": "TE",
+        "name": "Kyle Pitts",
+        "playerId": 4360248,
+        "points": 3,
+        "starter": true
+    },
+    {
+        "id": "pl3915416wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "DJ Moore",
+        "playerId": 3915416,
+        "points": 9.1,
+        "starter": true
+    },
+    {
+        "id": "pl4360310wk4",
+        "team": 7,
+        "week": 4,
+        "position": "QB",
+        "name": "Trevor Lawrence",
+        "playerId": 4360310,
+        "points": 5.66,
+        "starter": true
+    },
+    {
+        "id": "pl3116165wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Chris Godwin",
+        "playerId": 3116165,
+        "points": 9.4,
+        "starter": false
+    },
+    {
+        "id": "pl4374302wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Amon-Ra St. Brown",
+        "playerId": 4374302,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl3119195wk4",
+        "team": 7,
+        "week": 4,
+        "position": "RB",
+        "name": "Chase Edmonds",
+        "playerId": 3119195,
+        "points": 9,
+        "starter": false
+    },
+    {
+        "id": "pl3918298wk4",
+        "team": 7,
+        "week": 4,
+        "position": "QB",
+        "name": "Josh Allen",
+        "playerId": 3918298,
+        "points": 23.52,
+        "starter": true
+    },
+    {
+        "id": "pl3139925wk4",
+        "team": 7,
+        "week": 4,
+        "position": "RB",
+        "name": "Rashaad Penny",
+        "playerId": 3139925,
+        "points": 28.2,
+        "starter": false
+    },
+    {
+        "id": "pl4036348wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Michael Gallup",
+        "playerId": 4036348,
+        "points": 9.4,
+        "starter": false
+    },
+    {
+        "id": "pl3122976wk4",
+        "team": 7,
+        "week": 4,
+        "position": "RB",
+        "name": "Jeff Wilson Jr.",
+        "playerId": 3122976,
+        "points": 13.4,
+        "starter": true
+    },
+    {
+        "id": "pl4361409wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Jahan Dotson",
+        "playerId": 4361409,
+        "points": 11.8,
+        "starter": false
+    },
+    {
+        "id": "pl4361432wk4",
+        "team": 7,
+        "week": 4,
+        "position": "WR",
+        "name": "Romeo Doubs",
+        "playerId": 4361432,
+        "points": 11.2,
+        "starter": true
+    },
+    {
+        "id": "pl-16019wk4",
+        "team": 7,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Giants D/ST",
+        "playerId": -16019,
+        "points": 15,
+        "starter": true
+    },
+    {
+        "id": "pl3917315wk4",
+        "team": 8,
+        "week": 4,
+        "position": "QB",
+        "name": "Kyler Murray",
+        "playerId": 3917315,
+        "points": 22.88,
+        "starter": true
+    },
+    {
+        "id": "pl4241389wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "CeeDee Lamb",
+        "playerId": 4241389,
+        "points": 18.7,
+        "starter": true
+    },
+    {
+        "id": "pl16737wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "Mike Evans",
+        "playerId": 16737,
+        "points": 26.3,
+        "starter": true
+    },
+    {
+        "id": "pl3045147wk4",
+        "team": 8,
+        "week": 4,
+        "position": "RB",
+        "name": "James Conner",
+        "playerId": 3045147,
+        "points": 9.2,
+        "starter": true
+    },
+    {
+        "id": "pl4427366wk4",
+        "team": 8,
+        "week": 4,
+        "position": "RB",
+        "name": "Breece Hall",
+        "playerId": 4427366,
+        "points": 14.8,
+        "starter": false
+    },
+    {
+        "id": "pl16799wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "Allen Robinson II",
+        "playerId": 16799,
+        "points": 1.7,
+        "starter": false
+    },
+    {
+        "id": "pl4362628wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "Ja'Marr Chase",
+        "playerId": 4362628,
+        "points": 10.1,
+        "starter": true
+    },
+    {
+        "id": "pl4360238wk4",
+        "team": 8,
+        "week": 4,
+        "position": "RB",
+        "name": "Dameon Pierce",
+        "playerId": 4360238,
+        "points": 22.9,
+        "starter": true
+    },
+    {
+        "id": "pl4569173wk4",
+        "team": 8,
+        "week": 4,
+        "position": "RB",
+        "name": "Rhamondre Stevenson",
+        "playerId": 4569173,
+        "points": 10.9,
+        "starter": false
+    },
+    {
+        "id": "pl3895856wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "Christian Kirk",
+        "playerId": 3895856,
+        "points": 7.3,
+        "starter": false
+    },
+    {
+        "id": "pl3930086wk4",
+        "team": 8,
+        "week": 4,
+        "position": "TE",
+        "name": "Dawson Knox",
+        "playerId": 3930086,
+        "points": 5.5,
+        "starter": false
+    },
+    {
+        "id": "pl4426354wk4",
+        "team": 8,
+        "week": 4,
+        "position": "WR",
+        "name": "George Pickens",
+        "playerId": 4426354,
+        "points": 13.2,
+        "starter": false
+    },
+    {
+        "id": "pl-16021wk4",
+        "team": 8,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Eagles D/ST",
+        "playerId": -16021,
+        "points": 17,
+        "starter": true
+    },
+    {
+        "id": "pl3116389wk4",
+        "team": 8,
+        "week": 4,
+        "position": "RB",
+        "name": "Samaje Perine",
+        "playerId": 3116389,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl15864wk4",
+        "team": 8,
+        "week": 4,
+        "position": "QB",
+        "name": "Geno Smith",
+        "playerId": 15864,
+        "points": 31.7,
+        "starter": true
+    },
+    {
+        "id": "pl2468609wk4",
+        "team": 8,
+        "week": 4,
+        "position": "TE",
+        "name": "Taysom Hill",
+        "playerId": 2468609,
+        "points": 8.1,
+        "starter": true
+    },
+    {
+        "id": "pl3042519wk4",
+        "team": 9,
+        "week": 4,
+        "position": "RB",
+        "name": "Aaron Jones",
+        "playerId": 3042519,
+        "points": 13,
+        "starter": true
+    },
+    {
+        "id": "pl2577417wk4",
+        "team": 9,
+        "week": 4,
+        "position": "QB",
+        "name": "Dak Prescott",
+        "playerId": 2577417,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4361579wk4",
+        "team": 9,
+        "week": 4,
+        "position": "RB",
+        "name": "Javonte Williams",
+        "playerId": 4361579,
+        "points": 3.2,
+        "starter": true
+    },
+    {
+        "id": "pl3115364wk4",
+        "team": 9,
+        "week": 4,
+        "position": "RB",
+        "name": "Leonard Fournette",
+        "playerId": 3115364,
+        "points": 14.9,
+        "starter": true
+    },
+    {
+        "id": "pl3045138wk4",
+        "team": 9,
+        "week": 4,
+        "position": "WR",
+        "name": "Mike Williams",
+        "playerId": 3045138,
+        "points": 15.5,
+        "starter": false
+    },
+    {
+        "id": "pl4241372wk4",
+        "team": 9,
+        "week": 4,
+        "position": "WR",
+        "name": "Marquise Brown",
+        "playerId": 4241372,
+        "points": 17.8,
+        "starter": false
+    },
+    {
+        "id": "pl4038941wk4",
+        "team": 9,
+        "week": 4,
+        "position": "QB",
+        "name": "Justin Herbert",
+        "playerId": 4038941,
+        "points": 21.1,
+        "starter": true
+    },
+    {
+        "id": "pl4036133wk4",
+        "team": 9,
+        "week": 4,
+        "position": "TE",
+        "name": "T.J. Hockenson",
+        "playerId": 4036133,
+        "points": 35.9,
+        "starter": false
+    },
+    {
+        "id": "pl4567048wk4",
+        "team": 9,
+        "week": 4,
+        "position": "RB",
+        "name": "Kenneth Walker III",
+        "playerId": 4567048,
+        "points": 2.9,
+        "starter": false
+    },
+    {
+        "id": "pl4241478wk4",
+        "team": 9,
+        "week": 4,
+        "position": "WR",
+        "name": "DeVonta Smith",
+        "playerId": 4241478,
+        "points": 3.2,
+        "starter": true
+    },
+    {
+        "id": "pl4045163wk4",
+        "team": 9,
+        "week": 4,
+        "position": "RB",
+        "name": "Miles Sanders",
+        "playerId": 4045163,
+        "points": 28.6,
+        "starter": false
+    },
+    {
+        "id": "pl4361370wk4",
+        "team": 9,
+        "week": 4,
+        "position": "WR",
+        "name": "Chris Olave",
+        "playerId": 4361370,
+        "points": 14.7,
+        "starter": true
+    },
+    {
+        "id": "pl4046692wk4",
+        "team": 9,
+        "week": 4,
+        "position": "WR",
+        "name": "Chase Claypool",
+        "playerId": 4046692,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl-16027wk4",
+        "team": 9,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Buccaneers D/ST",
+        "playerId": -16027,
+        "points": -1,
+        "starter": true
+    },
+    {
+        "id": "pl14876wk4",
+        "team": 9,
+        "week": 4,
+        "position": "QB",
+        "name": "Ryan Tannehill",
+        "playerId": 14876,
+        "points": 14.38,
+        "starter": true
+    },
+    {
+        "id": "pl2573401wk4",
+        "team": 9,
+        "week": 4,
+        "position": "TE",
+        "name": "Tyler Higbee",
+        "playerId": 2573401,
+        "points": 12.3,
+        "starter": true
+    },
+    {
+        "id": "pl3139477wk4",
+        "team": 10,
+        "week": 4,
+        "position": "QB",
+        "name": "Patrick Mahomes",
+        "playerId": 3139477,
+        "points": 23.36,
+        "starter": true
+    },
+    {
+        "id": "pl15847wk4",
+        "team": 10,
+        "week": 4,
+        "position": "TE",
+        "name": "Travis Kelce",
+        "playerId": 15847,
+        "points": 19.7,
+        "starter": true
+    },
+    {
+        "id": "pl3929630wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Saquon Barkley",
+        "playerId": 3929630,
+        "points": 17.2,
+        "starter": true
+    },
+    {
+        "id": "pl3051392wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Ezekiel Elliott",
+        "playerId": 3051392,
+        "points": 9.1,
+        "starter": true
+    },
+    {
+        "id": "pl3121422wk4",
+        "team": 10,
+        "week": 4,
+        "position": "WR",
+        "name": "Terry McLaurin",
+        "playerId": 3121422,
+        "points": 2.5,
+        "starter": true
+    },
+    {
+        "id": "pl4360939wk4",
+        "team": 10,
+        "week": 4,
+        "position": "WR",
+        "name": "Rashod Bateman",
+        "playerId": 4360939,
+        "points": 3.2,
+        "starter": false
+    },
+    {
+        "id": "pl4047365wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Josh Jacobs",
+        "playerId": 4047365,
+        "points": 32,
+        "starter": false
+    },
+    {
+        "id": "pl3059915wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Kareem Hunt",
+        "playerId": 3059915,
+        "points": 7.8,
+        "starter": false
+    },
+    {
+        "id": "pl4426502wk4",
+        "team": 10,
+        "week": 4,
+        "position": "WR",
+        "name": "Drake London",
+        "playerId": 4426502,
+        "points": 2.7,
+        "starter": true
+    },
+    {
+        "id": "pl4372016wk4",
+        "team": 10,
+        "week": 4,
+        "position": "WR",
+        "name": "Jaylen Waddle",
+        "playerId": 4372016,
+        "points": 4.9,
+        "starter": true
+    },
+    {
+        "id": "pl3915511wk4",
+        "team": 10,
+        "week": 4,
+        "position": "QB",
+        "name": "Joe Burrow",
+        "playerId": 3915511,
+        "points": 20.08,
+        "starter": true
+    },
+    {
+        "id": "pl4241474wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Brian Robinson",
+        "playerId": 4241474,
+        "points": 0,
+        "starter": false
+    },
+    {
+        "id": "pl4373626wk4",
+        "team": 10,
+        "week": 4,
+        "position": "RB",
+        "name": "Tyler Allgeier",
+        "playerId": 4373626,
+        "points": 10.9,
+        "starter": false
+    },
+    {
+        "id": "pl4240703wk4",
+        "team": 10,
+        "week": 4,
+        "position": "QB",
+        "name": "Kenny Pickett",
+        "playerId": 4240703,
+        "points": 12.3,
+        "starter": false
+    },
+    {
+        "id": "pl-16024wk4",
+        "team": 10,
+        "week": 4,
+        "position": "D/ST",
+        "name": "Chargers D/ST",
+        "playerId": -16024,
+        "points": 8,
+        "starter": true
+    },
+    {
+        "id": "pl4241410wk4",
+        "team": 10,
+        "week": 4,
+        "position": "TE",
+        "name": "Jelani Woods",
+        "playerId": 4241410,
+        "points": 3.8,
+        "starter": false
+    }
+]
