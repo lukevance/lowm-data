@@ -13,7 +13,7 @@ In order to archive and provide backups of data, follow the steps below:
 
 Every active roster from a completed week can be recorded by making the following request to the ESPN API:
 
-// curl --location --request GET 'http://fantasy.espn.com/apis/v3/games/ffl/seasons/2021/segments/0/leagues/286565?view=mBoxscore&view=mMatchupScore&scoringPeriodId=18' 
+// curl --location --request GET 'http://fantasy.espn.com/apis/v3/games/ffl/seasons/{YEAR}/segments/0/leagues/286565?view=mBoxscore&view=mMatchupScore&scoringPeriodId={WEEK}' 
 
 Responses from the above request are titled after the  week requested: wk{number}.json
 
