@@ -1,4 +1,5 @@
-const sleeperDraft2021 = require('./draft/sleeper.json');
+// const sleeperDraft2021 = require('./2021/draft/sleeper.json');
+const sleeperDraft2022 = require('./2022/draft/sleeper.json');
 
 const getCompleteDraftOrder = sleeper => {
     const oddRoundArr = Object.keys(sleeper.get_draft.draft_order)
@@ -50,6 +51,7 @@ const getPicks = sleeperJSON => {
     return picks;
 };
 
-const draftBoard2021 = getPicks(sleeperDraft2021);
+// const draftBoard2021 = getPicks(sleeperDraft2021);
+const draftBoard2022 = getPicks(sleeperDraft2022);
 
-module.exports = draftBoard2021;
+module.exports = draftBoard2022;

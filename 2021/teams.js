@@ -1,4 +1,5 @@
 const weeklyRosters2021 = require('./weeklyRosters/index.js');
+
 const onlyUnique = (val, index, self) => self.indexOf(val) === index;
 
 const onlyTeams = weekJson => weekJson.teams;
