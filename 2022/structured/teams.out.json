@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "abbrev": "NUTZ",
+        "name": "Let Russ Cook Deebo's Nutz",
+        "logo": "https://www.uwkc.org/wp-content/uploads/2020/11/Russell-Wilson-Apron.jpg"
+    },
+    {
+        "id": 2,
+        "abbrev": "DEMO",
+        "name": "St Charles 69ers",
+        "logo": "https://g.espncdn.com/lm-static/logo-packs/core/Sneakerhead-ESPN/sneakerhead-02.svg"
+    },
+    {
+        "id": 3,
+        "abbrev": "JDT",
+        "name": "JC's cursed Interceptors",
+        "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_08.svg"
+    },
+    {
+        "id": 4,
+        "abbrev": "ARS",
+        "name": "Golaso King Seabass",
+        "logo": "https://karllusbec.files.wordpress.com/2012/03/arsenal-fc-logo.png"
+    },
+    {
+        "id": 5,
+        "abbrev": "DDB",
+        "name": "Cooks in the kitchen ",
+        "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/6.svg"
+    },
+    {
+        "id": 6,
+        "abbrev": "SB4L",
+        "name": "Slant Boys For Life",
+        "logo": "https://iili.io/6WQOej.png"
+    },
+    {
+        "id": 7,
+        "abbrev": "ST.B",
+        "name": "For Trevor And Ever Amon",
+        "logo": "https://www.provolove.com/static/kelce-a14a2654a01eef25c6818592bde5c904.jpg"
+    },
+    {
+        "id": 8,
+        "abbrev": "NATE",
+        "name": "La La Land",
+        "logo": "https://cdnph.upi.com/svc/sv/upi/4521587491107/2020/1/fe165ef8fe2cda96271adf44628faacc/Ravens-Lamar-Jackson-to-be-Madden-21-cover-star.jpg"
+    },
+    {
+        "id": 9,
+        "abbrev": "RS",
+        "name": "Rainbow sHERBERT",
+        "logo": "http://4.bp.blogspot.com/-JGxqdpeSPKs/ViRRmS_IEaI/AAAAAAAAAF0/6jMMKEutzBY/s1600/darth_vader1c.jpg"
+    },
+    {
+        "id": 10,
+        "abbrev": "OC",
+        "name": "The Tiger  King",
+        "logo": "https://i.redd.it/s5an7o6klnu41.jpg"
+    }
+]

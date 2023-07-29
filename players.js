@@ -1,7 +1,7 @@
 const allGamesRegularSeason = require('./playerGames');
 const teams = require('./teams');
 const draftBoard2021 = require('./draft');
-const sleeperESPNmap = require('../sleeper_espn_map.json');
+const sleeperESPNmap = require('./sleeper_espn_map.json');
 
 const onlyUnique = (val, index, self) => self.indexOf(val) === index;
 

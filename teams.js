@@ -1,10 +1,12 @@
-const weeklyRosters2021 = require('./weeklyRosters/index.js');
+// const weeklyRosters2021 = require('./2021/weeklyRosters/index.js');
+const weeklyRosters2022 = require('./2022/weeklyRosters/index.js');
 
 const onlyUnique = (val, index, self) => self.indexOf(val) === index;
 
 const onlyTeams = weekJson => weekJson.teams;
 
-const allWeeksTeams = weeklyRosters2021.regularSeason.map(wk => onlyTeams(wk)).flat(1);
+// TODO: turn this part into a function!!! 
+const allWeeksTeams = weeklyRosters2022.regularSeason.map(wk => onlyTeams(wk)).flat(1);
 const allTeamsIds = allWeeksTeams.map(team => team.id);
 const uniqueTeamIds = allTeamsIds.filter(onlyUnique);
 
