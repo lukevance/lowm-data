@@ -1,6 +1,6 @@
 const allGamesRegularSeason = require('./playerGames');
 const teams = require('./teams');
-const draftBoard2021 = require('./draft');
+const draftBoard = require('./draft');
 const sleeperESPNmap = require('./sleeper_espn_map.json');
 
 const onlyUnique = (val, index, self) => self.indexOf(val) === index;
@@ -44,6 +44,7 @@ const checkDrafted = (player, draftBoard) => {
             const initialMatches = draftBoard.filter(pick => pick.player_name === initialNameRmDots);
             return initialMatches[0] ? initialMatches[0]: null;
         } else {
+            console.log(player.name);
             // for undrafted players return no match
             return null;
         }
@@ -53,7 +54,7 @@ const checkDrafted = (player, draftBoard) => {
 const uniquePlayersWithGames = uniquePlayers.map(playerName => {
     const playerGames = allGamesRegularSeason.filter(game => game.name === playerName);
     const playerStarts = playerGames.filter(game => game.starter);
-    const playerDrafted = checkDrafted(playerGames[0], draftBoard2021);
+    const playerDrafted = checkDrafted(playerGames[0], draftBoard);
     return {
         name: playerName,
         id: playerGames[0].playerId,
@@ -72,4 +73,5 @@ const uniquePlayersWithGames = uniquePlayers.map(playerName => {
     };
 });
 
-module.exports = uniquePlayersWithGames;
+// module.exports = uniquePlayersWithGames;
+uniquePlayersWithGames();

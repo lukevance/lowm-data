@@ -54,6 +54,7 @@ const statByPosition = weekJson => {
                 // rm bloated entry array from roster obj
                 delete roster.entries;
             } else {
+                // some error (post season)
                 console.log(`week ${game.matchupPeriodId} and team ${team.id}`);
             }
             return {
@@ -78,4 +79,4 @@ const onlyPlayerGames = weekJson => {
 const regularSeasonRosters = regularSeason.map(wk => onlyPlayerGames(wk)).flat(1);
 
 module.exports = regularSeasonRosters;
-// console.log(regularSeasonRosters)
+// console.log(allWeeks);
